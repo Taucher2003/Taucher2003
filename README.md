@@ -5,8 +5,11 @@
 ### Connect with me:
 
 [<img align="left" alt="Taucher2003 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Taucher2003 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Taucher2003 | Vrox Network Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][vroxdiscord]
-
+<br>
+<br>
+[![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord&style=for-the-badge)][vroxdiscord]
 <br />
 
 ### Languages and Tools:
@@ -56,4 +59,5 @@
 
 
 [gitlab]: https://gitlab.com/Taucher2003
+[github]: https://github.com/Taucher2003
 [vroxdiscord]: https://discord.gg/vk5CpBV
