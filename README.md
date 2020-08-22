@@ -8,7 +8,8 @@
 [<img align="left" alt="Taucher2003 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Taucher2003 | Vrox Network Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][vroxdiscord]
 <br>
-<br />
+<br>
+<br>
 
 ### Languages and Tools:
 
@@ -28,6 +29,7 @@
 <a href="https://gitlab.com/Taucher2003"><img align="left" alt="GitLab" width="26px" src="https://cdn.discordapp.com/avatars/698200431117205605/06e396c824d6796e95d2c78a64e0ecbd.webp" /></a>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br>
 <br>
 <br>
 
