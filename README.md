@@ -33,6 +33,13 @@
 <br>
 <br>
 
+### Things I am part of:
+* Vrox Network (Manager)
+* Traidio Network (Administrator)
+* GΛMΞFM Discordbot (Manager)
+* LOST ROCKET Development (Developer & Support Manager)
+* ReactionRole Discordbot (Developer)
+
 ---
 <br>
 
