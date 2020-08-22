@@ -36,7 +36,7 @@
 ---
 <br>
 
- ⚡ **Recent Github Activity **
+ ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
 
