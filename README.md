@@ -32,12 +32,12 @@
 <br>
 
 ### Projects where I am part of:
-* Vrox Network (Manager)
+* Vrox Network (Manager & Leading Developer)
 * Traidio Network (Administrator)
 * GΛMΞFM TeamSpeak & Webradio (Manager & Developer of the Discordbot)
 * MarniX Developments (Founder, CTO)
 * LOST ROCKET Development (Developer & Support Manager)
-* ReactionRole Discordbot (Developer)
+* ReactionRole Discordbot (Leading Developer)
 
 <p>
  
