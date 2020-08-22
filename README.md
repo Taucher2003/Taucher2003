@@ -36,14 +36,14 @@
 ---
 <br>
 
- ⚡ Recent Github Activity 
+ ⚡ **Recent Github Activity **
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
 
- ⚡ Github Stats
+ ⚡ **Github Stats**
 
   <img align="left" alt="Taucher2003's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Taucher2003&show_icons=true&hide_border=true" />
   <br>
