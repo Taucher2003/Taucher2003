@@ -38,9 +38,7 @@
 * MarniX Developments (Founder, CTO)
 * LOST ROCKET Development (Developer & Support Manager)
 * ReactionRole Discordbot (Developer)
-
-<br>
-
+<p>
 [![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
 [![Discord](https://img.shields.io/discord/485875390976622593?color=3ed8a5&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
 [![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]
