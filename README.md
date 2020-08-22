@@ -54,10 +54,6 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2.
-3.
-4.
-5.
 <!--END_SECTION:activity-->
 
 
