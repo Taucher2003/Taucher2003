@@ -8,8 +8,6 @@
 [<img align="left" alt="Taucher2003 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Taucher2003 | Vrox Network Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][vroxdiscord]
 <br>
-<br>
-[![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord&style=for-the-badge)][vroxdiscord]
 <br />
 
 ### Languages and Tools:
@@ -34,7 +32,7 @@
 <br>
 
 ### Things I am part of:
-* Vrox Network (Manager)
+* Vrox Network (Manager) [![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord)][vroxdiscord]
 * Traidio Network (Administrator)
 * GΛMΞFM Discordbot (Manager)
 * LOST ROCKET Development (Developer & Support Manager)
