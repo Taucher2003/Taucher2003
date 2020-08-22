@@ -32,11 +32,18 @@
 <br>
 
 ### Things I am part of:
-* Vrox Network (Manager) [![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord&style=for-the-badge)][vroxdiscord]
+* Vrox Network (Manager)
 * Traidio Network (Administrator)
 * GΛMΞFM Discordbot (Manager)
 * LOST ROCKET Development (Developer & Support Manager)
 * ReactionRole Discordbot (Developer)
+
+<br>
+
+[![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
+[![Discord](https://img.shields.io/discord/485875390976622593?color=7289DA&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
+[![Discord](https://img.shields.io/discord/423385448295956491?color=7289DA&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]
+[![Discord](https://img.shields.io/discord/289819432992243712?color=7289DA&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
 
 ---
 <br>
@@ -71,3 +78,7 @@
 [gitlab]: https://gitlab.com/Taucher2003
 [github]: https://github.com/Taucher2003
 [vroxdiscord]: https://discord.gg/vk5CpBV
+[traidiodiscord]: https://discord.gg/xjFkW8a
+[gamefmdiscord]: https://discord.gg/QfG3kPM
+[lostrocketdiscord]: https://discord.gg/UPM7KkB
+[reactionroleinvite]: https://discord.com/oauth2/authorize?client_id=664849019654111233&permissions=268790848&scope=bot
