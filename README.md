@@ -32,7 +32,7 @@
 <br>
 
 ### Things I am part of:
-* Vrox Network (Manager) [![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord)][vroxdiscord]
+* Vrox Network (Manager) [![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord&style=for-the-badge)][vroxdiscord]
 * Traidio Network (Administrator)
 * GΛMΞFM Discordbot (Manager)
 * LOST ROCKET Development (Developer & Support Manager)
