@@ -54,6 +54,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. *no data available*
+3. *no data available*
+4. *no data available*
+5. *no data available*
 <!--END_SECTION:activity-->
 
 
