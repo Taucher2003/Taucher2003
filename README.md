@@ -31,19 +31,21 @@
 <br>
 <br>
 
-### Things I am part of:
+### Projects where I am part of:
 * Vrox Network (Manager)
 * Traidio Network (Administrator)
 * GΛMΞFM Discordbot (Manager)
+* MarniX Developments (Founder, CTO)
 * LOST ROCKET Development (Developer & Support Manager)
 * ReactionRole Discordbot (Developer)
 
 <br>
 
-[![Discord](https://img.shields.io/discord/482597261696696341?color=7289DA&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
-[![Discord](https://img.shields.io/discord/485875390976622593?color=7289DA&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
-[![Discord](https://img.shields.io/discord/423385448295956491?color=7289DA&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]
-[![Discord](https://img.shields.io/discord/289819432992243712?color=7289DA&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
+[![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
+[![Discord](https://img.shields.io/discord/485875390976622593?color=3ed8a5&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
+[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]
+![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord)
+[![Discord](https://img.shields.io/discord/289819432992243712?color=99beff&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
 
 ---
 <br>
