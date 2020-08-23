@@ -24,12 +24,12 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <br>
 
 ### Projects that I am part of:
-* Vrox Network (Manager & Leading Developer)
+* Vrox Network (Founder, Manager & Leading Developer)
 * Traidio Network (Administrator)
 * GΛMΞFM TeamSpeak & Webradio (Manager & Developer of the Discordbot)
 * MarniX Developments (Founder, CTO)
 * LOST ROCKET Development (Developer & Support Manager)
-* ReactionRole Discordbot (Leading Developer)
+  * ReactionRole Discordbot (Leading Developer)
 
 <p>
  
