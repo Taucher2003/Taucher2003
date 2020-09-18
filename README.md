@@ -26,7 +26,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 ### Projects that I am part of:
 * Vrox Network (Founder, Manager & Leading Developer)
 * Traidio Network (Administrator)
-* GΛMΞFM TeamSpeak & Webradio (Manager & Developer of the Discordbot)
+* ~GΛMΞFM TeamSpeak & Webradio (Manager & Developer of the Discordbot)~ (Project discontinued)
 * MarniX Developments (Founder, CTO)
 * LOST ROCKET Development (Developer & Support Manager)
   * ReactionRole Discordbot (Leading Developer)
