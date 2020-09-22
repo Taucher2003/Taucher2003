@@ -30,6 +30,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 * MarniX Developments (Founder, CTO)
 * LOST ROCKET Development (Developer & Support Manager)
   * ReactionRole Discordbot (Leading Developer)
+* Hamibot (Developer)
 
 <p>
  
@@ -38,6 +39,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 [![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]
 ![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)
 [![Discord](https://img.shields.io/discord/289819432992243712?color=99beff&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
+[![Discord](https://img.shields.io/discord/715988026479607891?color=1d67dd&label=Hamibot&logo=discord&style=flat-square)][hamibotdiscord]
 
 ---
 <br>
@@ -76,3 +78,4 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 [gamefmdiscord]: https://discord.gg/QfG3kPM
 [lostrocketdiscord]: https://discord.gg/UPM7KkB
 [reactionroleinvite]: https://discord.com/oauth2/authorize?client_id=664849019654111233&permissions=268790848&scope=bot
+[hamibotdiscord]: https://discord.gg/7QGMbuC
