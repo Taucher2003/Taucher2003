@@ -54,6 +54,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 5. *no data available*
 <!--END_SECTION:activity-->
 
+ ⚡ **My Week**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
  ⚡ **Github Stats**
 
