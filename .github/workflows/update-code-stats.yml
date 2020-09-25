@@ -3,7 +3,7 @@ name: Update stats
 on:
   schedule:
     # Runs at 12:02am CEST
-    - cron: '2 2 * * *'
+    - cron: '2 0 * * *'
   workflow_dispatch:
 
 jobs:
