@@ -8,7 +8,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 [<img align="left" alt="Taucher2003 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="Taucher2003 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Taucher2003 | Vrox Network Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][vroxdiscord]
+[<img align="left" alt="Taucher2003 | Vrox Network Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][taucherdiscord]
 <br>
 <br>
 <br>
@@ -83,6 +83,7 @@ Git Config   3 mins          ░░░░░░░░░░░░░░░░░
   <img align="left" alt="Taucher2003's Github Language Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=Taucher2003&show_icons=true&hide_border=true" />
 
 
+[taucherdiscord]: https://discord.com/users/444889694002741249
 [gitlab]: https://gitlab.com/Taucher2003
 [github]: https://github.com/Taucher2003
 [vroxdiscord]: https://discord.gg/vk5CpBV
