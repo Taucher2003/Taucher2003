@@ -30,7 +30,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 * MarniX Developments (Founder, CTO)
 * LOST ROCKET Development (Developer & Support Manager)
   * ReactionRole Discordbot (Leading Developer)
-* Hamibot (Developer)
+* Hamibot (Leading Java Developer)
 
 <p>
  
