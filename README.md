@@ -47,11 +47,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#384](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/384) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 💪 Opened PR [#383](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/383) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#13](https://github.com/jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. *no data available*
-5. *no data available*
+1. 🎉 Merged PR [#1](https://github.com/nicosammitohamibot/JavaHamibotAPI/pull/1) in [nicosammitohamibot/JavaHamibotAPI](https://github.com/nicosammitohamibot/JavaHamibotAPI)
+2. 💪 Opened PR [#1](https://github.com/nicosammitohamibot/JavaHamibotAPI/pull/1) in [nicosammitohamibot/JavaHamibotAPI](https://github.com/nicosammitohamibot/JavaHamibotAPI)
+3. 💪 Opened PR [#384](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/384) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. 💪 Opened PR [#383](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/383) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+5. 🗣 Commented on [#13](https://github.com/jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
