@@ -47,11 +47,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/JDA-Example/pull/2) in [Th3Ph4nt0m/JDA-Example](https://github.com/Th3Ph4nt0m/JDA-Example)
-2. 💪 Opened PR [#1](https://github.com/Th3Ph4nt0m/JDA-Example/pull/1) in [Th3Ph4nt0m/JDA-Example](https://github.com/Th3Ph4nt0m/JDA-Example)
-3. 🎉 Merged PR [#1](https://github.com/nicosammitohamibot/JavaHamibotAPI/pull/1) in [nicosammitohamibot/JavaHamibotAPI](https://github.com/nicosammitohamibot/JavaHamibotAPI)
-4. 💪 Opened PR [#1](https://github.com/nicosammitohamibot/JavaHamibotAPI/pull/1) in [nicosammitohamibot/JavaHamibotAPI](https://github.com/nicosammitohamibot/JavaHamibotAPI)
-5. 💪 Opened PR [#384](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/384) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. ❗️ Opened issue [#8175](https://github.com/timburgan/timburgan/issues/8175) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/JDA-Example/pull/2) in [Th3Ph4nt0m/JDA-Example](https://github.com/Th3Ph4nt0m/JDA-Example)
+3. 💪 Opened PR [#1](https://github.com/Th3Ph4nt0m/JDA-Example/pull/1) in [Th3Ph4nt0m/JDA-Example](https://github.com/Th3Ph4nt0m/JDA-Example)
+4. 🎉 Merged PR [#1](https://github.com/nicosammitohamibot/JavaHamibotAPI/pull/1) in [nicosammitohamibot/JavaHamibotAPI](https://github.com/nicosammitohamibot/JavaHamibotAPI)
+5. 💪 Opened PR [#1](https://github.com/nicosammitohamibot/JavaHamibotAPI/pull/1) in [nicosammitohamibot/JavaHamibotAPI](https://github.com/nicosammitohamibot/JavaHamibotAPI)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
