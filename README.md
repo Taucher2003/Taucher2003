@@ -47,11 +47,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8224](https://github.com/timburgan/timburgan/issues/8224) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#8222](https://github.com/timburgan/timburgan/issues/8222) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#8175](https://github.com/timburgan/timburgan/issues/8175) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/JDA-Example/pull/2) in [Th3Ph4nt0m/JDA-Example](https://github.com/Th3Ph4nt0m/JDA-Example)
-5. 💪 Opened PR [#1](https://github.com/Th3Ph4nt0m/JDA-Example/pull/1) in [Th3Ph4nt0m/JDA-Example](https://github.com/Th3Ph4nt0m/JDA-Example)
+1. ❗️ Opened issue [#8317](https://github.com/timburgan/timburgan/issues/8317) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. 🗣 Commented on [#2](https://github.com/Th3Ph4nt0m/JDA-Example/issues/2) in [Th3Ph4nt0m/JDA-Example](https://github.com/Th3Ph4nt0m/JDA-Example)
+3. ❗️ Opened issue [#8224](https://github.com/timburgan/timburgan/issues/8224) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#8222](https://github.com/timburgan/timburgan/issues/8222) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗️ Opened issue [#8175](https://github.com/timburgan/timburgan/issues/8175) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
