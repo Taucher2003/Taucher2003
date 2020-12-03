@@ -80,7 +80,22 @@ PHP        41 mins         ▓░░░░░░░░░░░░░░░░�
   <br>
   <br>
   <br>
-  <img align="left" alt="Taucher2003's Github Language Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=Taucher2003&show_icons=true&hide_border=true" />
+  
+  <br>
+  
+  <details>
+ <summary>⚡ WakaTime Stats (All Time)</summary>
+  <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/53d96858-f9a4-473d-ab90-fe937a18d346.svg" width="600px">
+  <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/514c7cf9-b341-4ea4-9f1a-c70ba3b801f1.svg" width="600px">
+  <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/14d75efe-ef68-40b3-ad2a-92e36e55fdfd.svg" width="600px">
+ </details>
+ <details>
+ <summary>⚡ WakaTime Stats (Last 30 Days)</summary>
+ <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/2bc449fd-1ebc-4fdd-84ef-cc46318983ef.svg" width="600px">
+ <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/12ab2c12-b456-4ee9-a5bd-2f167c3d3da1.svg" width="600px">
+ <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/f11db079-5513-400a-8733-dd69132e3070.svg" width="600px">
+ </details>
+ 
 
 
 [taucherdiscord]: https://discord.com/users/444889694002741249
