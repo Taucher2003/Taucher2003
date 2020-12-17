@@ -47,11 +47,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Taucher2003/Atlassian-Statuspage-API/pull/1) in [Taucher2003/Atlassian-Statuspage-API](https://github.com/Taucher2003/Atlassian-Statuspage-API)
-2. 💪 Opened PR [#1](https://github.com/Taucher2003/Atlassian-Statuspage-API/pull/1) in [Taucher2003/Atlassian-Statuspage-API](https://github.com/Taucher2003/Atlassian-Statuspage-API)
-3. 🎉 Merged PR [#1](https://github.com/Taucher2003/Taucher2003/pull/1) in [Taucher2003/Taucher2003](https://github.com/Taucher2003/Taucher2003)
-4. 💪 Opened PR [#1](https://github.com/Taucher2003/Taucher2003/pull/1) in [Taucher2003/Taucher2003](https://github.com/Taucher2003/Taucher2003)
-5. ❗️ Opened issue [#8317](https://github.com/timburgan/timburgan/issues/8317) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 💪 Opened PR [#8](https://github.com/michael-mosler/Pius-App-Gateway/pull/8) in [michael-mosler/Pius-App-Gateway](https://github.com/michael-mosler/Pius-App-Gateway)
+2. 🎉 Merged PR [#1](https://github.com/Taucher2003/Atlassian-Statuspage-API/pull/1) in [Taucher2003/Atlassian-Statuspage-API](https://github.com/Taucher2003/Atlassian-Statuspage-API)
+3. 💪 Opened PR [#1](https://github.com/Taucher2003/Atlassian-Statuspage-API/pull/1) in [Taucher2003/Atlassian-Statuspage-API](https://github.com/Taucher2003/Atlassian-Statuspage-API)
+4. 🎉 Merged PR [#1](https://github.com/Taucher2003/Taucher2003/pull/1) in [Taucher2003/Taucher2003](https://github.com/Taucher2003/Taucher2003)
+5. 💪 Opened PR [#1](https://github.com/Taucher2003/Taucher2003/pull/1) in [Taucher2003/Taucher2003](https://github.com/Taucher2003/Taucher2003)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
