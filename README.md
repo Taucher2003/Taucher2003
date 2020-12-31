@@ -47,11 +47,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+1. 💪 Opened PR [#1486](https://github.com/DV8FromTheWorld/JDA/pull/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 2. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 3. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 4. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-5. 🗣 Commented on [#1](https://github.com/nicosammitohamibot/JsHamibotAPI/issues/1) in [nicosammitohamibot/JsHamibotAPI](https://github.com/nicosammitohamibot/JsHamibotAPI)
+5. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
