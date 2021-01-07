@@ -47,10 +47,10 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/nicosammito/nicosammito/pull/1) in [nicosammito/nicosammito](https://github.com/nicosammito/nicosammito)
-2. 🗣 Commented on [#1486](https://github.com/DV8FromTheWorld/JDA/issues/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-3. 💪 Opened PR [#1486](https://github.com/DV8FromTheWorld/JDA/pull/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-4. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+1. ❗️ Opened issue [#10447](https://github.com/timburgan/timburgan/issues/10447) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. 💪 Opened PR [#1](https://github.com/nicosammito/nicosammito/pull/1) in [nicosammito/nicosammito](https://github.com/nicosammito/nicosammito)
+3. 🗣 Commented on [#1486](https://github.com/DV8FromTheWorld/JDA/issues/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+4. 💪 Opened PR [#1486](https://github.com/DV8FromTheWorld/JDA/pull/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 5. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 <!--END_SECTION:activity-->
 
