@@ -6,9 +6,9 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ### Connect with me:
 
-[<img align="left" alt="Taucher2003 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Taucher2003 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Taucher2003 | Vrox Network Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][taucherdiscord]
+[<img align="left" alt="Taucher2003 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Taucher2003 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 <br>
 <br>
 <br>
@@ -18,7 +18,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/> <img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5464c8?style=for-the-badge&logo=intellij%20idea&logoColor=white"/> <!--img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/--> <img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/atom-0aa372.svg?&style=for-the-badge&logo=atom&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> [<img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab] [<img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github] <img src="https://img.shields.io/badge/insomnia%20-5849BE.svg?&style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5464c8?style=for-the-badge&logo=intellij%20idea&logoColor=white"/> <!--img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/--> <img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/atom-0aa372.svg?&style=for-the-badge&logo=atom&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> [<img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github] [<img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab] <img src="https://img.shields.io/badge/insomnia%20-5849BE.svg?&style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/>
 <br>
 <br>
 <br>
@@ -47,10 +47,10 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10447](https://github.com/timburgan/timburgan/issues/10447) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. 💪 Opened PR [#1](https://github.com/nicosammito/nicosammito/pull/1) in [nicosammito/nicosammito](https://github.com/nicosammito/nicosammito)
-3. 🗣 Commented on [#1486](https://github.com/DV8FromTheWorld/JDA/issues/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-4. 💪 Opened PR [#1486](https://github.com/DV8FromTheWorld/JDA/pull/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+1. 💪 Opened PR [#1](https://github.com/nicosammito/nicosammito/pull/1) in [nicosammito/nicosammito](https://github.com/nicosammito/nicosammito)
+2. 🗣 Commented on [#1486](https://github.com/DV8FromTheWorld/JDA/issues/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+3. 💪 Opened PR [#1486](https://github.com/DV8FromTheWorld/JDA/pull/1486) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+4. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 5. 🗣 Commented on [#1485](https://github.com/DV8FromTheWorld/JDA/issues/1485) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 <!--END_SECTION:activity-->
 
@@ -101,7 +101,7 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 [taucherdiscord]: https://discord.com/users/444889694002741249
 [gitlab]: https://gitlab.com/Taucher2003
 [github]: https://github.com/Taucher2003
-[vroxdiscord]: https://discord.gg/vk5CpBV
+[vroxdiscord]: https://discord.gg/rCj7MeU
 [traidiodiscord]: https://discord.gg/xjFkW8a
 [gamefmdiscord]: https://discord.gg/QfG3kPM
 [lostrocketdiscord]: https://discord.gg/UPM7KkB
