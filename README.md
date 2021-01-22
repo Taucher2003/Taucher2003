@@ -49,11 +49,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m/pull/2) in [Th3Ph4nt0m/Th3Ph4nt0m](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m)
-2. 💪 Opened PR [#7](https://github.com/Serafinowy/SLogin/pull/7) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
-3. 💪 Opened PR [#6](https://github.com/Serafinowy/SLogin/pull/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
-4. 💪 Opened PR [#5](https://github.com/Serafinowy/SLogin/pull/5) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
-5. 💪 Opened PR [#7](https://github.com/nicosammito/HamiWeb/pull/7) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
+1. 💪 Opened PR [#1](https://github.com/realEntwickler/realEntwickler/pull/1) in [realEntwickler/realEntwickler](https://github.com/realEntwickler/realEntwickler)
+2. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m/pull/2) in [Th3Ph4nt0m/Th3Ph4nt0m](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m)
+3. 💪 Opened PR [#7](https://github.com/Serafinowy/SLogin/pull/7) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
+4. 💪 Opened PR [#6](https://github.com/Serafinowy/SLogin/pull/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
+5. 💪 Opened PR [#5](https://github.com/Serafinowy/SLogin/pull/5) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
