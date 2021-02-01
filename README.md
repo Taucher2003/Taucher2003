@@ -49,11 +49,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Serafinowy/SLogin/issues/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
-2. 💪 Opened PR [#1](https://github.com/realEntwickler/realEntwickler/pull/1) in [realEntwickler/realEntwickler](https://github.com/realEntwickler/realEntwickler)
-3. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m/pull/2) in [Th3Ph4nt0m/Th3Ph4nt0m](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m)
-4. 💪 Opened PR [#7](https://github.com/Serafinowy/SLogin/pull/7) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
-5. 💪 Opened PR [#6](https://github.com/Serafinowy/SLogin/pull/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
+1. ❗️ Opened issue [#11176](https://github.com/timburgan/timburgan/issues/11176) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. 🗣 Commented on [#6](https://github.com/Serafinowy/SLogin/issues/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
+3. 💪 Opened PR [#1](https://github.com/realEntwickler/realEntwickler/pull/1) in [realEntwickler/realEntwickler](https://github.com/realEntwickler/realEntwickler)
+4. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m/pull/2) in [Th3Ph4nt0m/Th3Ph4nt0m](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m)
+5. 💪 Opened PR [#7](https://github.com/Serafinowy/SLogin/pull/7) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
