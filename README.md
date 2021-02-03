@@ -49,11 +49,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4913](https://github.com/simple-icons/simple-icons/issues/4913) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#11176](https://github.com/timburgan/timburgan/issues/11176) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 🗣 Commented on [#6](https://github.com/Serafinowy/SLogin/issues/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
-4. 💪 Opened PR [#1](https://github.com/realEntwickler/realEntwickler/pull/1) in [realEntwickler/realEntwickler](https://github.com/realEntwickler/realEntwickler)
-5. 💪 Opened PR [#2](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m/pull/2) in [Th3Ph4nt0m/Th3Ph4nt0m](https://github.com/Th3Ph4nt0m/Th3Ph4nt0m)
+1. 🗣 Commented on [#4913](https://github.com/simple-icons/simple-icons/issues/4913) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Opened issue [#4913](https://github.com/simple-icons/simple-icons/issues/4913) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#11176](https://github.com/timburgan/timburgan/issues/11176) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. 🗣 Commented on [#6](https://github.com/Serafinowy/SLogin/issues/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
+5. 💪 Opened PR [#1](https://github.com/realEntwickler/realEntwickler/pull/1) in [realEntwickler/realEntwickler](https://github.com/realEntwickler/realEntwickler)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
