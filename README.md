@@ -49,11 +49,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/NamelessMC/Nameless-Link/pull/94) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
-2. 🗣 Commented on [#4913](https://github.com/simple-icons/simple-icons/issues/4913) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Opened issue [#4913](https://github.com/simple-icons/simple-icons/issues/4913) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. ❗️ Opened issue [#11176](https://github.com/timburgan/timburgan/issues/11176) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. 🗣 Commented on [#6](https://github.com/Serafinowy/SLogin/issues/6) in [Serafinowy/SLogin](https://github.com/Serafinowy/SLogin)
+1. 💪 Opened PR [#97](https://github.com/NamelessMC/Nameless-Link/pull/97) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+2. 💪 Opened PR [#96](https://github.com/NamelessMC/Nameless-Link/pull/96) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+3. 💪 Opened PR [#95](https://github.com/NamelessMC/Nameless-Link/pull/95) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+4. 💪 Opened PR [#94](https://github.com/NamelessMC/Nameless-Link/pull/94) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+5. 🗣 Commented on [#4913](https://github.com/simple-icons/simple-icons/issues/4913) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
