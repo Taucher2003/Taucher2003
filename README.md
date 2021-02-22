@@ -49,11 +49,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/nicosammito/HamiWeb/pull/17) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
-2. ❗️ Opened issue [#11375](https://github.com/timburgan/timburgan/issues/11375) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 💪 Opened PR [#14](https://github.com/NamelessMC/Nameless-Java-API/pull/14) in [NamelessMC/Nameless-Java-API](https://github.com/NamelessMC/Nameless-Java-API)
-4. 🗣 Commented on [#99](https://github.com/NamelessMC/Nameless-Link/issues/99) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
-5. ❗️ Opened issue [#101](https://github.com/NamelessMC/Nameless-Link/issues/101) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+1. 💪 Opened PR [#21](https://github.com/nicosammito/HamiWeb/pull/21) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
+2. 💪 Opened PR [#17](https://github.com/nicosammito/HamiWeb/pull/17) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
+3. ❗️ Opened issue [#11375](https://github.com/timburgan/timburgan/issues/11375) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. 💪 Opened PR [#14](https://github.com/NamelessMC/Nameless-Java-API/pull/14) in [NamelessMC/Nameless-Java-API](https://github.com/NamelessMC/Nameless-Java-API)
+5. 🗣 Commented on [#99](https://github.com/NamelessMC/Nameless-Link/issues/99) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
