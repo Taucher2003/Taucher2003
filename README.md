@@ -6,9 +6,9 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ### Connect with me:
 
-[<img align="left" alt="Taucher2003 | Vrox Network Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][taucherdiscord]
-[<img align="left" alt="Taucher2003 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Taucher2003 | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img src="https://img.shields.io/badge/Taucher2003%231578-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>][taucherdiscord] 
+[<img src="https://img.shields.io/badge/Taucher2003-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
+[<img src="https://img.shields.io/badge/Taucher2003-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
 <br>
 <br>
 <br>
