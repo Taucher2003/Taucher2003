@@ -26,22 +26,23 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <br>
 
 ### Projects that I am part of:
-* Vrox Network (Founder, Manager & Leading Developer)
-* Traidio Network (Administrator)
-* ~GΛMΞFM TeamSpeak & Webradio (Manager & Developer of the Discordbot)~ (Project discontinued)
-* MarniX Developments (Founder, CTO)
-* LOST ROCKET Development (Developer & Support Manager)
-  * ReactionRole Discordbot (Leading Developer)
-* Hamibot (Leading Developer)
+| Project | Position | Timespan |
+|---------|----------|----------|
+| Vrox Network | Founder, Manager & Leading Developer | since 01.07.2018 |
+| Traidio Network | Administrator | since 17.04.2019 |
+| ~GΛMΞFM TeamSpeak & Webradio~ (Project discontinued) | ~Manager & Developer of the Discordbot~ | 16.06.2018 - 30.08.2020 |
+| MarniX Developments | Founder, CTO | since 03.08.2020 |
+| LOST ROCKET Development <p>● ReactionRole Discordbot | Developer & Support Manager<p> Leading Developer | since 30.01.2020 <p> since 30.01.2020 |
+| ~Hamibot~ (Team left) | ~Developer~ | 22.09.2020 - 07.03.2021 |
 
 <p>
  
 [![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
 [![Discord](https://img.shields.io/discord/485875390976622593?color=fafafa&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
-[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]
+<!--[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]-->
 ![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)
 [![Discord](https://img.shields.io/discord/289819432992243712?color=99beff&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
-[![Discord](https://img.shields.io/discord/715988026479607891?color=1d67dd&label=Hamibot&logo=discord&style=flat-square)][hamibotdiscord]
+<!--[![Discord](https://img.shields.io/discord/715988026479607891?color=1d67dd&label=Hamibot&logo=discord&style=flat-square)][hamibotdiscord]-->
 
 ---
 <br>
