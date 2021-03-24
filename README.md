@@ -51,11 +51,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/nicosammito/HamiWeb/issues/23) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
+1. 🗣 Commented on [#612](https://github.com/top-gg/issues/issues/612) in [top-gg/issues](https://github.com/top-gg/issues)
 2. 🗣 Commented on [#23](https://github.com/nicosammito/HamiWeb/issues/23) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
 3. 🗣 Commented on [#23](https://github.com/nicosammito/HamiWeb/issues/23) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
-4. 💪 Opened PR [#21](https://github.com/nicosammito/HamiWeb/pull/21) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
-5. 💪 Opened PR [#17](https://github.com/nicosammito/HamiWeb/pull/17) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
+4. 🗣 Commented on [#23](https://github.com/nicosammito/HamiWeb/issues/23) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
+5. 💪 Opened PR [#21](https://github.com/nicosammito/HamiWeb/pull/21) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
