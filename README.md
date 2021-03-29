@@ -52,11 +52,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/ManuInDenWolken/Hello-World-collection/pull/21) in [ManuInDenWolken/Hello-World-collection](https://github.com/ManuInDenWolken/Hello-World-collection)
-2. 🗣 Commented on [#612](https://github.com/top-gg/issues/issues/612) in [top-gg/issues](https://github.com/top-gg/issues)
-3. 🗣 Commented on [#23](https://github.com/nicosammito/HamiWeb/issues/23) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
-4. 🗣 Commented on [#23](https://github.com/nicosammito/HamiWeb/issues/23) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
-5. 🗣 Commented on [#23](https://github.com/nicosammito/HamiWeb/issues/23) in [nicosammito/HamiWeb](https://github.com/nicosammito/HamiWeb)
+1. 🗣 Commented on [#2](https://github.com/Taucher2003/T2003-Logger/issues/2) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+2. ❗️ Opened issue [#3](https://github.com/Taucher2003/T2003-Logger/issues/3) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+3. ❗️ Opened issue [#2](https://github.com/Taucher2003/T2003-Logger/issues/2) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+4. 💪 Opened PR [#21](https://github.com/ManuInDenWolken/Hello-World-collection/pull/21) in [ManuInDenWolken/Hello-World-collection](https://github.com/ManuInDenWolken/Hello-World-collection)
+5. 🗣 Commented on [#612](https://github.com/top-gg/issues/issues/612) in [top-gg/issues](https://github.com/top-gg/issues)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
