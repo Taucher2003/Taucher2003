@@ -52,11 +52,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Taucher2003/T2003-Logger/issues/7) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-2. 🎉 Merged PR [#11](https://github.com/Taucher2003/T2003-Logger/pull/11) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-3. ❗️ Closed issue [#8](https://github.com/Taucher2003/T2003-Logger/issues/8) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-4. 💪 Opened PR [#11](https://github.com/Taucher2003/T2003-Logger/pull/11) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-5. ❗️ Closed issue [#2](https://github.com/Taucher2003/T2003-Logger/issues/2) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+1. 💪 Opened PR [#12](https://github.com/Taucher2003/T2003-Logger/pull/12) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+2. 🗣 Commented on [#7](https://github.com/Taucher2003/T2003-Logger/issues/7) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+3. 🎉 Merged PR [#11](https://github.com/Taucher2003/T2003-Logger/pull/11) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+4. ❗️ Closed issue [#8](https://github.com/Taucher2003/T2003-Logger/issues/8) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+5. 💪 Opened PR [#11](https://github.com/Taucher2003/T2003-Logger/pull/11) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
