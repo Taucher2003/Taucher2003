@@ -28,11 +28,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 ### Projects that I am part of:
 | Project | Position | Timespan |
 |---------|----------|----------|
+| ~GΛMΞFM TeamSpeak & Webradio~ <br>*(Project discontinued)* | ~Manager & Developer of the Discordbot~ | 16.06.2018 - 30.08.2020 |
 | Vrox Network | Founder, Manager & Leading Developer | since 01.07.2018 |
 | Traidio Network | Administrator | since 17.04.2019 |
-| ~GΛMΞFM TeamSpeak & Webradio~ <br>*(Project discontinued)* | ~Manager & Developer of the Discordbot~ | 16.06.2018 - 30.08.2020 |
-| MarniX Developments | Founder, CTO | since 03.08.2020 |
 | LOST ROCKET Development <p>● ReactionRole Discordbot | Developer & Support Manager<p> Leading Developer | since 30.01.2020 <p> since 30.01.2020 |
+| MarniX Developments | Founder, CTO | since 03.08.2020 |
 | ~Hamibot~ <br>*(Team left)* | ~Developer~ | 22.09.2020 - 07.03.2021 |
 | NotABot | Developer | since 07.03.2021 |
 
