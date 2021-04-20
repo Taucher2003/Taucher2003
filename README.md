@@ -38,7 +38,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 <p>
  
-[![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
+[![Discord](https://img.shields.io/discord/758702426248970270?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
 [![Discord](https://img.shields.io/discord/485875390976622593?color=fafafa&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
 <!--[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]-->
 ![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)
