@@ -52,11 +52,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#163](https://github.com/devcordde/DevcordBot/pull/163) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
-2. 💪 Opened PR [#1](https://github.com/RainbowDashLabs/BasicSQLPlugin/pull/1) in [RainbowDashLabs/BasicSQLPlugin](https://github.com/RainbowDashLabs/BasicSQLPlugin)
-3. ❗️ Opened issue [#18](https://github.com/Taucher2003/T2003-Logger/issues/18) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-4. ❗️ Opened issue [#17](https://github.com/Taucher2003/T2003-Logger/issues/17) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-5. ❗️ Opened issue [#16](https://github.com/Taucher2003/T2003-Logger/issues/16) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+1. 🎉 Merged PR [#1](https://github.com/Taucher2003/DevcordBot/pull/1) in [Taucher2003/DevcordBot](https://github.com/Taucher2003/DevcordBot)
+2. 💪 Opened PR [#1](https://github.com/Taucher2003/DevcordBot/pull/1) in [Taucher2003/DevcordBot](https://github.com/Taucher2003/DevcordBot)
+3. 💪 Opened PR [#163](https://github.com/devcordde/DevcordBot/pull/163) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
+4. 💪 Opened PR [#1](https://github.com/RainbowDashLabs/BasicSQLPlugin/pull/1) in [RainbowDashLabs/BasicSQLPlugin](https://github.com/RainbowDashLabs/BasicSQLPlugin)
+5. ❗️ Opened issue [#18](https://github.com/Taucher2003/T2003-Logger/issues/18) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
