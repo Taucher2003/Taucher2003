@@ -52,11 +52,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1611](https://github.com/DV8FromTheWorld/JDA/issues/1611) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-2. 🎉 Merged PR [#1](https://github.com/Taucher2003/DevcordBot/pull/1) in [Taucher2003/DevcordBot](https://github.com/Taucher2003/DevcordBot)
-3. 💪 Opened PR [#1](https://github.com/Taucher2003/DevcordBot/pull/1) in [Taucher2003/DevcordBot](https://github.com/Taucher2003/DevcordBot)
-4. 💪 Opened PR [#163](https://github.com/devcordde/DevcordBot/pull/163) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
-5. 💪 Opened PR [#1](https://github.com/RainbowDashLabs/BasicSQLPlugin/pull/1) in [RainbowDashLabs/BasicSQLPlugin](https://github.com/RainbowDashLabs/BasicSQLPlugin)
+1. 🗣 Commented on [#153](https://github.com/grafana/grafana-polystat-panel/issues/153) in [grafana/grafana-polystat-panel](https://github.com/grafana/grafana-polystat-panel)
+2. ❗️ Opened issue [#1611](https://github.com/DV8FromTheWorld/JDA/issues/1611) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+3. 🎉 Merged PR [#1](https://github.com/Taucher2003/DevcordBot/pull/1) in [Taucher2003/DevcordBot](https://github.com/Taucher2003/DevcordBot)
+4. 💪 Opened PR [#1](https://github.com/Taucher2003/DevcordBot/pull/1) in [Taucher2003/DevcordBot](https://github.com/Taucher2003/DevcordBot)
+5. 💪 Opened PR [#163](https://github.com/devcordde/DevcordBot/pull/163) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
