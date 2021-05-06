@@ -52,11 +52,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/grafana/grafana-polystat-panel/issues/153) in [grafana/grafana-polystat-panel](https://github.com/grafana/grafana-polystat-panel)
-2. 💪 Opened PR [#1](https://github.com/RainbowDashLabs/cjda-util/pull/1) in [RainbowDashLabs/cjda-util](https://github.com/RainbowDashLabs/cjda-util)
-3. 🗣 Commented on [#153](https://github.com/grafana/grafana-polystat-panel/issues/153) in [grafana/grafana-polystat-panel](https://github.com/grafana/grafana-polystat-panel)
-4. ❗️ Opened issue [#1611](https://github.com/DV8FromTheWorld/JDA/issues/1611) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-5. 🎉 Merged PR [#1](https://github.com/Taucher2003/DevcordBot/pull/1) in [Taucher2003/DevcordBot](https://github.com/Taucher2003/DevcordBot)
+1. 💪 Opened PR [#170](https://github.com/devcordde/DevcordBot/pull/170) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
+2. 🗣 Commented on [#153](https://github.com/grafana/grafana-polystat-panel/issues/153) in [grafana/grafana-polystat-panel](https://github.com/grafana/grafana-polystat-panel)
+3. 💪 Opened PR [#1](https://github.com/RainbowDashLabs/cjda-util/pull/1) in [RainbowDashLabs/cjda-util](https://github.com/RainbowDashLabs/cjda-util)
+4. 🗣 Commented on [#153](https://github.com/grafana/grafana-polystat-panel/issues/153) in [grafana/grafana-polystat-panel](https://github.com/grafana/grafana-polystat-panel)
+5. ❗️ Opened issue [#1611](https://github.com/DV8FromTheWorld/JDA/issues/1611) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
