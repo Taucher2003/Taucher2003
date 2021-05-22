@@ -52,11 +52,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/RainbowDashLabs/reputation-bot/pull/28) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 💪 Opened PR [#19](https://github.com/Taucher2003/T2003-Logger/pull/19) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-3. ❗️ Opened issue [#174](https://github.com/devcordde/DevcordBot/issues/174) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
-4. 💪 Opened PR [#170](https://github.com/devcordde/DevcordBot/pull/170) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
-5. 🗣 Commented on [#153](https://github.com/grafana/grafana-polystat-panel/issues/153) in [grafana/grafana-polystat-panel](https://github.com/grafana/grafana-polystat-panel)
+1. 🎉 Merged PR [#19](https://github.com/Taucher2003/T2003-Logger/pull/19) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+2. 💪 Opened PR [#28](https://github.com/RainbowDashLabs/reputation-bot/pull/28) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 💪 Opened PR [#19](https://github.com/Taucher2003/T2003-Logger/pull/19) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+4. ❗️ Opened issue [#174](https://github.com/devcordde/DevcordBot/issues/174) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
+5. 💪 Opened PR [#170](https://github.com/devcordde/DevcordBot/pull/170) in [devcordde/DevcordBot](https://github.com/devcordde/DevcordBot)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
