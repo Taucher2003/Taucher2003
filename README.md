@@ -74,7 +74,7 @@ Other    33 mins         █▒░░░░░░░░░░░░░░░░�
 
  ⚡ **Github Stats**
 
-  <img align="left" alt="Taucher2003's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Taucher2003&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Taucher2003's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Taucher2003&count_private=true&show_icons=true&hide_border=true" />
   <br>
   <br>
   <br>
