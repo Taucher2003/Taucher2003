@@ -52,11 +52,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Taucher2003/date-difference-action/pull/9) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-2. ❗️ Opened issue [#8](https://github.com/Taucher2003/date-difference-action/issues/8) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-3. 🗣 Commented on [#1](https://github.com/Taucher2003/date-difference-action/issues/1) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-4. ❗️ Closed issue [#5](https://github.com/Taucher2003/date-difference-action/issues/5) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-5. 🎉 Merged PR [#7](https://github.com/Taucher2003/date-difference-action/pull/7) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+1. ❗️ Opened issue [#10](https://github.com/Taucher2003/date-difference-action/issues/10) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 💪 Opened PR [#9](https://github.com/Taucher2003/date-difference-action/pull/9) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+3. ❗️ Opened issue [#8](https://github.com/Taucher2003/date-difference-action/issues/8) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+4. 🗣 Commented on [#1](https://github.com/Taucher2003/date-difference-action/issues/1) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+5. ❗️ Closed issue [#5](https://github.com/Taucher2003/date-difference-action/issues/5) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
