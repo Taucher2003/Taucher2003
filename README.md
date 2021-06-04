@@ -27,7 +27,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ### Certifications
 
-<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png">
+<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png" height="150px">
 
 ### Projects that I am part of:
 | Project | Position | Timespan |
