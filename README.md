@@ -27,7 +27,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ### Certifications
 
-<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png" height="150px">
+[<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png" height="150px">][gitlab-certified-associate]
 <br>
 <br>
 
@@ -119,3 +119,5 @@ Kotlin   49 mins         █░░░░░░░░░░░░░░░░░�
 [reactionroleinvite]: https://discord.com/oauth2/authorize?client_id=664849019654111233&permissions=268790848&scope=bot
 [hamibotdiscord]: https://discord.gg/7QGMbuC
 [notabotdiscord]: https://discord.gg/CSCYeNfA77
+
+[gitlab-certified-associate]: https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam
