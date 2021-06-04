@@ -1,4 +1,4 @@
-name: GitHub - Activity - Readme
+name: Hourly README Updater
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  activity:
     name: Updates the repo's README with lastest activities
     runs-on: ubuntu-latest
     steps:

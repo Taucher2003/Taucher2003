@@ -1,4 +1,4 @@
-name: Update stats
+name: Daily README Updater
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  waka:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
@@ -16,3 +16,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN}}
           SHOW_TITLE: false
           COMMIT_MESSAGE: ⚡ Updated Weekly Coding Stats
+  timespans:
+    name: Update Readme with current timespans
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Taucher2003/date-difference-action@master
+        with:
+          COMMIT_MESSAGE: ⏰ Updated time differences
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          1: ${{ secrets.BIRTHDAY }}
