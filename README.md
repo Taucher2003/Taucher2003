@@ -58,11 +58,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/RainbowDashLabs/reputation-bot/pull/86) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 🗣 Commented on [#101](https://github.com/NamelessMC/Nameless-Link/issues/101) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
-3. 💪 Opened PR [#67](https://github.com/RainbowDashLabs/reputation-bot/pull/67) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 🎉 Merged PR [#14](https://github.com/Taucher2003/date-difference-action/pull/14) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-5. 🎉 Merged PR [#15](https://github.com/Taucher2003/date-difference-action/pull/15) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+1. 🎉 Merged PR [#21](https://github.com/Taucher2003/date-difference-action/pull/21) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 💪 Opened PR [#86](https://github.com/RainbowDashLabs/reputation-bot/pull/86) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 🗣 Commented on [#101](https://github.com/NamelessMC/Nameless-Link/issues/101) in [NamelessMC/Nameless-Link](https://github.com/NamelessMC/Nameless-Link)
+4. 💪 Opened PR [#67](https://github.com/RainbowDashLabs/reputation-bot/pull/67) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 🎉 Merged PR [#14](https://github.com/Taucher2003/date-difference-action/pull/14) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
 <!--END_SECTION:activity-->
 
  ⚡ **My Week**
