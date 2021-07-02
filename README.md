@@ -41,16 +41,21 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 | MarniX Developments | Founder, CTO | since 03.08.2020 |
 | ~Hamibot~ <br>*(Team left)* | ~Developer~ | 22.09.2020 - 07.03.2021 |
 | NotABot | Developer | since 07.03.2021 |
+| Reputation Bot | Collaborator | since 30.06.2021 |
 
 <p>
  
 [![Discord](https://img.shields.io/discord/758702426248970270?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
 [![Discord](https://img.shields.io/discord/485875390976622593?color=fafafa&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
-<!--[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]-->
 ![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)
 [![Discord](https://img.shields.io/discord/289819432992243712?color=99beff&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
 [![Discord](https://img.shields.io/discord/803679267303981056?color=c32047&label=NotABot&logo=discord&style=flat-square)][notabotdiscord]
+[![Discord](https://img.shields.io/discord/853250161915985958?color=fdb846&label=Reputation%20Bot&logo=discord&style=flat-square)][reputationbotdiscord]
+ 
+<!-- DEPRECATED SHIELDS -->
+<!--[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]-->
 <!--[![Discord](https://img.shields.io/discord/715988026479607891?color=1d67dd&label=Hamibot&logo=discord&style=flat-square)][hamibotdiscord]-->
+ 
 
 ---
 <br>
@@ -119,5 +124,6 @@ SQL      1 hr 6 mins     █▒░░░░░░░░░░░░░░░░�
 [reactionroleinvite]: https://discord.com/oauth2/authorize?client_id=664849019654111233&permissions=268790848&scope=bot
 [hamibotdiscord]: https://discord.gg/7QGMbuC
 [notabotdiscord]: https://discord.gg/CSCYeNfA77
+[reputationbotdiscord]: https://discord.gg/wrqrUJGuru
 
 [gitlab-certified-associate]: https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam
