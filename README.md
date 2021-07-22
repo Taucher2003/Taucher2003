@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 <!--START_SECTION:waka-->
 ```text
-Java       27 hrs 16 mins  ██████████████████▒░░░░░░   73.48 % 
-YAML       2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-XML        2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Text       1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Markdown   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Java       24 hrs 21 mins  ███████████████████▓░░░░░   78.31 % 
+YAML       1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+XML        1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Text       1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Markdown   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 <!--END_SECTION:waka-->
 
