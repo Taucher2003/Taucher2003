@@ -40,7 +40,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 | LOST ROCKET Development <p>● ReactionRole Discordbot | Developer & Support Manager<p> Leading Developer | since 30.01.2020 <p> since 30.01.2020 |
 | MarniX Developments | Founder, CTO | since 03.08.2020 |
 | ~Hamibot~ <br>*(Team left)* | ~Developer~ | 22.09.2020 - 07.03.2021 |
-| NotABot | Developer | since 07.03.2021 |
+| NotABot | System Administrator & DevOps Engineer | since 07.03.2021 |
 | Reputation Bot | Collaborator | since 30.06.2021 |
 
 <p>
