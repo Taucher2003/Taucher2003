@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#32](https://github.com/Taucher2003/Appenders/pull/32) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-2. 👍 Approved [#32](https://github.com/Taucher2003/Appenders/pull/32#pullrequestreview-720497815) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. 👍 Approved [#143](https://github.com/RainbowDashLabs/reputation-bot/pull/143#pullrequestreview-719671523) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 🔴 Requested changes in [#143](https://github.com/RainbowDashLabs/reputation-bot/pull/143#pullrequestreview-719665227) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 🔴 Requested changes in [#143](https://github.com/RainbowDashLabs/reputation-bot/pull/143#pullrequestreview-719665227) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 💪 Opened PR [#34](https://github.com/Taucher2003/Appenders/pull/34) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+2. ❗️ Opened issue [#33](https://github.com/Taucher2003/Appenders/issues/33) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+3. 🎉 Merged PR [#32](https://github.com/Taucher2003/Appenders/pull/32) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+4. 👍 Approved [#32](https://github.com/Taucher2003/Appenders/pull/32#pullrequestreview-720497815) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. 👍 Approved [#143](https://github.com/RainbowDashLabs/reputation-bot/pull/143#pullrequestreview-719671523) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
