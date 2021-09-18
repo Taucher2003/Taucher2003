@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/Taucher2003/IntelliJ-GitLab-Integration/pull/1) in [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
-2. 📔 Created new repository [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
-3. 🎉 Merged PR [#55](https://github.com/Taucher2003/Appenders/pull/55) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. ❗️ Opened issue [#65](https://github.com/Taucher2003/Appenders/issues/65) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 🎉 Merged PR [#63](https://github.com/Taucher2003/Appenders/pull/63) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. ❌ Closed PR [#1](https://github.com/Taucher2003/IntelliJ-GitLab-Integration/pull/1) in [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
+2. 💪 Opened PR [#1](https://github.com/Taucher2003/IntelliJ-GitLab-Integration/pull/1) in [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
+3. 📔 Created new repository [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
+4. 🎉 Merged PR [#55](https://github.com/Taucher2003/Appenders/pull/55) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. ❗️ Opened issue [#65](https://github.com/Taucher2003/Appenders/issues/65) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
