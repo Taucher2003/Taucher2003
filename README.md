@@ -16,7 +16,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 ### Languages & Tools
 
 <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/> <img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/> <!--img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/--> <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/> <!--img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/--> <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <!--img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/--> <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
@@ -38,21 +38,21 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 | Vrox Network | Founder, Manager & Leading Developer | since 01.07.2018 |
 | Traidio Network | Administrator | since 17.04.2019 |
 | LOST ROCKET Development <p>● ReactionRole Discordbot | Developer & Support Manager<p> Leading Developer | since 30.01.2020 <p> since 30.01.2020 |
-| MarniX Developments | Founder, CTO | since 03.08.2020 |
 | ~Hamibot~ <br>*(Team left)* | ~Developer~ | 22.09.2020 - 07.03.2021 |
 | NotABot | System Administrator & DevOps Engineer | since 07.03.2021 |
 | Reputation Bot | Collaborator | since 30.06.2021 |
+<!--| MarniX Developments | Founder, CTO | since 03.08.2020 |-->
 
 <p>
  
 [![Discord](https://img.shields.io/discord/758702426248970270?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
 [![Discord](https://img.shields.io/discord/485875390976622593?color=fafafa&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
-![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)
 [![Discord](https://img.shields.io/discord/289819432992243712?color=99beff&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
 [![Discord](https://img.shields.io/discord/803679267303981056?color=c32047&label=NotABot&logo=discord&style=flat-square)][notabotdiscord]
 [![Discord](https://img.shields.io/discord/853250161915985958?color=fdb846&label=Reputation%20Bot&logo=discord&style=flat-square)][reputationbotdiscord]
  
 <!-- DEPRECATED SHIELDS -->
+<!--![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)-->
 <!--[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]-->
 <!--[![Discord](https://img.shields.io/discord/715988026479607891?color=1d67dd&label=Hamibot&logo=discord&style=flat-square)][hamibotdiscord]-->
  
