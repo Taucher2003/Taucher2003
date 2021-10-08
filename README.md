@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#69](https://github.com/Taucher2003/Appenders/pull/69) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-2. 👍 Approved [#69](https://github.com/Taucher2003/Appenders/pull/69#pullrequestreview-773174127) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. 🎉 Merged PR [#25](https://github.com/Taucher2003/date-difference-action/pull/25) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-4. 👍 Approved [#25](https://github.com/Taucher2003/date-difference-action/pull/25#pullrequestreview-773172355) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-5. ❗️ Opened issue [#1158](https://github.com/danger/danger-js/issues/1158) in [danger/danger-js](https://github.com/danger/danger-js)
+1. 🎉 Merged PR [#26](https://github.com/Taucher2003/date-difference-action/pull/26) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 👍 Approved [#26](https://github.com/Taucher2003/date-difference-action/pull/26#pullrequestreview-775284797) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+3. 🔴 Requested changes in [#165](https://github.com/RainbowDashLabs/reputation-bot/pull/165#pullrequestreview-775280581) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 🔴 Requested changes in [#165](https://github.com/RainbowDashLabs/reputation-bot/pull/165#pullrequestreview-775280581) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#164](https://github.com/RainbowDashLabs/reputation-bot/pull/164#pullrequestreview-775276613) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
