@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#26](https://github.com/Taucher2003/date-difference-action/pull/26) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-2. 👍 Approved [#26](https://github.com/Taucher2003/date-difference-action/pull/26#pullrequestreview-775284797) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-3. 🔴 Requested changes in [#165](https://github.com/RainbowDashLabs/reputation-bot/pull/165#pullrequestreview-775280581) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 🔴 Requested changes in [#165](https://github.com/RainbowDashLabs/reputation-bot/pull/165#pullrequestreview-775280581) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 👍 Approved [#164](https://github.com/RainbowDashLabs/reputation-bot/pull/164#pullrequestreview-775276613) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 🎉 Merged PR [#27](https://github.com/Taucher2003/date-difference-action/pull/27) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 👍 Approved [#27](https://github.com/Taucher2003/date-difference-action/pull/27#pullrequestreview-775491818) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+3. 👍 Approved [#166](https://github.com/RainbowDashLabs/reputation-bot/pull/166#pullrequestreview-775491613) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#165](https://github.com/RainbowDashLabs/reputation-bot/pull/165#pullrequestreview-775482647) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 🎉 Merged PR [#26](https://github.com/Taucher2003/date-difference-action/pull/26) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
