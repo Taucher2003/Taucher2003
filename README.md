@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Taucher2003/adventofcode-21](https://github.com/Taucher2003/adventofcode-21) from [devcordde/adventofcode-21](https://github.com/devcordde/adventofcode-21)
-2. ❌ Closed PR [#26](https://github.com/devcordde/devmarkt-backend/pull/26) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. ❗️ Opened issue [#28](https://github.com/devcordde/devmarkt-backend/issues/28) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 💪 Opened PR [#24](https://github.com/devcordde/devmarkt-backend/pull/24) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 🎉 Merged PR [#80](https://github.com/Taucher2003/Appenders/pull/80) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 💪 Opened PR [#7](https://github.com/devcordde/adventofcode-21/pull/7) in [devcordde/adventofcode-21](https://github.com/devcordde/adventofcode-21)
+2. 🔱 Forked [Taucher2003/adventofcode-21](https://github.com/Taucher2003/adventofcode-21) from [devcordde/adventofcode-21](https://github.com/devcordde/adventofcode-21)
+3. ❌ Closed PR [#26](https://github.com/devcordde/devmarkt-backend/pull/26) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. ❗️ Opened issue [#28](https://github.com/devcordde/devmarkt-backend/issues/28) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 💪 Opened PR [#24](https://github.com/devcordde/devmarkt-backend/pull/24) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
