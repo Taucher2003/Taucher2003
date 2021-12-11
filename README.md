@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-2. 🎉 Merged PR [#83](https://github.com/Taucher2003/Appenders/pull/83) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. 👍 Approved [#83](https://github.com/Taucher2003/Appenders/pull/83#pullrequestreview-829420541) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. 👍 Approved [#33](https://github.com/devcordde/devmarkt-backend/pull/33#pullrequestreview-825608219) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 🎉 Merged PR [#82](https://github.com/Taucher2003/Appenders/pull/82) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 💪 Opened PR [#2](https://github.com/Taucher2003/IntelliJ-GitLab-Integration/pull/2) in [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
+2. ⭐ Starred [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+3. 🎉 Merged PR [#83](https://github.com/Taucher2003/Appenders/pull/83) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+4. 👍 Approved [#83](https://github.com/Taucher2003/Appenders/pull/83#pullrequestreview-829420541) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. 👍 Approved [#33](https://github.com/devcordde/devmarkt-backend/pull/33#pullrequestreview-825608219) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
