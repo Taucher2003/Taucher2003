@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#35](https://github.com/devcordde/devmarkt-backend/pull/35) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-2. 👍 Approved [#34](https://github.com/devcordde/devmarkt-backend/pull/34#pullrequestreview-829549768) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. 💪 Opened PR [#2](https://github.com/Taucher2003/IntelliJ-GitLab-Integration/pull/2) in [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
-4. ⭐ Starred [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 🎉 Merged PR [#83](https://github.com/Taucher2003/Appenders/pull/83) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 🎉 Merged PR [#35](https://github.com/devcordde/devmarkt-backend/pull/35) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+2. 💪 Opened PR [#35](https://github.com/devcordde/devmarkt-backend/pull/35) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+3. 👍 Approved [#34](https://github.com/devcordde/devmarkt-backend/pull/34#pullrequestreview-829549768) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 💪 Opened PR [#2](https://github.com/Taucher2003/IntelliJ-GitLab-Integration/pull/2) in [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
+5. ⭐ Starred [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
