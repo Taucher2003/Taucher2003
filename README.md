@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#176](https://github.com/RainbowDashLabs/reputation-bot/pull/176) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. ⭐ Starred [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
-3. ⭐ Starred [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. 💪 Opened PR [#172](https://github.com/RainbowDashLabs/reputation-bot/pull/172) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 🎉 Merged PR [#88](https://github.com/Taucher2003/Appenders/pull/88) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 👍 Approved [#43](https://github.com/devcordde/devmarkt-backend/pull/43#pullrequestreview-835889129) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+2. 💪 Opened PR [#176](https://github.com/RainbowDashLabs/reputation-bot/pull/176) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. ⭐ Starred [Taucher2003/IntelliJ-GitLab-Integration](https://github.com/Taucher2003/IntelliJ-GitLab-Integration)
+4. ⭐ Starred [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. 💪 Opened PR [#172](https://github.com/RainbowDashLabs/reputation-bot/pull/172) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
