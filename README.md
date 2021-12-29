@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#91](https://github.com/Taucher2003/Appenders/pull/91) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-2. 👍 Approved [#91](https://github.com/Taucher2003/Appenders/pull/91#pullrequestreview-841495547) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. 🎉 Merged PR [#90](https://github.com/Taucher2003/Appenders/pull/90) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. 👍 Approved [#90](https://github.com/Taucher2003/Appenders/pull/90#pullrequestreview-839929414) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 🎉 Merged PR [#89](https://github.com/Taucher2003/Appenders/pull/89) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 💪 Opened PR [#93](https://github.com/Taucher2003/Appenders/pull/93) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+2. 🎉 Merged PR [#47](https://github.com/devcordde/devmarkt-backend/pull/47) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+3. 👍 Approved [#47](https://github.com/devcordde/devmarkt-backend/pull/47#pullrequestreview-841584223) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. ❗️ Opened issue [#92](https://github.com/Taucher2003/Appenders/issues/92) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. 🎉 Merged PR [#91](https://github.com/Taucher2003/Appenders/pull/91) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
