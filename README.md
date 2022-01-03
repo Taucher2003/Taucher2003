@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
-2. 🔱 Forked [Taucher2003/jest-junit](https://github.com/Taucher2003/jest-junit) from [jest-community/jest-junit](https://github.com/jest-community/jest-junit)
-3. ⭐ Starred [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
-4. 💪 Opened PR [#95](https://github.com/Taucher2003/Appenders/pull/95) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 🎉 Merged PR [#93](https://github.com/Taucher2003/Appenders/pull/93) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. ✔️ Closed issue [#92](https://github.com/Taucher2003/Appenders/issues/92) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+2. 🎉 Merged PR [#95](https://github.com/Taucher2003/Appenders/pull/95) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+3. ⭐ Starred [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
+4. 🔱 Forked [Taucher2003/jest-junit](https://github.com/Taucher2003/jest-junit) from [jest-community/jest-junit](https://github.com/jest-community/jest-junit)
+5. ⭐ Starred [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
