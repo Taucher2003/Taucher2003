@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#178](https://github.com/RainbowDashLabs/reputation-bot/pull/178#pullrequestreview-859989699) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 👍 Approved [#178](https://github.com/RainbowDashLabs/reputation-bot/pull/178#pullrequestreview-860097112) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 2. 🔴 Requested changes in [#178](https://github.com/RainbowDashLabs/reputation-bot/pull/178#pullrequestreview-859989699) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 💪 Opened PR [#53](https://github.com/devcordde/devmarkt-backend/pull/53) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 🎉 Merged PR [#52](https://github.com/devcordde/devmarkt-backend/pull/52) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 👍 Approved [#52](https://github.com/devcordde/devmarkt-backend/pull/52#pullrequestreview-857300538) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+3. 🔴 Requested changes in [#178](https://github.com/RainbowDashLabs/reputation-bot/pull/178#pullrequestreview-859989699) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 💪 Opened PR [#53](https://github.com/devcordde/devmarkt-backend/pull/53) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 🎉 Merged PR [#52](https://github.com/devcordde/devmarkt-backend/pull/52) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
