@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#107](https://github.com/Taucher2003/Appenders/pull/107) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-2. 👍 Approved [#107](https://github.com/Taucher2003/Appenders/pull/107#pullrequestreview-877864202) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. 🎉 Merged PR [#106](https://github.com/Taucher2003/Appenders/pull/106) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. 🎉 Merged PR [#187](https://github.com/RainbowDashLabs/reputation-bot/pull/187) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 🎉 Merged PR [#58](https://github.com/devcordde/devmarkt-backend/pull/58) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 🔱 Forked [Taucher2003/cjda-util](https://github.com/Taucher2003/cjda-util) from [RainbowDashLabs/cjda-util](https://github.com/RainbowDashLabs/cjda-util)
+2. 🎉 Merged PR [#107](https://github.com/Taucher2003/Appenders/pull/107) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+3. 👍 Approved [#107](https://github.com/Taucher2003/Appenders/pull/107#pullrequestreview-877864202) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+4. 🎉 Merged PR [#106](https://github.com/Taucher2003/Appenders/pull/106) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. 🎉 Merged PR [#187](https://github.com/RainbowDashLabs/reputation-bot/pull/187) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
