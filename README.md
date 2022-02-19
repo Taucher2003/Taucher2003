@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#111](https://github.com/Taucher2003/Appenders/pull/111) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-2. 👍 Approved [#111](https://github.com/Taucher2003/Appenders/pull/111#pullrequestreview-887372749) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. 👍 Approved [#60](https://github.com/devcordde/devmarkt-backend/pull/60#pullrequestreview-885073222) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 🎉 Merged PR [#59](https://github.com/devcordde/devmarkt-backend/pull/59) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 👍 Approved [#59](https://github.com/devcordde/devmarkt-backend/pull/59#pullrequestreview-885072263) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 💪 Opened PR [#2](https://github.com/RainbowDashLabs/sql-util/pull/2) in [RainbowDashLabs/sql-util](https://github.com/RainbowDashLabs/sql-util)
+2. 🔱 Forked [Taucher2003/sql-util](https://github.com/Taucher2003/sql-util) from [RainbowDashLabs/sql-util](https://github.com/RainbowDashLabs/sql-util)
+3. 🎉 Merged PR [#111](https://github.com/Taucher2003/Appenders/pull/111) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+4. 👍 Approved [#111](https://github.com/Taucher2003/Appenders/pull/111#pullrequestreview-887372749) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. 👍 Approved [#60](https://github.com/devcordde/devmarkt-backend/pull/60#pullrequestreview-885073222) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
