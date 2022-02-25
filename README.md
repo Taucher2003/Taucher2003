@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Taucher2003/javascript](https://github.com/Taucher2003/javascript) from [exercism/javascript](https://github.com/exercism/javascript)
-2. 💪 Opened PR [#192](https://github.com/RainbowDashLabs/reputation-bot/pull/192) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 💪 Opened PR [#191](https://github.com/RainbowDashLabs/reputation-bot/pull/191) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 💪 Opened PR [#189](https://github.com/RainbowDashLabs/reputation-bot/pull/189) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 💪 Opened PR [#2](https://github.com/RainbowDashLabs/sql-util/pull/2) in [RainbowDashLabs/sql-util](https://github.com/RainbowDashLabs/sql-util)
+1. 💪 Opened PR [#1698](https://github.com/exercism/javascript/pull/1698) in [exercism/javascript](https://github.com/exercism/javascript)
+2. 🔱 Forked [Taucher2003/javascript](https://github.com/Taucher2003/javascript) from [exercism/javascript](https://github.com/exercism/javascript)
+3. 💪 Opened PR [#192](https://github.com/RainbowDashLabs/reputation-bot/pull/192) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 💪 Opened PR [#191](https://github.com/RainbowDashLabs/reputation-bot/pull/191) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 💪 Opened PR [#189](https://github.com/RainbowDashLabs/reputation-bot/pull/189) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
