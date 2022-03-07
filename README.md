@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#62](https://github.com/devcordde/devmarkt-backend/issues/62) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-2. 👍 Approved [#61](https://github.com/devcordde/devmarkt-backend/pull/61#pullrequestreview-901017434) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. ❗️ Opened issue [#210](https://github.com/RainbowDashLabs/reputation-bot/issues/210) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. ❗️ Opened issue [#209](https://github.com/RainbowDashLabs/reputation-bot/issues/209) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 🎉 Merged PR [#112](https://github.com/Taucher2003/Appenders/pull/112) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 🎉 Merged PR [#114](https://github.com/Taucher2003/Appenders/pull/114) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+2. 👍 Approved [#114](https://github.com/Taucher2003/Appenders/pull/114#pullrequestreview-902098778) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+3. ❗️ Opened issue [#62](https://github.com/devcordde/devmarkt-backend/issues/62) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 👍 Approved [#61](https://github.com/devcordde/devmarkt-backend/pull/61#pullrequestreview-901017434) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. ❗️ Opened issue [#210](https://github.com/RainbowDashLabs/reputation-bot/issues/210) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
