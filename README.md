@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](https://github.com/devcordde/plugin-jam-bot/pull/5) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
-2. 🔱 Forked [Taucher2003/plugin-jam-bot](https://github.com/Taucher2003/plugin-jam-bot) from [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
-3. 💪 Opened PR [#92](https://github.com/devcordde/devmarkt-backend/pull/92) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 🎉 Merged PR [#117](https://github.com/Taucher2003/Appenders/pull/117) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 👍 Approved [#117](https://github.com/Taucher2003/Appenders/pull/117#pullrequestreview-916051157) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 🎉 Merged PR [#92](https://github.com/devcordde/devmarkt-backend/pull/92) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+2. 💪 Opened PR [#5](https://github.com/devcordde/plugin-jam-bot/pull/5) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
+3. 🔱 Forked [Taucher2003/plugin-jam-bot](https://github.com/Taucher2003/plugin-jam-bot) from [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
+4. 💪 Opened PR [#92](https://github.com/devcordde/devmarkt-backend/pull/92) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 🎉 Merged PR [#117](https://github.com/Taucher2003/Appenders/pull/117) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
