@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#240](https://github.com/RainbowDashLabs/reputation-bot/pull/240) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 👍 Approved [#238](https://github.com/RainbowDashLabs/reputation-bot/pull/238#pullrequestreview-937132041) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#237](https://github.com/RainbowDashLabs/reputation-bot/pull/237#pullrequestreview-937131369) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. ❌ Closed PR [#122](https://github.com/Taucher2003/Appenders/pull/122) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 🔴 Requested changes in [#234](https://github.com/RainbowDashLabs/reputation-bot/pull/234#pullrequestreview-934079008) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 👍 Approved [#241](https://github.com/RainbowDashLabs/reputation-bot/pull/241#pullrequestreview-938271131) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 👍 Approved [#242](https://github.com/RainbowDashLabs/reputation-bot/pull/242#pullrequestreview-938270151) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 👍 Approved [#239](https://github.com/RainbowDashLabs/reputation-bot/pull/239#pullrequestreview-938265210) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 💪 Opened PR [#240](https://github.com/RainbowDashLabs/reputation-bot/pull/240) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#238](https://github.com/RainbowDashLabs/reputation-bot/pull/238#pullrequestreview-937132041) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
