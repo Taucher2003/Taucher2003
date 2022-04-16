@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#246](https://github.com/RainbowDashLabs/reputation-bot/pull/246#pullrequestreview-942555411) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 💪 Opened PR [#244](https://github.com/RainbowDashLabs/reputation-bot/pull/244) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 🎉 Merged PR [#240](https://github.com/RainbowDashLabs/reputation-bot/pull/240) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 🎉 Merged PR [#234](https://github.com/RainbowDashLabs/reputation-bot/pull/234) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 👍 Approved [#234](https://github.com/RainbowDashLabs/reputation-bot/pull/234#pullrequestreview-941366184) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 💪 Opened PR [#249](https://github.com/RainbowDashLabs/reputation-bot/pull/249) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. ❌ Closed PR [#102](https://github.com/devcordde/devmarkt-backend/pull/102) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+3. 💪 Opened PR [#102](https://github.com/devcordde/devmarkt-backend/pull/102) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 💪 Opened PR [#101](https://github.com/devcordde/devmarkt-backend/pull/101) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 👍 Approved [#246](https://github.com/RainbowDashLabs/reputation-bot/pull/246#pullrequestreview-942555411) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
