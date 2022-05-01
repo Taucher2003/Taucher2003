@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#116](https://github.com/devcordde/devmarkt-backend/pull/116#pullrequestreview-958602185) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-2. 👍 Approved [#115](https://github.com/devcordde/devmarkt-backend/pull/115#pullrequestreview-958593884) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. 👍 Approved [#90](https://github.com/devcordde/devmarkt-backend/pull/90#pullrequestreview-958526542) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 🎉 Merged PR [#113](https://github.com/devcordde/devmarkt-backend/pull/113) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 👍 Approved [#113](https://github.com/devcordde/devmarkt-backend/pull/113#pullrequestreview-958176138) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. ✔️ Closed issue [#23](https://github.com/devcordde/devmarkt-backend/issues/23) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+2. 👍 Approved [#116](https://github.com/devcordde/devmarkt-backend/pull/116#pullrequestreview-958602185) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+3. 👍 Approved [#115](https://github.com/devcordde/devmarkt-backend/pull/115#pullrequestreview-958593884) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 👍 Approved [#90](https://github.com/devcordde/devmarkt-backend/pull/90#pullrequestreview-958526542) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 🎉 Merged PR [#113](https://github.com/devcordde/devmarkt-backend/pull/113) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
