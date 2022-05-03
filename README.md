@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#15421](https://github.com/renovatebot/renovate/issues/15421) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-2. 🎉 Merged PR [#130](https://github.com/Taucher2003/Appenders/pull/130) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. 👍 Approved [#130](https://github.com/Taucher2003/Appenders/pull/130#pullrequestreview-959320346) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. 🎉 Merged PR [#129](https://github.com/Taucher2003/Appenders/pull/129) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 👍 Approved [#129](https://github.com/Taucher2003/Appenders/pull/129#pullrequestreview-959281307) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 🎉 Merged PR [#35](https://github.com/Taucher2003/date-difference-action/pull/35) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. ❗️ Opened issue [#15421](https://github.com/renovatebot/renovate/issues/15421) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+3. 🎉 Merged PR [#130](https://github.com/Taucher2003/Appenders/pull/130) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+4. 👍 Approved [#130](https://github.com/Taucher2003/Appenders/pull/130#pullrequestreview-959320346) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. 🎉 Merged PR [#129](https://github.com/Taucher2003/Appenders/pull/129) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
