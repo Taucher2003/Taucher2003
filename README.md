@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#280](https://github.com/RainbowDashLabs/reputation-bot/pull/280) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 👍 Approved [#280](https://github.com/RainbowDashLabs/reputation-bot/pull/280#pullrequestreview-977382884) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#282](https://github.com/RainbowDashLabs/reputation-bot/pull/282#pullrequestreview-977291062) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 🎉 Merged PR [#121](https://github.com/devcordde/devmarkt-backend/pull/121) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 👍 Approved [#121](https://github.com/devcordde/devmarkt-backend/pull/121#pullrequestreview-976007942) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 🎉 Merged PR [#37](https://github.com/Taucher2003/date-difference-action/pull/37) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 👍 Approved [#37](https://github.com/Taucher2003/date-difference-action/pull/37#pullrequestreview-979157561) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+3. 🎉 Merged PR [#280](https://github.com/RainbowDashLabs/reputation-bot/pull/280) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#280](https://github.com/RainbowDashLabs/reputation-bot/pull/280#pullrequestreview-977382884) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#282](https://github.com/RainbowDashLabs/reputation-bot/pull/282#pullrequestreview-977291062) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
