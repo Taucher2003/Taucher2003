@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#124](https://github.com/devcordde/devmarkt-backend/pull/124) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-2. 🎉 Merged PR [#289](https://github.com/RainbowDashLabs/reputation-bot/pull/289) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#289](https://github.com/RainbowDashLabs/reputation-bot/pull/289#pullrequestreview-980945436) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 💪 Opened PR [#290](https://github.com/RainbowDashLabs/reputation-bot/pull/290) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 💪 Opened PR [#288](https://github.com/RainbowDashLabs/reputation-bot/pull/288) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 💪 Opened PR [#126](https://github.com/devcordde/devmarkt-backend/pull/126) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+2. 🎉 Merged PR [#125](https://github.com/devcordde/devmarkt-backend/pull/125) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+3. 👍 Approved [#125](https://github.com/devcordde/devmarkt-backend/pull/125#pullrequestreview-986690154) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 🎉 Merged PR [#124](https://github.com/devcordde/devmarkt-backend/pull/124) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 🎉 Merged PR [#289](https://github.com/RainbowDashLabs/reputation-bot/pull/289) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
