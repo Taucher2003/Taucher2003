@@ -1,7 +1,7 @@
 # Hi there, I'm Niklas, also known as Taucher2003 👋
 
 ### About me:
-I am from Germany and currently <!--timespan:start(%y)(env:1)-->18<!--timespan:end--> years old. I'm very interested in programming and so did I start 
+I am from Germany and currently <!--timespan:start(%y)(env:1)-->19<!--timespan:end--> years old. I'm very interested in programming and so did I start 
 with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and other stuff!
 
 ### Connect with me:
