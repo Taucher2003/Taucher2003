@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#327](https://github.com/RainbowDashLabs/reputation-bot/pull/327#pullrequestreview-1045433070) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 👍 Approved [#327](https://github.com/RainbowDashLabs/reputation-bot/pull/327#pullrequestreview-1045433070) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#324](https://github.com/RainbowDashLabs/reputation-bot/pull/324#pullrequestreview-1045420118) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 👍 Approved [#323](https://github.com/RainbowDashLabs/reputation-bot/pull/323#pullrequestreview-1045411811) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 👍 Approved [#325](https://github.com/RainbowDashLabs/reputation-bot/pull/325#pullrequestreview-1043864640) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 👍 Approved [#330](https://github.com/RainbowDashLabs/reputation-bot/pull/330#pullrequestreview-1045516040) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 🔴 Requested changes in [#329](https://github.com/RainbowDashLabs/reputation-bot/pull/329#pullrequestreview-1045458643) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 🔴 Requested changes in [#329](https://github.com/RainbowDashLabs/reputation-bot/pull/329#pullrequestreview-1045458643) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#327](https://github.com/RainbowDashLabs/reputation-bot/pull/327#pullrequestreview-1045433070) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#327](https://github.com/RainbowDashLabs/reputation-bot/pull/327#pullrequestreview-1045433070) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
