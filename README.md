@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#143](https://github.com/devcordde/devmarkt-backend/pull/143#pullrequestreview-1046928157) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-2. 👍 Approved [#135](https://github.com/devcordde/devmarkt-backend/pull/135#pullrequestreview-1045556270) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. 👍 Approved [#330](https://github.com/RainbowDashLabs/reputation-bot/pull/330#pullrequestreview-1045516040) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 🔴 Requested changes in [#329](https://github.com/RainbowDashLabs/reputation-bot/pull/329#pullrequestreview-1045458643) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 🔴 Requested changes in [#329](https://github.com/RainbowDashLabs/reputation-bot/pull/329#pullrequestreview-1045458643) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 🎉 Merged PR [#42](https://github.com/Taucher2003/date-difference-action/pull/42) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 👍 Approved [#42](https://github.com/Taucher2003/date-difference-action/pull/42#pullrequestreview-1051411898) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+3. 👍 Approved [#143](https://github.com/devcordde/devmarkt-backend/pull/143#pullrequestreview-1046928157) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 👍 Approved [#135](https://github.com/devcordde/devmarkt-backend/pull/135#pullrequestreview-1045556270) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 👍 Approved [#330](https://github.com/RainbowDashLabs/reputation-bot/pull/330#pullrequestreview-1045516040) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
