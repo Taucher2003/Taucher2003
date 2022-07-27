@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#42](https://github.com/Taucher2003/date-difference-action/pull/42) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-2. 👍 Approved [#42](https://github.com/Taucher2003/date-difference-action/pull/42#pullrequestreview-1051411898) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-3. 👍 Approved [#143](https://github.com/devcordde/devmarkt-backend/pull/143#pullrequestreview-1046928157) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 👍 Approved [#135](https://github.com/devcordde/devmarkt-backend/pull/135#pullrequestreview-1045556270) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 👍 Approved [#330](https://github.com/RainbowDashLabs/reputation-bot/pull/330#pullrequestreview-1045516040) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 🎉 Merged PR [#335](https://github.com/RainbowDashLabs/reputation-bot/pull/335) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 👍 Approved [#335](https://github.com/RainbowDashLabs/reputation-bot/pull/335#pullrequestreview-1053158963) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 🎉 Merged PR [#42](https://github.com/Taucher2003/date-difference-action/pull/42) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+4. 👍 Approved [#42](https://github.com/Taucher2003/date-difference-action/pull/42#pullrequestreview-1051411898) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+5. 👍 Approved [#143](https://github.com/devcordde/devmarkt-backend/pull/143#pullrequestreview-1046928157) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
