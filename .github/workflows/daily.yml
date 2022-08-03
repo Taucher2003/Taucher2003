@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
+        id: first-attempt
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN}}
@@ -19,14 +20,14 @@ jobs:
         continue-on-error: true
       - name: Wait 30 minutes
         run: sleep 1800
-        if: failure()
+        if: steps.first-attempt.outcome == 'failure'
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN}}
           SHOW_TITLE: false
           COMMIT_MESSAGE: ⚡ Updated Weekly Coding Stats
-        if: failure()
+        if: steps.first-attempt.outcome == 'failure'
   timespans:
     name: Update Readme with current timespans
     runs-on: ubuntu-latest
