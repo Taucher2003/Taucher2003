@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#345](https://github.com/RainbowDashLabs/reputation-bot/pull/345#pullrequestreview-1062331054) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 👍 Approved [#344](https://github.com/RainbowDashLabs/reputation-bot/pull/344#pullrequestreview-1060922629) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 📔 Created new repository [Taucher2003/Flipper4J](https://github.com/Taucher2003/Flipper4J)
-4. 📔 Created new repository [Taucher2003/T2003-Utils](https://github.com/Taucher2003/T2003-Utils)
-5. 👍 Approved [#146](https://github.com/devcordde/devmarkt-backend/pull/146#pullrequestreview-1056361204) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 🎉 Merged PR [#147](https://github.com/devcordde/devmarkt-backend/pull/147) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+2. 👍 Approved [#147](https://github.com/devcordde/devmarkt-backend/pull/147#pullrequestreview-1062404468) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+3. 👍 Approved [#345](https://github.com/RainbowDashLabs/reputation-bot/pull/345#pullrequestreview-1062331054) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#344](https://github.com/RainbowDashLabs/reputation-bot/pull/344#pullrequestreview-1060922629) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 📔 Created new repository [Taucher2003/Flipper4J](https://github.com/Taucher2003/Flipper4J)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
