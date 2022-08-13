@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#348](https://github.com/RainbowDashLabs/reputation-bot/pull/348#pullrequestreview-1068652389) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 👍 Approved [#148](https://github.com/devcordde/devmarkt-backend/pull/148#pullrequestreview-1065691951) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. 🎉 Merged PR [#346](https://github.com/RainbowDashLabs/reputation-bot/pull/346) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 👍 Approved [#346](https://github.com/RainbowDashLabs/reputation-bot/pull/346#pullrequestreview-1064231300) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 🎉 Merged PR [#147](https://github.com/devcordde/devmarkt-backend/pull/147) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 👍 Approved [#364](https://github.com/RainbowDashLabs/reputation-bot/pull/364#pullrequestreview-1071950022) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 👍 Approved [#367](https://github.com/RainbowDashLabs/reputation-bot/pull/367#pullrequestreview-1071949220) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 👍 Approved [#370](https://github.com/RainbowDashLabs/reputation-bot/pull/370#pullrequestreview-1071947247) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#348](https://github.com/RainbowDashLabs/reputation-bot/pull/348#pullrequestreview-1068652389) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#148](https://github.com/devcordde/devmarkt-backend/pull/148#pullrequestreview-1065691951) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
