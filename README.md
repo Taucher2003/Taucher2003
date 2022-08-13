@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#357](https://github.com/RainbowDashLabs/reputation-bot/pull/357#pullrequestreview-1071970547) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 👍 Approved [#357](https://github.com/RainbowDashLabs/reputation-bot/pull/357#pullrequestreview-1071970547) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#354](https://github.com/RainbowDashLabs/reputation-bot/pull/354#pullrequestreview-1071970002) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 👍 Approved [#351](https://github.com/RainbowDashLabs/reputation-bot/pull/351#pullrequestreview-1071969425) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 👍 Approved [#352](https://github.com/RainbowDashLabs/reputation-bot/pull/352#pullrequestreview-1071969318) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 👍 Approved [#362](https://github.com/RainbowDashLabs/reputation-bot/pull/362#pullrequestreview-1071973380) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 👍 Approved [#360](https://github.com/RainbowDashLabs/reputation-bot/pull/360#pullrequestreview-1071972809) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 🔴 Requested changes in [#360](https://github.com/RainbowDashLabs/reputation-bot/pull/360#pullrequestreview-1071972392) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#357](https://github.com/RainbowDashLabs/reputation-bot/pull/357#pullrequestreview-1071970547) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#357](https://github.com/RainbowDashLabs/reputation-bot/pull/357#pullrequestreview-1071970547) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
