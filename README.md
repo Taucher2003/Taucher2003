@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
-2. ❌ Closed PR [#103](https://github.com/Taucher2003/Appenders/pull/103) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-3. ✔️ Closed issue [#22](https://github.com/Taucher2003/Appenders/issues/22) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. 🎉 Merged PR [#150](https://github.com/Taucher2003/Appenders/pull/150) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 💪 Opened PR [#150](https://github.com/Taucher2003/Appenders/pull/150) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 🎉 Merged PR [#44](https://github.com/Taucher2003/date-difference-action/pull/44) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 👍 Approved [#44](https://github.com/Taucher2003/date-difference-action/pull/44#pullrequestreview-1103176467) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+3. ⭐ Starred [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
+4. ❌ Closed PR [#103](https://github.com/Taucher2003/Appenders/pull/103) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+5. ✔️ Closed issue [#22](https://github.com/Taucher2003/Appenders/issues/22) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
