@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#45](https://github.com/Taucher2003/date-difference-action/pull/45) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-2. 👍 Approved [#45](https://github.com/Taucher2003/date-difference-action/pull/45#pullrequestreview-1107933568) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-3. 🎉 Merged PR [#158](https://github.com/devcordde/devmarkt-backend/pull/158) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 👍 Approved [#158](https://github.com/devcordde/devmarkt-backend/pull/158#pullrequestreview-1104733539) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 🎉 Merged PR [#136](https://github.com/Taucher2003/Appenders/pull/136) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 🎉 Merged PR [#46](https://github.com/Taucher2003/date-difference-action/pull/46) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+2. 👍 Approved [#46](https://github.com/Taucher2003/date-difference-action/pull/46#pullrequestreview-1109634489) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+3. 🎉 Merged PR [#47](https://github.com/Taucher2003/date-difference-action/pull/47) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+4. 👍 Approved [#47](https://github.com/Taucher2003/date-difference-action/pull/47#pullrequestreview-1109633694) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+5. 🎉 Merged PR [#45](https://github.com/Taucher2003/date-difference-action/pull/45) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
