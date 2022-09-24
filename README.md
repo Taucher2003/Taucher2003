@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#385](https://github.com/RainbowDashLabs/reputation-bot/pull/385#pullrequestreview-1117561223) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 🎉 Merged PR [#48](https://github.com/Taucher2003/date-difference-action/pull/48) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-3. 👍 Approved [#48](https://github.com/Taucher2003/date-difference-action/pull/48#pullrequestreview-1114382202) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
-4. ❗️ Opened issue [#490](https://github.com/errata-ai/vale/issues/490) in [errata-ai/vale](https://github.com/errata-ai/vale)
-5. 🎉 Merged PR [#160](https://github.com/devcordde/devmarkt-backend/pull/160) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 💪 Opened PR [#395](https://github.com/RainbowDashLabs/reputation-bot/pull/395) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 👍 Approved [#385](https://github.com/RainbowDashLabs/reputation-bot/pull/385#pullrequestreview-1117561223) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 🎉 Merged PR [#48](https://github.com/Taucher2003/date-difference-action/pull/48) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+4. 👍 Approved [#48](https://github.com/Taucher2003/date-difference-action/pull/48#pullrequestreview-1114382202) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)
+5. ❗️ Opened issue [#490](https://github.com/errata-ai/vale/issues/490) in [errata-ai/vale](https://github.com/errata-ai/vale)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
