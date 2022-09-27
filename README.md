@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#400](https://github.com/RainbowDashLabs/reputation-bot/pull/400#pullrequestreview-1120455414) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 👍 Approved [#401](https://github.com/RainbowDashLabs/reputation-bot/pull/401#pullrequestreview-1122350093) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 2. 👍 Approved [#400](https://github.com/RainbowDashLabs/reputation-bot/pull/400#pullrequestreview-1120455414) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#397](https://github.com/RainbowDashLabs/reputation-bot/pull/397#pullrequestreview-1119414386) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 👍 Approved [#398](https://github.com/RainbowDashLabs/reputation-bot/pull/398#pullrequestreview-1119414021) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 💪 Opened PR [#395](https://github.com/RainbowDashLabs/reputation-bot/pull/395) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 👍 Approved [#400](https://github.com/RainbowDashLabs/reputation-bot/pull/400#pullrequestreview-1120455414) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#397](https://github.com/RainbowDashLabs/reputation-bot/pull/397#pullrequestreview-1119414386) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#398](https://github.com/RainbowDashLabs/reputation-bot/pull/398#pullrequestreview-1119414021) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
