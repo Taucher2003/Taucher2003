@@ -63,11 +63,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#164](https://github.com/devcordde/devmarkt-backend/pull/164) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-2. 👍 Approved [#164](https://github.com/devcordde/devmarkt-backend/pull/164#pullrequestreview-1127314649) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. 👍 Approved [#392](https://github.com/RainbowDashLabs/reputation-bot/pull/392#pullrequestreview-1125796674) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 🎉 Merged PR [#163](https://github.com/devcordde/devmarkt-backend/pull/163) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-5. 👍 Approved [#163](https://github.com/devcordde/devmarkt-backend/pull/163#pullrequestreview-1124259989) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 👍 Approved [#76](https://github.com/RainbowDashLabs/cjda-util/pull/76#pullrequestreview-1127373197) in [RainbowDashLabs/cjda-util](https://github.com/RainbowDashLabs/cjda-util)
+2. 👍 Approved [#76](https://github.com/RainbowDashLabs/cjda-util/pull/76#pullrequestreview-1127373197) in [RainbowDashLabs/cjda-util](https://github.com/RainbowDashLabs/cjda-util)
+3. 🎉 Merged PR [#164](https://github.com/devcordde/devmarkt-backend/pull/164) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 👍 Approved [#164](https://github.com/devcordde/devmarkt-backend/pull/164#pullrequestreview-1127314649) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 👍 Approved [#392](https://github.com/RainbowDashLabs/reputation-bot/pull/392#pullrequestreview-1125796674) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
