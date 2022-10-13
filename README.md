@@ -53,7 +53,6 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 [![Discord](https://img.shields.io/discord/289819432992243712?color=99beff&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
 [![Discord](https://img.shields.io/discord/803679267303981056?color=c32047&label=NotABot&logo=discord&style=flat-square)][notabotdiscord]
 [![Discord](https://img.shields.io/discord/853250161915985958?color=fdb846&label=Reputation%20Bot&logo=discord&style=flat-square)][reputationbotdiscord]
-[![GitLab Hero](https://img.shields.io/badge/GitLab%20Hero-6E49CB?style=flat-square&logo=gitlab)][gitlab-heroes]
  
 <!-- DEPRECATED SHIELDS -->
 <!--![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)-->
