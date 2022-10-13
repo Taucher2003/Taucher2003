@@ -1,6 +1,7 @@
 # Hi there, I'm Niklas, also known as Taucher2003 👋
 
 ### About me:
+
 I am from Germany and currently <!--timespan:start(%y)(env:1)-->19<!--timespan:end--> years old. I'm very interested in programming and so did I start 
 with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and other stuff!
 
@@ -25,11 +26,13 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <br>
 <br>
 
-### Certifications
+### Certifications & Badges
 
 [<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png" height="150px">][gitlab-certified-associate]
 <br>
 <br>
+
+[![@taucher2003's Holopin board](https://holopin.me/taucher2003)](https://holopin.io/@taucher2003)
 
 ### Projects that I am part of:
 | Project | Position | Timespan |
