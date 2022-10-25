@@ -66,11 +66,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.2 | Native Message Formatter](https://github.com/Taucher2003/T2003-Logger/releases/tag/1.0.2) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
-2. 🎉 Merged PR [#167](https://github.com/devcordde/devmarkt-backend/pull/167) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-3. 👍 Approved [#167](https://github.com/devcordde/devmarkt-backend/pull/167#pullrequestreview-1146428178) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
-4. 🎉 Merged PR [#164](https://github.com/Taucher2003/Appenders/pull/164) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 👍 Approved [#164](https://github.com/Taucher2003/Appenders/pull/164#pullrequestreview-1144427234) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
+1. 👍 Approved [#432](https://github.com/RainbowDashLabs/reputation-bot/pull/432#pullrequestreview-1155315635) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. ✌️ Released [v1.0.2 | Native Message Formatter](https://github.com/Taucher2003/T2003-Logger/releases/tag/1.0.2) in [Taucher2003/T2003-Logger](https://github.com/Taucher2003/T2003-Logger)
+3. 🎉 Merged PR [#167](https://github.com/devcordde/devmarkt-backend/pull/167) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+4. 👍 Approved [#167](https://github.com/devcordde/devmarkt-backend/pull/167#pullrequestreview-1146428178) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+5. 🎉 Merged PR [#164](https://github.com/Taucher2003/Appenders/pull/164) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
