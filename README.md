@@ -66,11 +66,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#24](https://github.com/devcordde/plugin-jam-bot/pull/24) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
-2. 👍 Approved [#433](https://github.com/RainbowDashLabs/reputation-bot/pull/433#pullrequestreview-1161155798) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#431](https://github.com/RainbowDashLabs/reputation-bot/pull/431#pullrequestreview-1161153677) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. ⭐ Starred [nicosammito/react-bettertabs](https://github.com/nicosammito/react-bettertabs)
-5. 🎉 Merged PR [#168](https://github.com/devcordde/devmarkt-backend/pull/168) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 🎉 Merged PR [#24](https://github.com/devcordde/plugin-jam-bot/pull/24) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
+2. 💪 Opened PR [#24](https://github.com/devcordde/plugin-jam-bot/pull/24) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
+3. 👍 Approved [#433](https://github.com/RainbowDashLabs/reputation-bot/pull/433#pullrequestreview-1161155798) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#431](https://github.com/RainbowDashLabs/reputation-bot/pull/431#pullrequestreview-1161153677) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. ⭐ Starred [nicosammito/react-bettertabs](https://github.com/nicosammito/react-bettertabs)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
