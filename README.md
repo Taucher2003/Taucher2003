@@ -66,11 +66,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#434](https://github.com/RainbowDashLabs/reputation-bot/pull/434) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 🎉 Merged PR [#24](https://github.com/devcordde/plugin-jam-bot/pull/24) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
-3. 💪 Opened PR [#24](https://github.com/devcordde/plugin-jam-bot/pull/24) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
-4. 👍 Approved [#433](https://github.com/RainbowDashLabs/reputation-bot/pull/433#pullrequestreview-1161155798) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 👍 Approved [#431](https://github.com/RainbowDashLabs/reputation-bot/pull/431#pullrequestreview-1161153677) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. ⬆️ Pushed 1 commit(s) to [Taucher2003/Taucher2003](https://github.com/Taucher2003/Taucher2003)
+2. ⬆️ Pushed 2 commit(s) to [Taucher2003/T2003-Utils](https://github.com/Taucher2003/T2003-Utils)
+3. 💪 Opened PR [#434](https://github.com/RainbowDashLabs/reputation-bot/pull/434) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. ⬆️ Pushed 1 commit(s) to [Taucher2003/Taucher2003](https://github.com/Taucher2003/Taucher2003)
+5. ⬆️ Pushed 9 commit(s) to [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
