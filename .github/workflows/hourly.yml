@@ -10,7 +10,7 @@ jobs:
     name: Updates the repo's README with lastest activities
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@v2.0.0
+      - uses: actions/checkout@main
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
