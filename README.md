@@ -66,11 +66,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#441](https://github.com/RainbowDashLabs/reputation-bot/pull/441#pullrequestreview-1184641663) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. ❗️ Opened issue [#18909](https://github.com/renovatebot/renovate/issues/18909) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-3. 🎉 Merged PR [#172](https://github.com/Taucher2003/Appenders/pull/172) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-4. 👍 Approved [#172](https://github.com/Taucher2003/Appenders/pull/172#pullrequestreview-1178134994) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
-5. 🎉 Merged PR [#173](https://github.com/devcordde/devmarkt-backend/pull/173) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)
+1. 👍 Approved [#441](https://github.com/RainbowDashLabs/reputation-bot/pull/441#pullrequestreview-1184725956) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 👍 Approved [#441](https://github.com/RainbowDashLabs/reputation-bot/pull/441#pullrequestreview-1184725956) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+3. 🔴 Requested changes in [#441](https://github.com/RainbowDashLabs/reputation-bot/pull/441#pullrequestreview-1184641663) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. ❗️ Opened issue [#18909](https://github.com/renovatebot/renovate/issues/18909) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+5. 🎉 Merged PR [#172](https://github.com/Taucher2003/Appenders/pull/172) in [Taucher2003/Appenders](https://github.com/Taucher2003/Appenders)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
