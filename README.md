@@ -66,11 +66,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#27](https://github.com/devcordde/plugin-jam-bot/pull/27) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
-2. 🤝 Became collaborator on [Taucher2003/Fortmord](https://github.com/Taucher2003/Fortmord)
-3. 📔 Created new repository [Taucher2003/Fortmord](https://github.com/Taucher2003/Fortmord)
-4. 👍 Approved [#453](https://github.com/RainbowDashLabs/reputation-bot/pull/453#pullrequestreview-1194727339) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 👍 Approved [#449](https://github.com/RainbowDashLabs/reputation-bot/pull/449#pullrequestreview-1194705284) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 💪 Opened PR [#5](https://github.com/devcordde/adventofcode-22/pull/5) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
+2. 🔱 Forked [Taucher2003/adventofcode-22](https://github.com/Taucher2003/adventofcode-22) from [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
+3. 💪 Opened PR [#27](https://github.com/devcordde/plugin-jam-bot/pull/27) in [devcordde/plugin-jam-bot](https://github.com/devcordde/plugin-jam-bot)
+4. 🤝 Became collaborator on [Taucher2003/Fortmord](https://github.com/Taucher2003/Fortmord)
+5. 📔 Created new repository [Taucher2003/Fortmord](https://github.com/Taucher2003/Fortmord)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
