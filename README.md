@@ -66,11 +66,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#79](https://github.com/devcordde/adventofcode-22/pull/79) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
-2. 💪 Opened PR [#59](https://github.com/devcordde/adventofcode-22/pull/59) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
-3. 💪 Opened PR [#48](https://github.com/devcordde/adventofcode-22/pull/48) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
-4. 💪 Opened PR [#5](https://github.com/devcordde/adventofcode-22/pull/5) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
-5. 🔱 Forked [Taucher2003/adventofcode-22](https://github.com/Taucher2003/adventofcode-22) from [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
+1. 👍 Approved [#448](https://github.com/RainbowDashLabs/reputation-bot/pull/448#pullrequestreview-1203704797) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+2. 💪 Opened PR [#79](https://github.com/devcordde/adventofcode-22/pull/79) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
+3. 💪 Opened PR [#59](https://github.com/devcordde/adventofcode-22/pull/59) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
+4. 💪 Opened PR [#48](https://github.com/devcordde/adventofcode-22/pull/48) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
+5. 💪 Opened PR [#5](https://github.com/devcordde/adventofcode-22/pull/5) in [devcordde/adventofcode-22](https://github.com/devcordde/adventofcode-22)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
