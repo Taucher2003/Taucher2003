@@ -67,11 +67,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#464](https://github.com/RainbowDashLabs/reputation-bot/pull/464#pullrequestreview-1229695252) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-2. 👍 Approved [#463](https://github.com/RainbowDashLabs/reputation-bot/pull/463#pullrequestreview-1229695195) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-3. 👍 Approved [#461](https://github.com/RainbowDashLabs/reputation-bot/pull/461#pullrequestreview-1229087489) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-4. 👍 Approved [#458](https://github.com/RainbowDashLabs/reputation-bot/pull/458#pullrequestreview-1229066348) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
-5. 👍 Approved [#459](https://github.com/RainbowDashLabs/reputation-bot/pull/459#pullrequestreview-1229063450) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. ❌ Closed PR [#1](https://github.com/made-thoughts/Fortmord/pull/1) in [made-thoughts/Fortmord](https://github.com/made-thoughts/Fortmord)
+2. 👍 Approved [#1](https://github.com/made-thoughts/mayflower/pull/1#pullrequestreview-1229783409) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
+3. 👍 Approved [#464](https://github.com/RainbowDashLabs/reputation-bot/pull/464#pullrequestreview-1229695252) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+4. 👍 Approved [#463](https://github.com/RainbowDashLabs/reputation-bot/pull/463#pullrequestreview-1229695195) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+5. 👍 Approved [#461](https://github.com/RainbowDashLabs/reputation-bot/pull/461#pullrequestreview-1229087489) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
