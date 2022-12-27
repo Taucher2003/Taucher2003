@@ -29,7 +29,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 ### Certifications & Badges
 
 [<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png" height="200px">][gitlab-certified-associate]
-[<img src="assets/gitlab_mvp_badge.png" height="200px">][gitlab-mvp-15-7]
+[<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/gitlab_mvp_badge.png" height="200px">][gitlab-mvp-15-7]
 <br>
 <br>
 
