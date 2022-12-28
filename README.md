@@ -67,11 +67,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/made-thoughts/mayflower/pull/2) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
-2. 👍 Approved [#2](https://github.com/made-thoughts/mayflower/pull/2#pullrequestreview-1232039365) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
-3. ❌ Closed PR [#1](https://github.com/made-thoughts/Fortmord/pull/1) in [made-thoughts/Fortmord](https://github.com/made-thoughts/Fortmord)
-4. 👍 Approved [#1](https://github.com/made-thoughts/mayflower/pull/1#pullrequestreview-1229783409) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
-5. 👍 Approved [#464](https://github.com/RainbowDashLabs/reputation-bot/pull/464#pullrequestreview-1229695252) in [RainbowDashLabs/reputation-bot](https://github.com/RainbowDashLabs/reputation-bot)
+1. 🎉 Merged PR [#3](https://github.com/made-thoughts/mayflower/pull/3) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
+2. 👍 Approved [#3](https://github.com/made-thoughts/mayflower/pull/3#pullrequestreview-1232045109) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
+3. 🎉 Merged PR [#4](https://github.com/made-thoughts/mayflower/pull/4) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
+4. 👍 Approved [#4](https://github.com/made-thoughts/mayflower/pull/4#pullrequestreview-1232044937) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
+5. 🎉 Merged PR [#2](https://github.com/made-thoughts/mayflower/pull/2) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
