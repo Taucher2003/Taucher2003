@@ -67,11 +67,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#472](https://github.com/rainbowdashlabs/reputation-bot/pull/472#pullrequestreview-1253949216) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-2. 🎉 Merged PR [#16](https://github.com/made-thoughts/mayflower/pull/16) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)<br>
-3. 💪 Opened PR [#16](https://github.com/made-thoughts/mayflower/pull/16) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)<br>
-4. 👍 Approved [#12](https://github.com/made-thoughts/mayflower/pull/12#pullrequestreview-1248655912) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)<br>
-5. 🎉 Merged PR [#184](https://github.com/devcordde/devmarkt-backend/pull/184) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+1. 👍 Approved [#11](https://github.com/made-thoughts/mayflower/pull/11#pullrequestreview-1262309288) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)<br>
+2. 👍 Approved [#11](https://github.com/made-thoughts/mayflower/pull/11#pullrequestreview-1262309288) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)<br>
+3. 👍 Approved [#472](https://github.com/rainbowdashlabs/reputation-bot/pull/472#pullrequestreview-1253949216) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+4. 🎉 Merged PR [#16](https://github.com/made-thoughts/mayflower/pull/16) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)<br>
+5. 💪 Opened PR [#16](https://github.com/made-thoughts/mayflower/pull/16) in [made-thoughts/mayflower](https://github.com/made-thoughts/mayflower)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
