@@ -67,11 +67,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#475](https://github.com/rainbowdashlabs/reputation-bot/pull/475) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-2. 🎉 Merged PR [#51](https://github.com/Taucher2003/date-difference-action/pull/51) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)<br>
-3. 👍 Approved [#51](https://github.com/Taucher2003/date-difference-action/pull/51#pullrequestreview-1268210642) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)<br>
-4. 🎉 Merged PR [#52](https://github.com/Taucher2003/date-difference-action/pull/52) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)<br>
-5. 👍 Approved [#52](https://github.com/Taucher2003/date-difference-action/pull/52#pullrequestreview-1268206753) in [Taucher2003/date-difference-action](https://github.com/Taucher2003/date-difference-action)<br>
+1. 👍 Approved [#476](https://github.com/rainbowdashlabs/reputation-bot/pull/476#pullrequestreview-1273468849) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+2. 🎉 Merged PR [#475](https://github.com/rainbowdashlabs/reputation-bot/pull/475) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+3. ❌ Closed PR [#186](https://github.com/devcordde/devmarkt-backend/pull/186) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+4. 👍 Approved [#186](https://github.com/devcordde/devmarkt-backend/pull/186#pullrequestreview-1273419857) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+5. 💪 Opened PR [#475](https://github.com/rainbowdashlabs/reputation-bot/pull/475) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
