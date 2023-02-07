@@ -30,6 +30,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 [<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png" height="200px">][gitlab-certified-associate]
 [<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/gitlab_mvp_badge.png" height="200px">][gitlab-mvp-15-7]
+[<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/gitlab-leading-organization-badge.png" height="200px">][gitlab-leading-organization]
 <br>
 <br>
 
@@ -136,3 +137,4 @@ GraphQL          3 mins          ▒░░░░░░░░░░░░░░�
 [gitlab-certified-associate]: https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam
 [gitlab-mvp-15-7]: https://about.gitlab.com/releases/2022/12/22/gitlab-15-7-released/#mvp
 [gitlab-heroes]: https://about.gitlab.com/community/heroes/
+[gitlab-leading-organization]: https://about.gitlab.com/handbook/marketing/community-relations/leading-organizations/
