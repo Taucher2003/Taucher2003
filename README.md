@@ -81,8 +81,12 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+Kotlin           15 mins         ███████████░░░░░░░░░░░░░░   44.23 %
+Java             13 mins         █████████▓░░░░░░░░░░░░░░░   38.92 %
+Shell Script     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+CLASS            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
