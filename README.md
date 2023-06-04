@@ -70,11 +70,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#525](https://github.com/rainbowdashlabs/reputation-bot/pull/525#pullrequestreview-1407837123) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-2. 🎉 Merged PR [#524](https://github.com/rainbowdashlabs/reputation-bot/pull/524) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-3. 💪 Opened PR [#524](https://github.com/rainbowdashlabs/reputation-bot/pull/524) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-4. 👍 Approved [#523](https://github.com/rainbowdashlabs/reputation-bot/pull/523#pullrequestreview-1407168168) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-5. 👍 Approved [#521](https://github.com/rainbowdashlabs/reputation-bot/pull/521#pullrequestreview-1407167809) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+1. ⭐ Starred [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd)<br>
+2. 👍 Approved [#525](https://github.com/rainbowdashlabs/reputation-bot/pull/525#pullrequestreview-1407837123) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+3. 🎉 Merged PR [#524](https://github.com/rainbowdashlabs/reputation-bot/pull/524) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+4. 💪 Opened PR [#524](https://github.com/rainbowdashlabs/reputation-bot/pull/524) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+5. 👍 Approved [#523](https://github.com/rainbowdashlabs/reputation-bot/pull/523#pullrequestreview-1407168168) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
