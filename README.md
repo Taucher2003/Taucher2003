@@ -70,11 +70,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#10](https://github.com/devcordde/tags/pull/10#pullrequestreview-1557616624) in [devcordde/tags](https://github.com/devcordde/tags)<br>
+1. 👍 Approved [#25](https://github.com/rainbowdashlabs/krile/pull/25#pullrequestreview-1559600109) in [rainbowdashlabs/krile](https://github.com/rainbowdashlabs/krile)<br>
 2. 👍 Approved [#10](https://github.com/devcordde/tags/pull/10#pullrequestreview-1557616624) in [devcordde/tags](https://github.com/devcordde/tags)<br>
-3. 💪 Opened PR [#24](https://github.com/rainbowdashlabs/krile/pull/24) in [rainbowdashlabs/krile](https://github.com/rainbowdashlabs/krile)<br>
-4. ❗️ Opened issue [#21](https://github.com/rainbowdashlabs/krile/issues/21) in [rainbowdashlabs/krile](https://github.com/rainbowdashlabs/krile)<br>
-5. 🎉 Merged PR [#219](https://github.com/devcordde/devmarkt-backend/pull/219) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+3. 👍 Approved [#10](https://github.com/devcordde/tags/pull/10#pullrequestreview-1557616624) in [devcordde/tags](https://github.com/devcordde/tags)<br>
+4. 💪 Opened PR [#24](https://github.com/rainbowdashlabs/krile/pull/24) in [rainbowdashlabs/krile](https://github.com/rainbowdashlabs/krile)<br>
+5. ❗️ Opened issue [#21](https://github.com/rainbowdashlabs/krile/issues/21) in [rainbowdashlabs/krile](https://github.com/rainbowdashlabs/krile)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
