@@ -7,7 +7,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/badge/Taucher2003%231578-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>][taucherdiscord] 
+[<img src="https://img.shields.io/badge/Taucher2003-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>][taucherdiscord] 
 [<img src="https://img.shields.io/badge/Taucher2003-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
 [<img src="https://img.shields.io/badge/Taucher2003-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
 <br>
