@@ -47,6 +47,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 | NotABot | System Administrator & DevOps Engineer | since 07.03.2021 |
 | Reputation Bot | Collaborator | since 30.06.2021 |
 | GitLab | GitLab Hero<br>GitLab Core Team | since 18.11.2021<br>since 12.02.2023 |
+| Uroria Network | System Administrator & DevOps Engineer | since 15.10.2022 |
 <!--| MarniX Developments | Founder, CTO | since 03.08.2020 |-->
 
 <p>
@@ -57,6 +58,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 [![Discord](https://img.shields.io/discord/803679267303981056?color=c32047&label=NotABot&logo=discord&style=flat-square)][notabotdiscord]
 [![Discord](https://img.shields.io/discord/853250161915985958?color=fdb846&label=Reputation%20Bot&logo=discord&style=flat-square)][reputationbotdiscord]
 [![Discord](https://img.shields.io/discord/778180511088640070?color=fc6d26&label=GitLab%20Community&logo=discord&style=flat-square)][gitlab-discord]
+[![Discord](https://img.shields.io/discord/1031228611941896345?color=009ec2&label=Uroria%20Network&logo=discord&style=flat-square)][uroriadiscord]
  
 <!-- DEPRECATED SHIELDS -->
 <!--![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)-->
@@ -134,6 +136,7 @@ JSON             53 mins         █▒░░░░░░░░░░░░░�
 [hamibotdiscord]: https://discord.gg/7QGMbuC
 [notabotdiscord]: https://discord.gg/CSCYeNfA77
 [reputationbotdiscord]: https://discord.gg/wrqrUJGuru
+[uroriadiscord]: https://dc.uroria.com
 
 [gitlab-discord]: https://discord.gg/gitlab
 [gitlab-certified-associate]: https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam
