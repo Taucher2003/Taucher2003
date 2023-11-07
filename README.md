@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1](https://github.com/Uroria/Frontend/pull/1#pullrequestreview-1700495894) in [Uroria/Frontend](https://github.com/Uroria/Frontend)<br>
-2. 🎉 Merged PR [#231](https://github.com/devcordde/devmarkt-backend/pull/231) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-3. 👍 Approved [#231](https://github.com/devcordde/devmarkt-backend/pull/231#pullrequestreview-1685864742) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-4. 🎉 Merged PR [#233](https://github.com/devcordde/devmarkt-backend/pull/233) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-5. 👍 Approved [#233](https://github.com/devcordde/devmarkt-backend/pull/233#pullrequestreview-1685859159) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+1. ✔️ Closed issue [#16](https://github.com/Uroria/Frontend/issues/16) in [Uroria/Frontend](https://github.com/Uroria/Frontend)<br>
+2. 👍 Approved [#1](https://github.com/Uroria/Frontend/pull/1#pullrequestreview-1700495894) in [Uroria/Frontend](https://github.com/Uroria/Frontend)<br>
+3. 🎉 Merged PR [#231](https://github.com/devcordde/devmarkt-backend/pull/231) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+4. 👍 Approved [#231](https://github.com/devcordde/devmarkt-backend/pull/231#pullrequestreview-1685864742) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+5. 🎉 Merged PR [#233](https://github.com/devcordde/devmarkt-backend/pull/233) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
