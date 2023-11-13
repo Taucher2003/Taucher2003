@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 📔 Created new repository [Taucher2003/gl-gh-pipeline-testing](https://github.com/Taucher2003/gl-gh-pipeline-testing)<br>
-3. ✔️ Closed issue [#16](https://github.com/Uroria/Frontend/issues/16) in [Uroria/Frontend](https://github.com/Uroria/Frontend)<br>
-4. 👍 Approved [#1](https://github.com/Uroria/Frontend/pull/1#pullrequestreview-1700495894) in [Uroria/Frontend](https://github.com/Uroria/Frontend)<br>
-5. 🎉 Merged PR [#231](https://github.com/devcordde/devmarkt-backend/pull/231) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+1. 💪 Opened PR [#1](https://github.com/Taucher2003/gl-gh-pipeline-testing/pull/1) in [Taucher2003/gl-gh-pipeline-testing](https://github.com/Taucher2003/gl-gh-pipeline-testing)<br>
+2. 📔 Created new repository [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 📔 Created new repository [Taucher2003/gl-gh-pipeline-testing](https://github.com/Taucher2003/gl-gh-pipeline-testing)<br>
+4. ✔️ Closed issue [#16](https://github.com/Uroria/Frontend/issues/16) in [Uroria/Frontend](https://github.com/Uroria/Frontend)<br>
+5. 👍 Approved [#1](https://github.com/Uroria/Frontend/pull/1#pullrequestreview-1700495894) in [Uroria/Frontend](https://github.com/Uroria/Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
