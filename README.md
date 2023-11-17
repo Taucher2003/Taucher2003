@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#11](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/11) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 💪 Opened PR [#11](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/11) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#236](https://github.com/devcordde/devmarkt-backend/pull/236) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-4. 👍 Approved [#236](https://github.com/devcordde/devmarkt-backend/pull/236#pullrequestreview-1737729920) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-5. 🎉 Merged PR [#10](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/10) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. ❗️ Opened issue [#12](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/12) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. ✌️ Released [1.0.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.0.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. ✌️ Released [1.0.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.0.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 🎉 Merged PR [#11](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/11) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 💪 Opened PR [#11](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/11) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
