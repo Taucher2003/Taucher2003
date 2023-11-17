@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#236](https://github.com/devcordde/devmarkt-backend/pull/236) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-2. 👍 Approved [#236](https://github.com/devcordde/devmarkt-backend/pull/236#pullrequestreview-1737729920) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-3. 🎉 Merged PR [#10](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/10) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 💪 Opened PR [#10](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/10) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 🎉 Merged PR [#9](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/9) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 💪 Opened PR [#11](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/11) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 🎉 Merged PR [#236](https://github.com/devcordde/devmarkt-backend/pull/236) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+3. 👍 Approved [#236](https://github.com/devcordde/devmarkt-backend/pull/236#pullrequestreview-1737729920) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+4. 🎉 Merged PR [#10](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/10) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 💪 Opened PR [#10](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/10) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
