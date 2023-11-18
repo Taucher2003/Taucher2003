@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#15](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/15) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. ✔️ Closed issue [#13](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/13) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#14](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/14) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 💪 Opened PR [#14](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/14) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. ❗️ Opened issue [#13](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/13) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. ❗️ Opened issue [#16](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/16) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 🎉 Merged PR [#15](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/15) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 💪 Opened PR [#15](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/15) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. ✔️ Closed issue [#13](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/13) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#14](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/14) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
