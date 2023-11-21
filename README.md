@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/code0-tech/base-ui/pull/1) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-2. ❗️ Opened issue [#20](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/20) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. ✔️ Closed issue [#12](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/12) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#19](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/19) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 💪 Opened PR [#19](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/19) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 🎉 Merged PR [#1](https://github.com/code0-tech/base-ui/pull/1) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+2. 💪 Opened PR [#1](https://github.com/code0-tech/base-ui/pull/1) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+3. ❗️ Opened issue [#20](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/20) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. ✔️ Closed issue [#12](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/12) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#19](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/19) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
