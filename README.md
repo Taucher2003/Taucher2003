@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#22](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/22) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 🎉 Merged PR [#3](https://github.com/code0-tech/base-ui/pull/3) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-3. ✌️ Released [1.1.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.1.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 💪 Opened PR [#3](https://github.com/code0-tech/base-ui/pull/3) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-5. ✌️ Released [1.1.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.1.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 💪 Opened PR [#23](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/23) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 💪 Opened PR [#3](https://github.com/Taucher2003/gl-gh-pipeline-testing/pull/3) in [Taucher2003/gl-gh-pipeline-testing](https://github.com/Taucher2003/gl-gh-pipeline-testing)<br>
+3. ❌ Closed PR [#2](https://github.com/Taucher2003/gl-gh-pipeline-testing/pull/2) in [Taucher2003/gl-gh-pipeline-testing](https://github.com/Taucher2003/gl-gh-pipeline-testing)<br>
+4. 💪 Opened PR [#2](https://github.com/Taucher2003/gl-gh-pipeline-testing/pull/2) in [Taucher2003/gl-gh-pipeline-testing](https://github.com/Taucher2003/gl-gh-pipeline-testing)<br>
+5. ❗️ Opened issue [#22](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/22) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
