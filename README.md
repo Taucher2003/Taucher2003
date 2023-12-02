@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#47](https://github.com/devcordde/adventofcode-23/pull/47) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
-2. ❌ Closed PR [#1](https://github.com/Taucher2003/adventofcode-23/pull/1) in [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23)<br>
-3. 💪 Opened PR [#1](https://github.com/Taucher2003/adventofcode-23/pull/1) in [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23)<br>
-4. 🔱 Forked [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23) from [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
-5. 👍 Approved [#571](https://github.com/rainbowdashlabs/reputation-bot/pull/571#pullrequestreview-1760948497) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+1. 💪 Opened PR [#49](https://github.com/devcordde/adventofcode-23/pull/49) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+2. 💪 Opened PR [#47](https://github.com/devcordde/adventofcode-23/pull/47) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+3. ❌ Closed PR [#1](https://github.com/Taucher2003/adventofcode-23/pull/1) in [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23)<br>
+4. 💪 Opened PR [#1](https://github.com/Taucher2003/adventofcode-23/pull/1) in [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23)<br>
+5. 🔱 Forked [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23) from [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
