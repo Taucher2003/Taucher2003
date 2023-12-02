@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [code0-tech/Sagittarius](https://github.com/code0-tech/Sagittarius)<br>
-2. ❌ Closed PR [#3](https://github.com/Taucher2003/gl-gh-pipeline-testing/pull/3) in [Taucher2003/gl-gh-pipeline-testing](https://github.com/Taucher2003/gl-gh-pipeline-testing)<br>
-3. 🎉 Merged PR [#4](https://github.com/code0-tech/base-ui/pull/4) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-4. 💪 Opened PR [#4](https://github.com/code0-tech/base-ui/pull/4) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-5. ✌️ Released [1.2.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.2.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 💪 Opened PR [#47](https://github.com/devcordde/adventofcode-23/pull/47) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+2. ❌ Closed PR [#1](https://github.com/Taucher2003/adventofcode-23/pull/1) in [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23)<br>
+3. 💪 Opened PR [#1](https://github.com/Taucher2003/adventofcode-23/pull/1) in [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23)<br>
+4. 🔱 Forked [Taucher2003/adventofcode-23](https://github.com/Taucher2003/adventofcode-23) from [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+5. 👍 Approved [#571](https://github.com/rainbowdashlabs/reputation-bot/pull/571#pullrequestreview-1760948497) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
