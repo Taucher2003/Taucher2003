@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/code0-tech/Sagittarius/pull/2) in [code0-tech/Sagittarius](https://github.com/code0-tech/Sagittarius)<br>
-2. ✌️ Released [1.3.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.3.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#26](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/26) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#28](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/28) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 💪 Opened PR [#28](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/28) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 💪 Opened PR [#67](https://github.com/devcordde/adventofcode-23/pull/67) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+2. ❌ Closed PR [#2](https://github.com/code0-tech/Sagittarius/pull/2) in [code0-tech/Sagittarius](https://github.com/code0-tech/Sagittarius)<br>
+3. ✌️ Released [1.3.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.3.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 🎉 Merged PR [#26](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/26) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#28](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/28) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
