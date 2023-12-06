@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#86](https://github.com/devcordde/adventofcode-23/pull/86) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
-2. 🎉 Merged PR [#240](https://github.com/devcordde/devmarkt-backend/pull/240) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-3. 👍 Approved [#240](https://github.com/devcordde/devmarkt-backend/pull/240#pullrequestreview-1763245738) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-4. 🎉 Merged PR [#239](https://github.com/devcordde/devmarkt-backend/pull/239) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-5. 👍 Approved [#239](https://github.com/devcordde/devmarkt-backend/pull/239#pullrequestreview-1763230469) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+1. 💪 Opened PR [#100](https://github.com/devcordde/adventofcode-23/pull/100) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+2. 💪 Opened PR [#86](https://github.com/devcordde/adventofcode-23/pull/86) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+3. 🎉 Merged PR [#240](https://github.com/devcordde/devmarkt-backend/pull/240) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+4. 👍 Approved [#240](https://github.com/devcordde/devmarkt-backend/pull/240#pullrequestreview-1763245738) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+5. 🎉 Merged PR [#239](https://github.com/devcordde/devmarkt-backend/pull/239) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
