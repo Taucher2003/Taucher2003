@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/code0-tech/base-ui/pull/6) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-2. 🔴 Requested changes in [#5](https://github.com/code0-tech/base-ui/pull/5#pullrequestreview-1770910798) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-3. 💪 Opened PR [#110](https://github.com/devcordde/adventofcode-23/pull/110) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
-4. 💪 Opened PR [#100](https://github.com/devcordde/adventofcode-23/pull/100) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
-5. 💪 Opened PR [#86](https://github.com/devcordde/adventofcode-23/pull/86) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
+1. 🎉 Merged PR [#3](https://github.com/code0-tech/Sagittarius/pull/3) in [code0-tech/Sagittarius](https://github.com/code0-tech/Sagittarius)<br>
+2. 💪 Opened PR [#3](https://github.com/code0-tech/Sagittarius/pull/3) in [code0-tech/Sagittarius](https://github.com/code0-tech/Sagittarius)<br>
+3. 💪 Opened PR [#6](https://github.com/code0-tech/base-ui/pull/6) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+4. 🔴 Requested changes in [#5](https://github.com/code0-tech/base-ui/pull/5#pullrequestreview-1770910798) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+5. 💪 Opened PR [#110](https://github.com/devcordde/adventofcode-23/pull/110) in [devcordde/adventofcode-23](https://github.com/devcordde/adventofcode-23)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
