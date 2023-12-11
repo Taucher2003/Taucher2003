@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/code0-tech/sagittarius/pull/5) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 👍 Approved [#5](https://github.com/code0-tech/base-ui/pull/5#pullrequestreview-1773713849) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-3. 🎉 Merged PR [#6](https://github.com/code0-tech/base-ui/pull/6) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-4. 📔 Created new repository [code0-tech/build-images](https://github.com/code0-tech/build-images)<br>
-5. 💪 Opened PR [#5](https://github.com/code0-tech/Sagittarius/pull/5) in [code0-tech/Sagittarius](https://github.com/code0-tech/Sagittarius)<br>
+1. 👍 Approved [#7](https://github.com/code0-tech/base-ui/pull/7#pullrequestreview-1775656351) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+2. 🎉 Merged PR [#5](https://github.com/code0-tech/sagittarius/pull/5) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 👍 Approved [#5](https://github.com/code0-tech/base-ui/pull/5#pullrequestreview-1773713849) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+4. 🎉 Merged PR [#6](https://github.com/code0-tech/base-ui/pull/6) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+5. 📔 Created new repository [code0-tech/build-images](https://github.com/code0-tech/build-images)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
