@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/code0-tech/docs/pull/1) in [code0-tech/docs](https://github.com/code0-tech/docs)<br>
-2. 👍 Approved [#5](https://github.com/devcordde/tags/pull/5#pullrequestreview-1787599927) in [devcordde/tags](https://github.com/devcordde/tags)<br>
-3. 🎉 Merged PR [#20](https://github.com/code0-tech/base-ui/pull/20) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
-4. 📔 Created new repository [code0-tech/docs](https://github.com/code0-tech/docs)<br>
-5. 💪 Opened PR [#20](https://github.com/code0-tech/base-ui/pull/20) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+1. 🎉 Merged PR [#1](https://github.com/code0-tech/telescopium/pull/1) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+2. 💪 Opened PR [#1](https://github.com/code0-tech/docs/pull/1) in [code0-tech/docs](https://github.com/code0-tech/docs)<br>
+3. 👍 Approved [#5](https://github.com/devcordde/tags/pull/5#pullrequestreview-1787599927) in [devcordde/tags](https://github.com/devcordde/tags)<br>
+4. 🎉 Merged PR [#20](https://github.com/code0-tech/base-ui/pull/20) in [code0-tech/base-ui](https://github.com/code0-tech/base-ui)<br>
+5. 📔 Created new repository [code0-tech/docs](https://github.com/code0-tech/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
