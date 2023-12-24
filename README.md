@@ -72,9 +72,9 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#35](https://github.com/code0-tech/pictor/pull/35) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-2. ❌ Closed PR [#34](https://github.com/code0-tech/pictor/pull/34) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-3. ❌ Closed PR [#34](https://github.com/code0-tech/pictor/pull/34) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+1. 🎉 Merged PR [#35](https://github.com/code0-tech/pictor/pull/35) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+2. ✔️ Closed issue [#25](https://github.com/code0-tech/pictor/issues/25) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+3. 💪 Opened PR [#35](https://github.com/code0-tech/pictor/pull/35) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 4. ❌ Closed PR [#34](https://github.com/code0-tech/pictor/pull/34) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 5. ❌ Closed PR [#34](https://github.com/code0-tech/pictor/pull/34) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 <!--RECENT_ACTIVITY:end-->
