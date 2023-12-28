@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#14](https://github.com/code0-tech/sagittarius/pull/14) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💪 Opened PR [#39](https://github.com/code0-tech/pictor/pull/39) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-3. ✌️ Released [1.5.1](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.5.1) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#38](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/38) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 🎉 Merged PR [#37](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/37) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. ✔️ Closed issue [#33](https://github.com/code0-tech/pictor/issues/33) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+2. 🎉 Merged PR [#36](https://github.com/code0-tech/pictor/pull/36) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+3. 🎉 Merged PR [#39](https://github.com/code0-tech/pictor/pull/39) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+4. 💪 Opened PR [#14](https://github.com/code0-tech/sagittarius/pull/14) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 💪 Opened PR [#39](https://github.com/code0-tech/pictor/pull/39) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
