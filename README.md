@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#51](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/51) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. ✌️ Released [1.6.2](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.6.2) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#50](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/50) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#49](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/49) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 💪 Opened PR [#50](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/50) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 🎉 Merged PR [#51](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/51) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 💪 Opened PR [#51](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/51) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. ✌️ Released [1.6.2](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.6.2) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 🎉 Merged PR [#50](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/50) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#49](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/49) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
