@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [code0-tech/test](https://github.com/code0-tech/test)<br>
-2. 💪 Opened PR [#248](https://github.com/devcordde/devmarkt-backend/pull/248) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-3. 👍 Approved [#61](https://github.com/code0-tech/pictor/pull/61#pullrequestreview-1886609910) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-4. ❗️ Opened issue [#60](https://github.com/code0-tech/pictor/issues/60) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-5. ❌ Closed PR [#81](https://github.com/code0-tech/sagittarius/pull/81) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 🎉 Merged PR [#11](https://github.com/code0-tech/infrastructure/pull/11) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+2. 💪 Opened PR [#11](https://github.com/code0-tech/infrastructure/pull/11) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+3. 📔 Created new repository [code0-tech/test](https://github.com/code0-tech/test)<br>
+4. 💪 Opened PR [#248](https://github.com/devcordde/devmarkt-backend/pull/248) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+5. 👍 Approved [#61](https://github.com/code0-tech/pictor/pull/61#pullrequestreview-1886609910) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
