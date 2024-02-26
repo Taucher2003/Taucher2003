@@ -84,11 +84,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform        3 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   40.71 %
-TypeScript       1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Ruby             1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-YAML             47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Java             36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Terraform        2 hrs 26 mins   ██████████▒░░░░░░░░░░░░░░   41.19 %
+Ruby             1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+YAML             47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Java             36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Shell Script     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
