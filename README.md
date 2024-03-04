@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#61](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/61) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. ⭐ Starred [hellerve/programming-talks](https://github.com/hellerve/programming-talks)<br>
-3. 🎉 Merged PR [#89](https://github.com/code0-tech/sagittarius/pull/89) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 🎉 Merged PR [#79](https://github.com/code0-tech/pictor/pull/79) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-5. 👍 Approved [#89](https://github.com/code0-tech/sagittarius/pull/89#pullrequestreview-1913044095) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 🎉 Merged PR [#94](https://github.com/code0-tech/sagittarius/pull/94) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 👍 Approved [#94](https://github.com/code0-tech/sagittarius/pull/94#pullrequestreview-1915155371) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 🎉 Merged PR [#61](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/61) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. ⭐ Starred [hellerve/programming-talks](https://github.com/hellerve/programming-talks)<br>
+5. 🎉 Merged PR [#89](https://github.com/code0-tech/sagittarius/pull/89) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
