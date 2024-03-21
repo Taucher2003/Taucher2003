@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#18](https://github.com/code0-tech/infrastructure/pull/18) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-2. 👍 Approved [#18](https://github.com/code0-tech/infrastructure/pull/18#pullrequestreview-1953298485) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 🎉 Merged PR [#253](https://github.com/devcordde/devmarkt-backend/pull/253) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-4. 👍 Approved [#253](https://github.com/devcordde/devmarkt-backend/pull/253#pullrequestreview-1953218360) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
-5. 🎉 Merged PR [#107](https://github.com/code0-tech/sagittarius/pull/107) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#109](https://github.com/code0-tech/sagittarius/issues/109) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 🎉 Merged PR [#18](https://github.com/code0-tech/infrastructure/pull/18) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+3. 👍 Approved [#18](https://github.com/code0-tech/infrastructure/pull/18#pullrequestreview-1953298485) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+4. 🎉 Merged PR [#253](https://github.com/devcordde/devmarkt-backend/pull/253) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
+5. 👍 Approved [#253](https://github.com/devcordde/devmarkt-backend/pull/253#pullrequestreview-1953218360) in [devcordde/devmarkt-backend](https://github.com/devcordde/devmarkt-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
