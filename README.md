@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#87](https://github.com/code0-tech/pictor/pull/87) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-2. ✌️ Released [1.8.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.8.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#76](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/76) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 👍 Approved [#76](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/76#pullrequestreview-2038404694) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. ✔️ Closed issue [#155](https://github.com/code0-tech/sagittarius/issues/155) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#2](https://github.com/code0-tech/landing-page/pull/2) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
+2. 🎉 Merged PR [#87](https://github.com/code0-tech/pictor/pull/87) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+3. 💪 Opened PR [#87](https://github.com/code0-tech/pictor/pull/87) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+4. ✌️ Released [1.8.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.8.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#76](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/76) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
