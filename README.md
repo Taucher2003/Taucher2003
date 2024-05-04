@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#33](https://github.com/code0-tech/infrastructure/pull/33) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-2. 💪 Opened PR [#33](https://github.com/code0-tech/infrastructure/pull/33) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 🎉 Merged PR [#32](https://github.com/code0-tech/infrastructure/pull/32) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 💪 Opened PR [#32](https://github.com/code0-tech/infrastructure/pull/32) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. ✔️ Closed issue [#1](https://github.com/code0-tech/landing-page/issues/1) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
+1. ❗️ Opened issue [#161](https://github.com/code0-tech/sagittarius/issues/161) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#160](https://github.com/code0-tech/sagittarius/issues/160) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 🎉 Merged PR [#33](https://github.com/code0-tech/infrastructure/pull/33) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+4. 💪 Opened PR [#33](https://github.com/code0-tech/infrastructure/pull/33) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+5. 🎉 Merged PR [#32](https://github.com/code0-tech/infrastructure/pull/32) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
