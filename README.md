@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#192](https://github.com/code0-tech/sagittarius/pull/192) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 🎉 Merged PR [#195](https://github.com/code0-tech/sagittarius/pull/195) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 👍 Approved [#195](https://github.com/code0-tech/sagittarius/pull/195#pullrequestreview-2086357663) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 🎉 Merged PR [#137](https://github.com/code0-tech/pictor/pull/137) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-5. 👍 Approved [#137](https://github.com/code0-tech/pictor/pull/137#pullrequestreview-2086327405) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+1. 🎉 Merged PR [#17](https://github.com/code0-tech/landing-page/pull/17) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
+2. 🎉 Merged PR [#192](https://github.com/code0-tech/sagittarius/pull/192) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 🎉 Merged PR [#195](https://github.com/code0-tech/sagittarius/pull/195) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 👍 Approved [#195](https://github.com/code0-tech/sagittarius/pull/195#pullrequestreview-2086357663) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 🎉 Merged PR [#137](https://github.com/code0-tech/pictor/pull/137) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
