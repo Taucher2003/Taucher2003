@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#51](https://github.com/code0-tech/infrastructure/pull/51) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-2. 👍 Approved [#51](https://github.com/code0-tech/infrastructure/pull/51#pullrequestreview-2176650883) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 🎉 Merged PR [#50](https://github.com/code0-tech/infrastructure/pull/50) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 💪 Opened PR [#50](https://github.com/code0-tech/infrastructure/pull/50) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. 🎉 Merged PR [#24](https://github.com/code0-tech/telescopium/pull/24) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+1. 🎉 Merged PR [#52](https://github.com/code0-tech/infrastructure/pull/52) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+2. 👍 Approved [#52](https://github.com/code0-tech/infrastructure/pull/52#pullrequestreview-2176661937) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+3. ❌ Closed PR [#53](https://github.com/code0-tech/infrastructure/pull/53) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+4. 🎉 Merged PR [#51](https://github.com/code0-tech/infrastructure/pull/51) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+5. 👍 Approved [#51](https://github.com/code0-tech/infrastructure/pull/51#pullrequestreview-2176650883) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
