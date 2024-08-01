@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#253](https://github.com/code0-tech/sagittarius/issues/253) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 🎉 Merged PR [#257](https://github.com/code0-tech/sagittarius/pull/257) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 👍 Approved [#257](https://github.com/code0-tech/sagittarius/pull/257#pullrequestreview-2213763325) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 🎉 Merged PR [#35](https://github.com/code0-tech/telescopium/pull/35) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-5. 👍 Approved [#35](https://github.com/code0-tech/telescopium/pull/35#pullrequestreview-2212444734) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+1. 🎉 Merged PR [#259](https://github.com/code0-tech/sagittarius/pull/259) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 👍 Approved [#259](https://github.com/code0-tech/sagittarius/pull/259#pullrequestreview-2213873132) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ✔️ Closed issue [#253](https://github.com/code0-tech/sagittarius/issues/253) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 🎉 Merged PR [#257](https://github.com/code0-tech/sagittarius/pull/257) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 👍 Approved [#257](https://github.com/code0-tech/sagittarius/pull/257#pullrequestreview-2213763325) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
