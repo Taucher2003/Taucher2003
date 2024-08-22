@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#274](https://github.com/code0-tech/sagittarius/pull/274) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 👍 Approved [#274](https://github.com/code0-tech/sagittarius/pull/274#pullrequestreview-2251888353) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 🎉 Merged PR [#277](https://github.com/code0-tech/sagittarius/pull/277) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 👍 Approved [#277](https://github.com/code0-tech/sagittarius/pull/277#pullrequestreview-2251794416) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 🎉 Merged PR [#275](https://github.com/code0-tech/sagittarius/pull/275) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 🎉 Merged PR [#1](https://github.com/code0-tech/code0-identities/pull/1) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. 👍 Approved [#1](https://github.com/code0-tech/code0-identities/pull/1#pullrequestreview-2255531295) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. 🎉 Merged PR [#274](https://github.com/code0-tech/sagittarius/pull/274) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 👍 Approved [#274](https://github.com/code0-tech/sagittarius/pull/274#pullrequestreview-2251888353) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 🎉 Merged PR [#277](https://github.com/code0-tech/sagittarius/pull/277) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
