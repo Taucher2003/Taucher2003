@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#39](https://github.com/code0-tech/landing-page/pull/39) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
-2. 👍 Approved [#39](https://github.com/code0-tech/landing-page/pull/39#pullrequestreview-2274388239) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
-3. 👍 Approved [#61](https://github.com/code0-tech/infrastructure/pull/61#pullrequestreview-2274388129) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 🎉 Merged PR [#291](https://github.com/code0-tech/sagittarius/pull/291) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 👍 Approved [#291](https://github.com/code0-tech/sagittarius/pull/291#pullrequestreview-2274387931) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#292](https://github.com/code0-tech/sagittarius/pull/292) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 🎉 Merged PR [#39](https://github.com/code0-tech/landing-page/pull/39) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
+3. 👍 Approved [#39](https://github.com/code0-tech/landing-page/pull/39#pullrequestreview-2274388239) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
+4. 👍 Approved [#61](https://github.com/code0-tech/infrastructure/pull/61#pullrequestreview-2274388129) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+5. 🎉 Merged PR [#291](https://github.com/code0-tech/sagittarius/pull/291) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
