@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#61](https://github.com/code0-tech/infrastructure/pull/61) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-2. 🎉 Merged PR [#64](https://github.com/code0-tech/infrastructure/pull/64) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 👍 Approved [#64](https://github.com/code0-tech/infrastructure/pull/64#pullrequestreview-2287486385) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 💪 Opened PR [#292](https://github.com/code0-tech/sagittarius/pull/292) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 🎉 Merged PR [#39](https://github.com/code0-tech/landing-page/pull/39) in [code0-tech/landing-page](https://github.com/code0-tech/landing-page)<br>
+1. 🎉 Merged PR [#28](https://github.com/code0-tech/internal-tooling/pull/28) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
+2. 👍 Approved [#28](https://github.com/code0-tech/internal-tooling/pull/28#pullrequestreview-2287497971) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
+3. 🎉 Merged PR [#61](https://github.com/code0-tech/infrastructure/pull/61) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+4. 🎉 Merged PR [#64](https://github.com/code0-tech/infrastructure/pull/64) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+5. 👍 Approved [#64](https://github.com/code0-tech/infrastructure/pull/64#pullrequestreview-2287486385) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
