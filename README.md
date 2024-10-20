@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.9.1](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.9.1) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 🎉 Merged PR [#112](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/112) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#111](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/111) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 💪 Opened PR [#112](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/112) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 💪 Opened PR [#111](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/111) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 🎉 Merged PR [#32](https://github.com/code0-tech/internal-tooling/pull/32) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
+2. 👍 Approved [#32](https://github.com/code0-tech/internal-tooling/pull/32#pullrequestreview-2380658619) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
+3. 🎉 Merged PR [#49](https://github.com/code0-tech/telescopium/pull/49) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+4. 👍 Approved [#49](https://github.com/code0-tech/telescopium/pull/49#pullrequestreview-2380658508) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+5. 🎉 Merged PR [#78](https://github.com/code0-tech/infrastructure/pull/78) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
