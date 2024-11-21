@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.10](https://github.com/code0-tech/tucana/releases/tag/0.0.10) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 🎉 Merged PR [#16](https://github.com/code0-tech/tucana/pull/16) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ✔️ Closed issue [#11](https://github.com/code0-tech/tucana/issues/11) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 💪 Opened PR [#17](https://github.com/code0-tech/tucana/pull/17) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. ⭐ Starred [sladkoff/minecraft-prometheus-exporter](https://github.com/sladkoff/minecraft-prometheus-exporter)<br>
+1. 🎉 Merged PR [#333](https://github.com/code0-tech/sagittarius/pull/333) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 👍 Approved [#333](https://github.com/code0-tech/sagittarius/pull/333#pullrequestreview-2449478006) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ✌️ Released [0.0.10](https://github.com/code0-tech/tucana/releases/tag/0.0.10) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 🎉 Merged PR [#16](https://github.com/code0-tech/tucana/pull/16) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. ✔️ Closed issue [#11](https://github.com/code0-tech/tucana/issues/11) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
