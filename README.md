@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#15](https://github.com/code0-tech/code0-identities/pull/15) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-2. 🎉 Merged PR [#3](https://github.com/code0-tech/code0-license/pull/3) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
-3. 💪 Opened PR [#3](https://github.com/code0-tech/code0-license/pull/3) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
-4. 🎉 Merged PR [#84](https://github.com/code0-tech/infrastructure/pull/84) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. 👍 Approved [#84](https://github.com/code0-tech/infrastructure/pull/84#pullrequestreview-2456410759) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+1. 🎉 Merged PR [#15](https://github.com/code0-tech/code0-identities/pull/15) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. 💪 Opened PR [#15](https://github.com/code0-tech/code0-identities/pull/15) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. 🎉 Merged PR [#3](https://github.com/code0-tech/code0-license/pull/3) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+4. 💪 Opened PR [#3](https://github.com/code0-tech/code0-license/pull/3) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+5. 🎉 Merged PR [#84](https://github.com/code0-tech/infrastructure/pull/84) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
