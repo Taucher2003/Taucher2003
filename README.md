@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#85](https://github.com/code0-tech/infrastructure/pull/85) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-2. 👍 Approved [#85](https://github.com/code0-tech/infrastructure/pull/85#pullrequestreview-2470946036) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 🎉 Merged PR [#86](https://github.com/code0-tech/infrastructure/pull/86) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 👍 Approved [#86](https://github.com/code0-tech/infrastructure/pull/86#pullrequestreview-2470938864) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. 👍 Approved [#9](https://github.com/code0-tech/code0-identities/pull/9#pullrequestreview-2456759210) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+1. 💪 Opened PR [#12](https://github.com/devcordde/adventofcode-24/pull/12) in [devcordde/adventofcode-24](https://github.com/devcordde/adventofcode-24)<br>
+2. 🔱 Forked [Taucher2003/adventofcode-24](https://github.com/Taucher2003/adventofcode-24) from [devcordde/adventofcode-24](https://github.com/devcordde/adventofcode-24)<br>
+3. 🎉 Merged PR [#85](https://github.com/code0-tech/infrastructure/pull/85) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+4. 👍 Approved [#85](https://github.com/code0-tech/infrastructure/pull/85#pullrequestreview-2470946036) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+5. 🎉 Merged PR [#86](https://github.com/code0-tech/infrastructure/pull/86) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
