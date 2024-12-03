@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#120](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/120) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 💪 Opened PR [#119](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/119) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 💪 Opened PR [#38](https://github.com/devcordde/adventofcode-24/pull/38) in [devcordde/adventofcode-24](https://github.com/devcordde/adventofcode-24)<br>
-4. 💪 Opened PR [#22](https://github.com/devcordde/adventofcode-24/pull/22) in [devcordde/adventofcode-24](https://github.com/devcordde/adventofcode-24)<br>
-5. 💪 Opened PR [#12](https://github.com/devcordde/adventofcode-24/pull/12) in [devcordde/adventofcode-24](https://github.com/devcordde/adventofcode-24)<br>
+1. 🎉 Merged PR [#117](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/117) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 👍 Approved [#117](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/117#pullrequestreview-2476516121) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 🎉 Merged PR [#118](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/118) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 👍 Approved [#118](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/118#pullrequestreview-2476514865) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#120](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/120) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
