@@ -1,0 +1,20 @@
+name: Runner Support
+
+on:
+  schedule:
+    - cron: "16 * * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Taucher2003/GitLab-Pipeline-Action@1.9.1
+        with:
+          GL_SERVER_URL: https://gitlab.com
+          GL_PROJECT_ID: '31183189'
+          GL_RUNNER_TOKEN: ${{ secrets.GL_RUNNER_TOKEN }}
+          GL_API_TOKEN: ${{ secrets.GL_API_TOKEN }}
+          TASK: runner
