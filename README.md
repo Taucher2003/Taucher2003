@@ -84,7 +84,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby              0 secs          ██████████████████████▓░░   90.02 %
+Protocol Buffer   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+protobuf          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+YAML              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
