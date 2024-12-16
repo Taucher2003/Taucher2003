@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.9.2](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.9.2) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 🎉 Merged PR [#124](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/124) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 👍 Approved [#124](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/124#pullrequestreview-2500230844) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#123](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/123) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 👍 Approved [#123](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/123#pullrequestreview-2500220302) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 👍 Approved [#327](https://github.com/code0-tech/sagittarius/pull/327#pullrequestreview-2506458538) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ✌️ Released [1.9.2](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.9.2) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 🎉 Merged PR [#124](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/124) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 👍 Approved [#124](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/124#pullrequestreview-2500230844) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#123](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/123) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
