@@ -72,11 +72,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#21](https://github.com/code0-tech/tucana/issues/21) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 🎉 Merged PR [#89](https://github.com/code0-tech/infrastructure/pull/89) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 👍 Approved [#89](https://github.com/code0-tech/infrastructure/pull/89#pullrequestreview-2518531667) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 🎉 Merged PR [#88](https://github.com/code0-tech/infrastructure/pull/88) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. 👍 Approved [#88](https://github.com/code0-tech/infrastructure/pull/88#pullrequestreview-2509566144) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+1. ✌️ Released [0.0.12](https://github.com/code0-tech/tucana/releases/tag/0.0.12) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. ❗️ Opened issue [#21](https://github.com/code0-tech/tucana/issues/21) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. 🎉 Merged PR [#89](https://github.com/code0-tech/infrastructure/pull/89) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+4. 👍 Approved [#89](https://github.com/code0-tech/infrastructure/pull/89#pullrequestreview-2518531667) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+5. 🎉 Merged PR [#88](https://github.com/code0-tech/infrastructure/pull/88) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
