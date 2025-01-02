@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [0.0.14](https://github.com/code0-tech/tucana/releases/tag/0.0.14) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 💪 Opened PR [#56](https://github.com/code0-tech/telescopium/pull/56) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-3. ✔️ Closed issue [#92](https://github.com/code0-tech/infrastructure/issues/92) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 🎉 Merged PR [#93](https://github.com/code0-tech/infrastructure/pull/93) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. 👍 Approved [#2](https://github.com/code0-tech/.github/pull/2#pullrequestreview-2524762708) in [code0-tech/.github](https://github.com/code0-tech/.github)<br>
+1. 🎉 Merged PR [#117](https://github.com/code0-tech/aquila/pull/117) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
+2. 💪 Opened PR [#117](https://github.com/code0-tech/aquila/pull/117) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
+3. ✌️ Released [0.0.14](https://github.com/code0-tech/tucana/releases/tag/0.0.14) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 💪 Opened PR [#56](https://github.com/code0-tech/telescopium/pull/56) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+5. ✔️ Closed issue [#92](https://github.com/code0-tech/infrastructure/issues/92) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
