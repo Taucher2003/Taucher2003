@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#44](https://github.com/devcordde/tags/pull/44#pullrequestreview-2578845938) in [devcordde/tags](https://github.com/devcordde/tags)<br>
-2. 🎉 Merged PR [#103](https://github.com/code0-tech/infrastructure/pull/103) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 👍 Approved [#103](https://github.com/code0-tech/infrastructure/pull/103#pullrequestreview-2576147612) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 🎉 Merged PR [#277](https://github.com/code0-tech/pictor/pull/277) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-5. ✔️ Closed issue [#259](https://github.com/code0-tech/pictor/issues/259) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+1. ❗️ Opened issue [#1](https://github.com/code0-tech/sculptor/issues/1) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+2. ✔️ Closed issue [#272](https://github.com/code0-tech/sagittarius/issues/272) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 📔 Created new repository [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+4. 👍 Approved [#44](https://github.com/devcordde/tags/pull/44#pullrequestreview-2578845938) in [devcordde/tags](https://github.com/devcordde/tags)<br>
+5. 🎉 Merged PR [#103](https://github.com/code0-tech/infrastructure/pull/103) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
