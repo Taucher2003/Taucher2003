@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#40](https://github.com/code0-tech/tucana/issues/40) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 🎉 Merged PR [#42](https://github.com/code0-tech/tucana/pull/42) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. 👍 Approved [#42](https://github.com/code0-tech/tucana/pull/42#pullrequestreview-2587473435) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 👍 Approved [#60](https://github.com/code0-tech/telescopium/pull/60#pullrequestreview-2584562751) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-5. 🎉 Merged PR [#105](https://github.com/code0-tech/infrastructure/pull/105) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+1. 🎉 Merged PR [#130](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/130) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 👍 Approved [#130](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/130#pullrequestreview-2588584093) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 🎉 Merged PR [#131](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/131) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 👍 Approved [#131](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/131#pullrequestreview-2588583974) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. ✔️ Closed issue [#40](https://github.com/code0-tech/tucana/issues/40) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
