@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#130](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/130) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 👍 Approved [#130](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/130#pullrequestreview-2588584093) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#131](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/131) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 👍 Approved [#131](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/131#pullrequestreview-2588583974) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. ✔️ Closed issue [#40](https://github.com/code0-tech/tucana/issues/40) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 🎉 Merged PR [#280](https://github.com/code0-tech/pictor/pull/280) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+2. 👍 Approved [#280](https://github.com/code0-tech/pictor/pull/280#pullrequestreview-2588590989) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+3. 🎉 Merged PR [#284](https://github.com/code0-tech/pictor/pull/284) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+4. ❗️ Opened issue [#286](https://github.com/code0-tech/pictor/issues/286) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+5. ❗️ Opened issue [#285](https://github.com/code0-tech/pictor/issues/285) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
