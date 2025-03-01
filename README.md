@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#138](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/138) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 👍 Approved [#138](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/138#pullrequestreview-2652402139) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 🎉 Merged PR [#110](https://github.com/code0-tech/infrastructure/pull/110) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 👍 Approved [#110](https://github.com/code0-tech/infrastructure/pull/110#pullrequestreview-2651388975) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. ✔️ Closed issue [#2](https://github.com/code0-tech/code0-zero_track/issues/2) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
+1. 🎉 Merged PR [#130](https://github.com/code0-tech/aquila/pull/130) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
+2. 👍 Approved [#130](https://github.com/code0-tech/aquila/pull/130#pullrequestreview-2652497483) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
+3. 🎉 Merged PR [#65](https://github.com/code0-tech/telescopium/pull/65) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+4. 👍 Approved [#65](https://github.com/code0-tech/telescopium/pull/65#pullrequestreview-2652497166) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+5. 🎉 Merged PR [#44](https://github.com/code0-tech/internal-tooling/pull/44) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
