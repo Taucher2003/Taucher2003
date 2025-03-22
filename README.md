@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#140](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/140) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 🎉 Merged PR [#137](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/137) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 👍 Approved [#137](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/137#pullrequestreview-2707237592) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#144](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/144) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 🎉 Merged PR [#143](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/143) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. ✌️ Released [1.10.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.10.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 🎉 Merged PR [#140](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/140) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 🎉 Merged PR [#137](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/137) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 👍 Approved [#137](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/137#pullrequestreview-2707237592) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 🎉 Merged PR [#144](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/144) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
