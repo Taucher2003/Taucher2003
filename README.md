@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#51](https://github.com/code0-tech/internal-tooling/issues/51) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
-2. ✔️ Closed issue [#118](https://github.com/code0-tech/infrastructure/issues/118) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-3. 🎉 Merged PR [#119](https://github.com/code0-tech/infrastructure/pull/119) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 💪 Opened PR [#119](https://github.com/code0-tech/infrastructure/pull/119) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. ❗️ Opened issue [#118](https://github.com/code0-tech/infrastructure/issues/118) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+1. 👍 Approved [#49](https://github.com/code0-tech/tucana/pull/49#pullrequestreview-2762162785) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 👍 Approved [#47](https://github.com/code0-tech/tucana/pull/47#pullrequestreview-2762162466) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. ❗️ Opened issue [#51](https://github.com/code0-tech/internal-tooling/issues/51) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
+4. ✔️ Closed issue [#118](https://github.com/code0-tech/infrastructure/issues/118) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+5. 🎉 Merged PR [#119](https://github.com/code0-tech/infrastructure/pull/119) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
