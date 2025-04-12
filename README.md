@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#431](https://github.com/code0-tech/sagittarius/pull/431) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💪 Opened PR [#69](https://github.com/code0-tech/telescopium/pull/69) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-3. 👍 Approved [#49](https://github.com/code0-tech/tucana/pull/49#pullrequestreview-2762162785) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 👍 Approved [#47](https://github.com/code0-tech/tucana/pull/47#pullrequestreview-2762162466) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. ❗️ Opened issue [#51](https://github.com/code0-tech/internal-tooling/issues/51) in [code0-tech/internal-tooling](https://github.com/code0-tech/internal-tooling)<br>
+1. 💪 Opened PR [#143](https://github.com/code0-tech/aquila/pull/143) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
+2. 💪 Opened PR [#431](https://github.com/code0-tech/sagittarius/pull/431) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💪 Opened PR [#69](https://github.com/code0-tech/telescopium/pull/69) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+4. 👍 Approved [#49](https://github.com/code0-tech/tucana/pull/49#pullrequestreview-2762162785) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. 👍 Approved [#47](https://github.com/code0-tech/tucana/pull/47#pullrequestreview-2762162466) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
