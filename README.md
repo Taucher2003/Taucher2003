@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#57](https://github.com/code0-tech/tucana/issues/57) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 🎉 Merged PR [#65](https://github.com/code0-tech/tucana/pull/65) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. 👍 Approved [#65](https://github.com/code0-tech/tucana/pull/65#pullrequestreview-2797672571) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. ✔️ Closed issue [#61](https://github.com/code0-tech/tucana/issues/61) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 🎉 Merged PR [#64](https://github.com/code0-tech/tucana/pull/64) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. ✔️ Closed issue [#70](https://github.com/code0-tech/tucana/issues/70) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. ✔️ Closed issue [#69](https://github.com/code0-tech/tucana/issues/69) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. ✔️ Closed issue [#68](https://github.com/code0-tech/tucana/issues/68) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. ✔️ Closed issue [#67](https://github.com/code0-tech/tucana/issues/67) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. ✔️ Closed issue [#71](https://github.com/code0-tech/tucana/issues/71) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
