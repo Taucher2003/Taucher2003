@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#81](https://github.com/code0-tech/tucana/pull/81#pullrequestreview-2813258690) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. 🎉 Merged PR [#448](https://github.com/code0-tech/sagittarius/pull/448) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 👍 Approved [#448](https://github.com/code0-tech/sagittarius/pull/448#pullrequestreview-2813211726) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 🎉 Merged PR [#449](https://github.com/code0-tech/sagittarius/pull/449) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 👍 Approved [#449](https://github.com/code0-tech/sagittarius/pull/449#pullrequestreview-2813211539) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ✔️ Closed issue [#416](https://github.com/code0-tech/sagittarius/issues/416) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 🎉 Merged PR [#454](https://github.com/code0-tech/sagittarius/pull/454) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 👍 Approved [#454](https://github.com/code0-tech/sagittarius/pull/454#pullrequestreview-2813534030) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 👍 Approved [#81](https://github.com/code0-tech/tucana/pull/81#pullrequestreview-2813258690) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. 🎉 Merged PR [#448](https://github.com/code0-tech/sagittarius/pull/448) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
