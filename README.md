@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#442](https://github.com/code0-tech/sagittarius/issues/442) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 🎉 Merged PR [#461](https://github.com/code0-tech/sagittarius/pull/461) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 🎉 Merged PR [#135](https://github.com/code0-tech/infrastructure/pull/135) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-4. 👍 Approved [#135](https://github.com/code0-tech/infrastructure/pull/135#pullrequestreview-2847051590) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
-5. 📔 Created new repository [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
+1. 💪 Opened PR [#153](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/153) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 💪 Opened PR [#152](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/152) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. ✔️ Closed issue [#442](https://github.com/code0-tech/sagittarius/issues/442) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 🎉 Merged PR [#461](https://github.com/code0-tech/sagittarius/pull/461) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 🎉 Merged PR [#135](https://github.com/code0-tech/infrastructure/pull/135) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
