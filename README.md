@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#142](https://github.com/code0-tech/mensa/pull/142) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. 💪 Opened PR [#142](https://github.com/code0-tech/mensa/pull/142) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. 👍 Approved [#108](https://github.com/code0-tech/tucana/pull/108#pullrequestreview-2907429284) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 👍 Approved [#109](https://github.com/code0-tech/tucana/pull/109#pullrequestreview-2907413215) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 👍 Approved [#105](https://github.com/code0-tech/tucana/pull/105#pullrequestreview-2907405449) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+1. 💪 Opened PR [#143](https://github.com/code0-tech/mensa/pull/143) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 🎉 Merged PR [#77](https://github.com/code0-tech/cygnus/pull/77) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+3. 💪 Opened PR [#77](https://github.com/code0-tech/cygnus/pull/77) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+4. ❗️ Opened issue [#26](https://github.com/code0-tech/reticulum/issues/26) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. 🎉 Merged PR [#142](https://github.com/code0-tech/mensa/pull/142) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
