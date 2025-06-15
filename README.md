@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/taucher-testing/ruleset-testing/pull/1) in [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
-2. 💪 Opened PR [#1](https://github.com/taucher-testing/ruleset-testing/pull/1) in [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
-3. 📔 Created new repository [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
-4. 🎉 Merged PR [#144](https://github.com/code0-tech/mensa/pull/144) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. 💪 Opened PR [#144](https://github.com/code0-tech/mensa/pull/144) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+1. ❗️ Opened issue [#49](https://github.com/code0-tech/code0-flow/issues/49) in [code0-tech/code0-flow](https://github.com/code0-tech/code0-flow)<br>
+2. ❗️ Opened issue [#48](https://github.com/code0-tech/code0-flow/issues/48) in [code0-tech/code0-flow](https://github.com/code0-tech/code0-flow)<br>
+3. ❌ Closed PR [#1](https://github.com/taucher-testing/ruleset-testing/pull/1) in [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
+4. 💪 Opened PR [#1](https://github.com/taucher-testing/ruleset-testing/pull/1) in [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
+5. 📔 Created new repository [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
