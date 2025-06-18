@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#49](https://github.com/code0-tech/code0-flow/issues/49) in [code0-tech/code0-flow](https://github.com/code0-tech/code0-flow)<br>
-2. ❗️ Opened issue [#48](https://github.com/code0-tech/code0-flow/issues/48) in [code0-tech/code0-flow](https://github.com/code0-tech/code0-flow)<br>
-3. ❌ Closed PR [#1](https://github.com/taucher-testing/ruleset-testing/pull/1) in [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
-4. 💪 Opened PR [#1](https://github.com/taucher-testing/ruleset-testing/pull/1) in [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
-5. 📔 Created new repository [taucher-testing/ruleset-testing](https://github.com/taucher-testing/ruleset-testing)<br>
+1. 🎉 Merged PR [#342](https://github.com/code0-tech/pictor/pull/342) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+2. 👍 Approved [#342](https://github.com/code0-tech/pictor/pull/342#pullrequestreview-2936970645) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+3. 💪 Opened PR [#351](https://github.com/code0-tech/pictor/pull/351) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+4. ❗️ Opened issue [#49](https://github.com/code0-tech/code0-flow/issues/49) in [code0-tech/code0-flow](https://github.com/code0-tech/code0-flow)<br>
+5. ❗️ Opened issue [#48](https://github.com/code0-tech/code0-flow/issues/48) in [code0-tech/code0-flow](https://github.com/code0-tech/code0-flow)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
