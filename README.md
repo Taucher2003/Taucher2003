@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#37](https://github.com/code0-tech/reticulum/pull/37) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 👍 Approved [#37](https://github.com/code0-tech/reticulum/pull/37#pullrequestreview-2968482317) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-3. 🎉 Merged PR [#38](https://github.com/code0-tech/reticulum/pull/38) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. 👍 Approved [#38](https://github.com/code0-tech/reticulum/pull/38#pullrequestreview-2968482069) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. 🎉 Merged PR [#35](https://github.com/code0-tech/reticulum/pull/35) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. 🎉 Merged PR [#73](https://github.com/code0-tech/monoceros/pull/73) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+2. 💪 Opened PR [#73](https://github.com/code0-tech/monoceros/pull/73) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+3. 🎉 Merged PR [#37](https://github.com/code0-tech/reticulum/pull/37) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. 👍 Approved [#37](https://github.com/code0-tech/reticulum/pull/37#pullrequestreview-2968482317) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. 🎉 Merged PR [#38](https://github.com/code0-tech/reticulum/pull/38) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
