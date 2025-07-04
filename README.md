@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#285](https://github.com/code0-tech/pictor/issues/285) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-2. 🎉 Merged PR [#363](https://github.com/code0-tech/pictor/pull/363) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-3. 🎉 Merged PR [#527](https://github.com/code0-tech/sagittarius/pull/527) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. 👍 Approved [#527](https://github.com/code0-tech/sagittarius/pull/527#pullrequestreview-2976193654) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ❗️ Opened issue [#44](https://github.com/code0-tech/reticulum/issues/44) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. 🎉 Merged PR [#66](https://github.com/code0-tech/monoceros/pull/66) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+2. 👍 Approved [#66](https://github.com/code0-tech/monoceros/pull/66#pullrequestreview-2987905335) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+3. 🎉 Merged PR [#364](https://github.com/code0-tech/pictor/pull/364) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+4. 👍 Approved [#364](https://github.com/code0-tech/pictor/pull/364#pullrequestreview-2987899361) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+5. 🎉 Merged PR [#148](https://github.com/code0-tech/mensa/pull/148) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
