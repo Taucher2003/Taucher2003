@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#52](https://github.com/code0-tech/reticulum/pull/52#pullrequestreview-3002891460) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 🎉 Merged PR [#159](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/159) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 👍 Approved [#159](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/159#pullrequestreview-2991590951) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#161](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/161) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 👍 Approved [#161](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/161#pullrequestreview-2991573854) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 💪 Opened PR [#3](https://github.com/code0-tech/pyxis/pull/3) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
+2. 🎉 Merged PR [#52](https://github.com/code0-tech/reticulum/pull/52) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+3. 👍 Approved [#52](https://github.com/code0-tech/reticulum/pull/52#pullrequestreview-3002891460) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. 🎉 Merged PR [#159](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/159) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 👍 Approved [#159](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/159#pullrequestreview-2991590951) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
