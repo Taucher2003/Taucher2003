@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#96](https://github.com/code0-tech/telescopium/pull/96) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-2. 👍 Approved [#96](https://github.com/code0-tech/telescopium/pull/96#pullrequestreview-3058233220) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-3. ✌️ Released [1.11.0](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.11.0) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#146](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/146) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 🎉 Merged PR [#162](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/162) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 🎉 Merged PR [#76](https://github.com/code0-tech/monoceros/pull/76) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+2. 👍 Approved [#76](https://github.com/code0-tech/monoceros/pull/76#pullrequestreview-3058234700) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+3. 🎉 Merged PR [#539](https://github.com/code0-tech/sagittarius/pull/539) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 👍 Approved [#539](https://github.com/code0-tech/sagittarius/pull/539#pullrequestreview-3058233795) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 🎉 Merged PR [#152](https://github.com/code0-tech/mensa/pull/152) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
