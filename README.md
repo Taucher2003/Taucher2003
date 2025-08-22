@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#169](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/169) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 👍 Approved [#169](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/169#pullrequestreview-3142088037) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 💪 Opened PR [#126](https://github.com/code0-tech/reticulum/pull/126) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. 🎉 Merged PR [#123](https://github.com/code0-tech/reticulum/pull/123) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. 👍 Approved [#123](https://github.com/code0-tech/reticulum/pull/123#pullrequestreview-3141847505) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. 💪 Opened PR [#170](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/170) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 🎉 Merged PR [#166](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/166) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 👍 Approved [#166](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/166#pullrequestreview-3142102061) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 🎉 Merged PR [#169](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/169) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 👍 Approved [#169](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/169#pullrequestreview-3142088037) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
