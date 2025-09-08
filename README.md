@@ -75,10 +75,10 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 <!--RECENT_ACTIVITY:start-->
 1. ✔️ Closed issue [#44](https://github.com/code0-tech/reticulum/issues/44) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 💪 Opened PR [#137](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-3. 👍 Approved [#163](https://github.com/code0-tech/mensa/pull/163#pullrequestreview-3171758924) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. 👍 Approved [#162](https://github.com/code0-tech/mensa/pull/162#pullrequestreview-3171741976) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. 👍 Approved [#161](https://github.com/code0-tech/mensa/pull/161#pullrequestreview-3171721701) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 🎉 Merged PR [#137](https://github.com/code0-tech/reticulum/pull/137) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+3. 💪 Opened PR [#137](https://github.com/code0-tech/reticulum/pull/137) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. 🎉 Merged PR [#163](https://github.com/code0-tech/mensa/pull/163) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+5. 👍 Approved [#163](https://github.com/code0-tech/mensa/pull/163#pullrequestreview-3171758924) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
