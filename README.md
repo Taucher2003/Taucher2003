@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#765](https://github.com/rainbowdashlabs/reputation-bot/pull/765) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-2. 👍 Approved [#765](https://github.com/rainbowdashlabs/reputation-bot/pull/765#pullrequestreview-3202742917) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
-3. ✔️ Closed issue [#44](https://github.com/code0-tech/reticulum/issues/44) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. 🎉 Merged PR [#137](https://github.com/code0-tech/reticulum/pull/137) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. 💪 Opened PR [#137](https://github.com/code0-tech/reticulum/pull/137) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. 🎉 Merged PR [#165](https://github.com/code0-tech/mensa/pull/165) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 👍 Approved [#165](https://github.com/code0-tech/mensa/pull/165#pullrequestreview-3246467576) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. 🎉 Merged PR [#765](https://github.com/rainbowdashlabs/reputation-bot/pull/765) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+4. 👍 Approved [#765](https://github.com/rainbowdashlabs/reputation-bot/pull/765#pullrequestreview-3202742917) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+5. ✔️ Closed issue [#44](https://github.com/code0-tech/reticulum/issues/44) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
