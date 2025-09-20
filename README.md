@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#166](https://github.com/code0-tech/mensa/pull/166) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. 👍 Approved [#166](https://github.com/code0-tech/mensa/pull/166#pullrequestreview-3249044023) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. 🎉 Merged PR [#165](https://github.com/code0-tech/mensa/pull/165) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. 👍 Approved [#165](https://github.com/code0-tech/mensa/pull/165#pullrequestreview-3246467576) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. 🎉 Merged PR [#765](https://github.com/rainbowdashlabs/reputation-bot/pull/765) in [rainbowdashlabs/reputation-bot](https://github.com/rainbowdashlabs/reputation-bot)<br>
+1. 🎉 Merged PR [#131](https://github.com/code0-tech/tucana/pull/131) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 💪 Opened PR [#131](https://github.com/code0-tech/tucana/pull/131) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. ✌️ Released [0.0.34](https://github.com/code0-tech/tucana/releases/tag/0.0.34) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. ✔️ Closed issue [#126](https://github.com/code0-tech/tucana/issues/126) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. 🎉 Merged PR [#130](https://github.com/code0-tech/tucana/pull/130) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
