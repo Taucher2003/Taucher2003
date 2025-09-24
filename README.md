@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#173](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/173#pullrequestreview-3258910791) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 🎉 Merged PR [#174](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/174) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 👍 Approved [#174](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/174#pullrequestreview-3258909266) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 🎉 Merged PR [#176](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/176) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 🎉 Merged PR [#175](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/175) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. ✔️ Closed issue [#383](https://github.com/code0-tech/sagittarius/issues/383) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 🎉 Merged PR [#561](https://github.com/code0-tech/sagittarius/pull/561) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ✔️ Closed issue [#384](https://github.com/code0-tech/sagittarius/issues/384) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 👍 Approved [#561](https://github.com/code0-tech/sagittarius/pull/561#pullrequestreview-3263794663) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 👍 Approved [#173](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/173#pullrequestreview-3258910791) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
