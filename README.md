@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#96](https://github.com/code0-tech/cygnus/pull/96) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
-2. 👍 Approved [#96](https://github.com/code0-tech/cygnus/pull/96#pullrequestreview-3275160361) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
-3. 🎉 Merged PR [#168](https://github.com/code0-tech/mensa/pull/168) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. 👍 Approved [#168](https://github.com/code0-tech/mensa/pull/168#pullrequestreview-3275160281) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. 🎉 Merged PR [#80](https://github.com/code0-tech/monoceros/pull/80) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+1. 💪 Opened PR [#71](https://github.com/code0-tech/code0-definition/pull/71) in [code0-tech/code0-definition](https://github.com/code0-tech/code0-definition)<br>
+2. 🎉 Merged PR [#96](https://github.com/code0-tech/cygnus/pull/96) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+3. 👍 Approved [#96](https://github.com/code0-tech/cygnus/pull/96#pullrequestreview-3275160361) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+4. 🎉 Merged PR [#168](https://github.com/code0-tech/mensa/pull/168) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+5. 👍 Approved [#168](https://github.com/code0-tech/mensa/pull/168#pullrequestreview-3275160281) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
