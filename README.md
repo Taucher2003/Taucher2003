@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#81](https://github.com/code0-tech/monoceros/pull/81) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-2. ✔️ Closed issue [#70](https://github.com/code0-tech/code0-definition/issues/70) in [code0-tech/code0-definition](https://github.com/code0-tech/code0-definition)<br>
-3. 🎉 Merged PR [#71](https://github.com/code0-tech/code0-definition/pull/71) in [code0-tech/code0-definition](https://github.com/code0-tech/code0-definition)<br>
-4. 💪 Opened PR [#71](https://github.com/code0-tech/code0-definition/pull/71) in [code0-tech/code0-definition](https://github.com/code0-tech/code0-definition)<br>
-5. 🎉 Merged PR [#96](https://github.com/code0-tech/cygnus/pull/96) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+1. 💪 Opened PR [#389](https://github.com/code0-tech/pictor/pull/389) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+2. 🎉 Merged PR [#81](https://github.com/code0-tech/monoceros/pull/81) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+3. 💪 Opened PR [#81](https://github.com/code0-tech/monoceros/pull/81) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+4. ✔️ Closed issue [#70](https://github.com/code0-tech/code0-definition/issues/70) in [code0-tech/code0-definition](https://github.com/code0-tech/code0-definition)<br>
+5. 🎉 Merged PR [#71](https://github.com/code0-tech/code0-definition/pull/71) in [code0-tech/code0-definition](https://github.com/code0-tech/code0-definition)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
