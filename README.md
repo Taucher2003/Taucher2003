@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#193](https://github.com/code0-tech/reticulum/pull/193#pullrequestreview-3352142778) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 👍 Approved [#173](https://github.com/code0-tech/mensa/pull/173#pullrequestreview-3351986133) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. 👍 Approved [#88](https://github.com/code0-tech/monoceros/pull/88#pullrequestreview-3351961122) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-4. 👍 Approved [#174](https://github.com/code0-tech/mensa/pull/174#pullrequestreview-3351958837) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. ✌️ Released [1.12.2](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.12.2) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 👍 Approved [#601](https://github.com/code0-tech/sagittarius/pull/601#pullrequestreview-3353195027) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 👍 Approved [#107](https://github.com/code0-tech/telescopium/pull/107#pullrequestreview-3353193276) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+3. 👍 Approved [#101](https://github.com/code0-tech/cygnus/pull/101#pullrequestreview-3353191476) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+4. 👍 Approved [#193](https://github.com/code0-tech/reticulum/pull/193#pullrequestreview-3352142778) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. 👍 Approved [#173](https://github.com/code0-tech/mensa/pull/173#pullrequestreview-3351986133) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
