@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#598](https://github.com/code0-tech/sagittarius/issues/598) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 👍 Approved [#612](https://github.com/code0-tech/sagittarius/pull/612#pullrequestreview-3372034611) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 👍 Approved [#381](https://github.com/code0-tech/pictor/pull/381#pullrequestreview-3372012233) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-4. 👍 Approved [#629](https://github.com/code0-tech/sagittarius/pull/629#pullrequestreview-3371823349) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ✔️ Closed issue [#560](https://github.com/code0-tech/sagittarius/issues/560) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 👍 Approved [#418](https://github.com/code0-tech/pictor/pull/418#pullrequestreview-3372211977) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+2. 👍 Approved [#415](https://github.com/code0-tech/pictor/pull/415#pullrequestreview-3372200992) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+3. 👍 Approved [#419](https://github.com/code0-tech/pictor/pull/419#pullrequestreview-3372199324) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+4. 👍 Approved [#420](https://github.com/code0-tech/pictor/pull/420#pullrequestreview-3372197896) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+5. 👍 Approved [#408](https://github.com/code0-tech/pictor/pull/408#pullrequestreview-3372195828) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
