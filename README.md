@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#90](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-2. 👍 Approved [#177](https://github.com/code0-tech/mensa/pull/177#pullrequestreview-3384951355) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. 👍 Approved [#178](https://github.com/code0-tech/mensa/pull/178#pullrequestreview-3384692532) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. 💪 Opened PR [#146](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-5. 💪 Opened PR [#635](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#17](undefined) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. ✌️ Released [0.3.0](https://github.com/code0-tech/code0-license/releases/tag/0.3.0) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+3. 💪 Opened PR [#5](undefined) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+4. 💪 Opened PR [#6](undefined) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
+5. 💪 Opened PR [#90](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
