@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17](undefined) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
-2. ✌️ Released [0.3.0](https://github.com/code0-tech/code0-license/releases/tag/0.3.0) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
-3. 💪 Opened PR [#5](undefined) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
-4. 💪 Opened PR [#6](undefined) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
-5. 💪 Opened PR [#90](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+1. ✌️ Released [0.0.2](https://github.com/code0-tech/code0-identities/releases/tag/0.0.2) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+2. 💪 Opened PR [#17](undefined) in [code0-tech/code0-identities](https://github.com/code0-tech/code0-identities)<br>
+3. ✌️ Released [0.3.0](https://github.com/code0-tech/code0-license/releases/tag/0.3.0) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+4. 💪 Opened PR [#5](undefined) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+5. 💪 Opened PR [#6](undefined) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
