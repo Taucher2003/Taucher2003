@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#14](https://github.com/code0-tech/sculptor/issues/14) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
-2. ❗️ Opened issue [#17](https://github.com/code0-tech/sculptor/issues/17) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
-3. 💪 Opened PR [#16](undefined) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
-4. ❗️ Opened issue [#665](https://github.com/code0-tech/sagittarius/issues/665) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ❗️ Opened issue [#664](https://github.com/code0-tech/sagittarius/issues/664) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#229](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+2. ✔️ Closed issue [#14](https://github.com/code0-tech/sculptor/issues/14) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+3. ❗️ Opened issue [#17](https://github.com/code0-tech/sculptor/issues/17) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+4. 💪 Opened PR [#16](undefined) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+5. ❗️ Opened issue [#665](https://github.com/code0-tech/sagittarius/issues/665) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
