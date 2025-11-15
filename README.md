@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](undefined) in [taucher-testing/merge-queue](https://github.com/taucher-testing/merge-queue)<br>
-2. 💪 Opened PR [#4](undefined) in [taucher-testing/merge-queue](https://github.com/taucher-testing/merge-queue)<br>
-3. ❌ Closed PR [#3](undefined) in [taucher-testing/merge-queue](https://github.com/taucher-testing/merge-queue)<br>
-4. 💪 Opened PR [#3](undefined) in [taucher-testing/merge-queue](https://github.com/taucher-testing/merge-queue)<br>
-5. 💪 Opened PR [#2](undefined) in [taucher-testing/merge-queue](https://github.com/taucher-testing/merge-queue)<br>
+1. ❗️ Opened issue [#695](https://github.com/code0-tech/sagittarius/issues/695) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#694](https://github.com/code0-tech/sagittarius/issues/694) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ❗️ Opened issue [#693](https://github.com/code0-tech/sagittarius/issues/693) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💪 Opened PR [#5](undefined) in [taucher-testing/merge-queue](https://github.com/taucher-testing/merge-queue)<br>
+5. 💪 Opened PR [#4](undefined) in [taucher-testing/merge-queue](https://github.com/taucher-testing/merge-queue)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
