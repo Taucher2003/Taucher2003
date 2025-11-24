@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#258](https://github.com/code0-tech/reticulum/issues/258) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. ❗️ Opened issue [#9](https://github.com/code0-tech/pyxis/issues/9) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-3. ❗️ Opened issue [#8](https://github.com/code0-tech/pyxis/issues/8) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-4. ❗️ Opened issue [#7](https://github.com/code0-tech/pyxis/issues/7) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-5. ❗️ Opened issue [#720](https://github.com/code0-tech/sagittarius/issues/720) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#188](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 💪 Opened PR [#187](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. ❗️ Opened issue [#258](https://github.com/code0-tech/reticulum/issues/258) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. ❗️ Opened issue [#9](https://github.com/code0-tech/pyxis/issues/9) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
+5. ❗️ Opened issue [#8](https://github.com/code0-tech/pyxis/issues/8) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
