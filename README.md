@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](undefined) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-2. ✔️ Closed issue [#720](https://github.com/code0-tech/sagittarius/issues/720) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-3. 👍 Approved [#724](https://github.com/code0-tech/sagittarius/pull/724#pullrequestreview-3506677839) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. ✔️ Closed issue [#694](https://github.com/code0-tech/sagittarius/issues/694) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 👍 Approved [#712](https://github.com/code0-tech/sagittarius/pull/712#pullrequestreview-3506579364) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ✌️ Released [0.0.42](https://github.com/code0-tech/tucana/releases/tag/0.0.42) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. ✔️ Closed issue [#158](https://github.com/code0-tech/tucana/issues/158) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. 👍 Approved [#159](https://github.com/code0-tech/tucana/pull/159#pullrequestreview-3512793896) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 💪 Opened PR [#12](undefined) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
+5. ✔️ Closed issue [#720](https://github.com/code0-tech/sagittarius/issues/720) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
