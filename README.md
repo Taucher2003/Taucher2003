@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#97](https://github.com/code0-tech/monoceros/pull/97#pullrequestreview-3519522391) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-2. ✌️ Released [0.0.44](https://github.com/code0-tech/tucana/releases/tag/0.0.44) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. 👍 Approved [#163](https://github.com/code0-tech/tucana/pull/163#pullrequestreview-3516914382) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. ❌ Closed PR [#265](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. ❌ Closed PR [#266](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. ❗️ Opened issue [#741](https://github.com/code0-tech/sagittarius/issues/741) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 👍 Approved [#97](https://github.com/code0-tech/monoceros/pull/97#pullrequestreview-3519522391) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+3. ✌️ Released [0.0.44](https://github.com/code0-tech/tucana/releases/tag/0.0.44) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 👍 Approved [#163](https://github.com/code0-tech/tucana/pull/163#pullrequestreview-3516914382) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. ❌ Closed PR [#265](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
