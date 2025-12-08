@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#763](https://github.com/code0-tech/sagittarius/issues/763) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ❗️ Opened issue [#169](https://github.com/code0-tech/tucana/issues/169) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ❗️ Opened issue [#168](https://github.com/code0-tech/tucana/issues/168) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. ❗️ Opened issue [#761](https://github.com/code0-tech/sagittarius/issues/761) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ❗️ Opened issue [#760](https://github.com/code0-tech/sagittarius/issues/760) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#31](undefined) in [devcordde/adventofcode-25](https://github.com/devcordde/adventofcode-25)<br>
+2. 💪 Opened PR [#30](undefined) in [devcordde/adventofcode-25](https://github.com/devcordde/adventofcode-25)<br>
+3. 🔱 Forked [Taucher2003/adventofcode-25](https://github.com/Taucher2003/adventofcode-25) from [devcordde/adventofcode-25](https://github.com/devcordde/adventofcode-25)<br>
+4. ❗️ Opened issue [#763](https://github.com/code0-tech/sagittarius/issues/763) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ❗️ Opened issue [#169](https://github.com/code0-tech/tucana/issues/169) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
