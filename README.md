@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#187](https://github.com/code0-tech/tucana/pull/187#pullrequestreview-3601271036) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-2. ✔️ Closed issue [#185](https://github.com/code0-tech/tucana/issues/185) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. 👍 Approved [#186](https://github.com/code0-tech/tucana/pull/186#pullrequestreview-3601260618) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 💪 Opened PR [#194](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 💪 Opened PR [#193](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 💪 Opened PR [#195](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 👍 Approved [#189](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/189#pullrequestreview-3601724348) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+3. 👍 Approved [#190](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/190#pullrequestreview-3601723413) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 👍 Approved [#187](https://github.com/code0-tech/tucana/pull/187#pullrequestreview-3601271036) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. ✔️ Closed issue [#185](https://github.com/code0-tech/tucana/issues/185) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
