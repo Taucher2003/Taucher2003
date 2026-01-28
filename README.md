@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#580](https://github.com/code0-tech/pictor/pull/580#pullrequestreview-3718205468) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-2. 💪 Opened PR [#106](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-3. ❗️ Opened issue [#15](https://github.com/code0-tech/pyxis/issues/15) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-4. 💪 Opened PR [#208](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. 💪 Opened PR [#14](undefined) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
+1. ❗️ Opened issue [#368](https://github.com/code0-tech/reticulum/issues/368) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+2. 👍 Approved [#580](https://github.com/code0-tech/pictor/pull/580#pullrequestreview-3718205468) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
+3. 💪 Opened PR [#106](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+4. ❗️ Opened issue [#15](https://github.com/code0-tech/pyxis/issues/15) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
+5. 💪 Opened PR [#208](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
