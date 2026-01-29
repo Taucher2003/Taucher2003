@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#209](https://github.com/code0-tech/mensa/pull/209#pullrequestreview-3723936139) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. ❗️ Opened issue [#204](https://github.com/code0-tech/tucana/issues/204) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. ❗️ Opened issue [#368](https://github.com/code0-tech/reticulum/issues/368) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. 👍 Approved [#580](https://github.com/code0-tech/pictor/pull/580#pullrequestreview-3718205468) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-5. 💪 Opened PR [#106](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+1. 👍 Approved [#205](https://github.com/code0-tech/mensa/pull/205#pullrequestreview-3724346025) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 👍 Approved [#209](https://github.com/code0-tech/mensa/pull/209#pullrequestreview-3723936139) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. ❗️ Opened issue [#204](https://github.com/code0-tech/tucana/issues/204) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. ❗️ Opened issue [#368](https://github.com/code0-tech/reticulum/issues/368) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. 👍 Approved [#580](https://github.com/code0-tech/pictor/pull/580#pullrequestreview-3718205468) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
