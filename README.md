@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#205](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/205) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 💪 Opened PR [#207](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-3. 💪 Opened PR [#206](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 👍 Approved [#218](https://github.com/code0-tech/mensa/pull/218#pullrequestreview-3823734265) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. ❗️ Opened issue [#205](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/205) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 👍 Approved [#204](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/204#pullrequestreview-3828280555) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+2. 👍 Approved [#206](https://github.com/code0-tech/tucana/pull/206#pullrequestreview-3828270415) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+3. 👍 Approved [#196](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/196#pullrequestreview-3828198206) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 💪 Opened PR [#208](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. ✔️ Closed issue [#205](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/205) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
