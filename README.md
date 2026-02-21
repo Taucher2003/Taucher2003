@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#425](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 🔴 Requested changes in [#212](https://github.com/code0-tech/tucana/pull/212#pullrequestreview-3831575255) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-3. 👍 Approved [#420](https://github.com/code0-tech/reticulum/pull/420#pullrequestreview-3828392533) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. ✌️ Released [1.14.3](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.14.3) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 👍 Approved [#204](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/204#pullrequestreview-3828280555) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 👍 Approved [#212](https://github.com/code0-tech/tucana/pull/212#pullrequestreview-3835676446) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. 💪 Opened PR [#425](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+3. 🔴 Requested changes in [#212](https://github.com/code0-tech/tucana/pull/212#pullrequestreview-3831575255) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+4. 👍 Approved [#420](https://github.com/code0-tech/reticulum/pull/420#pullrequestreview-3828392533) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. ✌️ Released [1.14.3](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.14.3) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
