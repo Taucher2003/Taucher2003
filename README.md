@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#439](https://github.com/code0-tech/reticulum/issues/439) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 👍 Approved [#224](https://github.com/code0-tech/mensa/pull/224#pullrequestreview-3870629194) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. ✔️ Closed issue [#17](https://github.com/code0-tech/pyxis/issues/17) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-4. ✔️ Closed issue [#427](https://github.com/code0-tech/reticulum/issues/427) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. 💪 Opened PR [#865](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#71](https://github.com/code0-tech/sculptor/issues/71) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+2. ❗️ Opened issue [#70](https://github.com/code0-tech/sculptor/issues/70) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+3. ❗️ Opened issue [#439](https://github.com/code0-tech/reticulum/issues/439) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. 👍 Approved [#224](https://github.com/code0-tech/mensa/pull/224#pullrequestreview-3870629194) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+5. ✔️ Closed issue [#17](https://github.com/code0-tech/pyxis/issues/17) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
