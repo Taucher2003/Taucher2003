@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#220](https://github.com/code0-tech/mensa/pull/220#pullrequestreview-3905567254) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. 👍 Approved [#458](https://github.com/code0-tech/reticulum/pull/458#pullrequestreview-3905045879) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-3. ✔️ Closed issue [#22](https://github.com/code0-tech/pyxis/issues/22) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-4. 💪 Opened PR [#23](undefined) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
-5. ✔️ Closed issue [#20](https://github.com/code0-tech/pyxis/issues/20) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
+1. 👍 Approved [#225](https://github.com/code0-tech/mensa/pull/225#pullrequestreview-3905721373) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. ✔️ Closed issue [#19](https://github.com/code0-tech/sculptor/issues/19) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+3. 👍 Approved [#220](https://github.com/code0-tech/mensa/pull/220#pullrequestreview-3905567254) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. 👍 Approved [#458](https://github.com/code0-tech/reticulum/pull/458#pullrequestreview-3905045879) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. ✔️ Closed issue [#22](https://github.com/code0-tech/pyxis/issues/22) in [code0-tech/pyxis](https://github.com/code0-tech/pyxis)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
