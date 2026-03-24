@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/code0-tech/triangulum/issues/2) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-2. 👍 Approved [#248](https://github.com/code0-tech/mensa/pull/248#pullrequestreview-3993942988) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. ✌️ Released [1.14.4](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.14.4) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-4. 💪 Opened PR [#212](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 💪 Opened PR [#211](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 👍 Approved [#245](https://github.com/code0-tech/tucana/pull/245#pullrequestreview-3998585044) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+2. ✔️ Closed issue [#2](https://github.com/code0-tech/triangulum/issues/2) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+3. 👍 Approved [#248](https://github.com/code0-tech/mensa/pull/248#pullrequestreview-3993942988) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. ✌️ Released [1.14.4](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.14.4) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+5. 💪 Opened PR [#212](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
