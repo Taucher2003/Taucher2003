@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#251](https://github.com/code0-tech/mensa/pull/251#pullrequestreview-4002337801) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. ✌️ Released [v0.5.2](https://github.com/code0-tech/triangulum/releases/tag/v0.5.2) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-3. ✌️ Released [v0.5.1](https://github.com/code0-tech/triangulum/releases/tag/v0.5.1) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-4. 💪 Opened PR [#28](undefined) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-5. ✌️ Released [v0.4.0](https://github.com/code0-tech/triangulum/releases/tag/v0.4.0) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+1. 💪 Opened PR [#262](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 👍 Approved [#251](https://github.com/code0-tech/mensa/pull/251#pullrequestreview-4002337801) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. ✌️ Released [v0.5.2](https://github.com/code0-tech/triangulum/releases/tag/v0.5.2) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+4. ✌️ Released [v0.5.1](https://github.com/code0-tech/triangulum/releases/tag/v0.5.1) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+5. 💪 Opened PR [#28](undefined) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
