@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#253](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. ❌ Closed PR [#255](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. ❌ Closed PR [#259](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. ❌ Closed PR [#261](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. ✔️ Closed issue [#265](https://github.com/code0-tech/mensa/issues/265) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+1. 👍 Approved [#268](https://github.com/code0-tech/mensa/pull/268#pullrequestreview-4046614185) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. ❌ Closed PR [#253](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. ❌ Closed PR [#255](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. ❌ Closed PR [#259](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+5. ❌ Closed PR [#261](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
