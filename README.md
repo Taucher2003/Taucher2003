@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.10.0](https://github.com/code0-tech/triangulum/releases/tag/v0.10.0) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-2. 👍 Approved [#30](https://github.com/code0-tech/triangulum/pull/30#pullrequestreview-4059854923) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-3. 💪 Opened PR [#260](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
-4. 💪 Opened PR [#885](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ✔️ Closed issue [#880](https://github.com/code0-tech/sagittarius/issues/880) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❌ Closed PR [#452](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+2. ✌️ Released [v0.10.0](https://github.com/code0-tech/triangulum/releases/tag/v0.10.0) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+3. 👍 Approved [#30](https://github.com/code0-tech/triangulum/pull/30#pullrequestreview-4059854923) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+4. 💪 Opened PR [#260](undefined) in [code0-tech/tucana](https://github.com/code0-tech/tucana)<br>
+5. 💪 Opened PR [#885](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
