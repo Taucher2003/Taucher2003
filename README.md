@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#113](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-2. 💪 Opened PR [#112](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-3. ✔️ Closed issue [#604](https://github.com/code0-tech/reticulum/issues/604) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. ❗️ Opened issue [#608](https://github.com/code0-tech/reticulum/issues/608) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. 💪 Opened PR [#607](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. 💪 Opened PR [#144](undefined) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+2. 💪 Opened PR [#113](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+3. 💪 Opened PR [#112](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+4. ✔️ Closed issue [#604](https://github.com/code0-tech/reticulum/issues/604) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. ❗️ Opened issue [#608](https://github.com/code0-tech/reticulum/issues/608) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
