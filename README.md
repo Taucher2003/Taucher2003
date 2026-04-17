@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#927](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💪 Opened PR [#144](undefined) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-3. 💪 Opened PR [#113](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-4. 💪 Opened PR [#112](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-5. ✔️ Closed issue [#604](https://github.com/code0-tech/reticulum/issues/604) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. 💪 Opened PR [#305](undefined) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
+2. 💪 Opened PR [#17](undefined) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+3. 💪 Opened PR [#927](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 💪 Opened PR [#144](undefined) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+5. 💪 Opened PR [#113](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
