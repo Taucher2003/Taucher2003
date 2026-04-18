@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#120](https://github.com/code0-tech/telescopium/issues/120) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-2. 💪 Opened PR [#146](undefined) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-3. 💪 Opened PR [#204](undefined) in [code0-tech/draco](https://github.com/code0-tech/draco)<br>
-4. ✔️ Closed issue [#121](https://github.com/code0-tech/telescopium/issues/121) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-5. 💪 Opened PR [#145](undefined) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+1. 💪 Opened PR [#288](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. ✔️ Closed issue [#120](https://github.com/code0-tech/telescopium/issues/120) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+3. 💪 Opened PR [#146](undefined) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+4. 💪 Opened PR [#204](undefined) in [code0-tech/draco](https://github.com/code0-tech/draco)<br>
+5. ✔️ Closed issue [#121](https://github.com/code0-tech/telescopium/issues/121) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
