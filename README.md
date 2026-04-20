@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#149](https://github.com/code0-tech/telescopium/pull/149#pullrequestreview-4139314549) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-2. 👍 Approved [#60](https://github.com/code0-tech/sculptor/pull/60#pullrequestreview-4139311266) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
-3. 👍 Approved [#249](https://github.com/code0-tech/mensa/pull/249#pullrequestreview-4139307936) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. ❗️ Opened issue [#928](https://github.com/code0-tech/sagittarius/issues/928) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ✌️ Released [v0.13.1](https://github.com/code0-tech/triangulum/releases/tag/v0.13.1) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+1. 👍 Approved [#256](https://github.com/code0-tech/mensa/pull/256#pullrequestreview-4139813196) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 👍 Approved [#149](https://github.com/code0-tech/telescopium/pull/149#pullrequestreview-4139314549) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+3. 👍 Approved [#60](https://github.com/code0-tech/sculptor/pull/60#pullrequestreview-4139311266) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+4. 👍 Approved [#249](https://github.com/code0-tech/mensa/pull/249#pullrequestreview-4139307936) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+5. ❗️ Opened issue [#928](https://github.com/code0-tech/sagittarius/issues/928) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
