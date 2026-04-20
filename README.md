@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#928](https://github.com/code0-tech/sagittarius/issues/928) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ✌️ Released [v0.13.1](https://github.com/code0-tech/triangulum/releases/tag/v0.13.1) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-3. 👍 Approved [#562](https://github.com/code0-tech/pictor/pull/562#pullrequestreview-4136063285) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-4. 👍 Approved [#518](https://github.com/code0-tech/pictor/pull/518#pullrequestreview-4136061950) in [code0-tech/pictor](https://github.com/code0-tech/pictor)<br>
-5. ✔️ Closed issue [#608](https://github.com/code0-tech/reticulum/issues/608) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. 👍 Approved [#149](https://github.com/code0-tech/telescopium/pull/149#pullrequestreview-4139314549) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+2. 👍 Approved [#60](https://github.com/code0-tech/sculptor/pull/60#pullrequestreview-4139311266) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+3. 👍 Approved [#249](https://github.com/code0-tech/mensa/pull/249#pullrequestreview-4139307936) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. ❗️ Opened issue [#928](https://github.com/code0-tech/sagittarius/issues/928) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. ✌️ Released [v0.13.1](https://github.com/code0-tech/triangulum/releases/tag/v0.13.1) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
