@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#626](https://github.com/code0-tech/reticulum/pull/626#pullrequestreview-4157169103) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 👍 Approved [#622](https://github.com/code0-tech/reticulum/pull/622#pullrequestreview-4157164809) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-3. 👍 Approved [#120](https://github.com/code0-tech/monoceros/pull/120#pullrequestreview-4149452768) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-4. 👍 Approved [#119](https://github.com/code0-tech/monoceros/pull/119#pullrequestreview-4149436265) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-5. 👍 Approved [#150](https://github.com/code0-tech/telescopium/pull/150#pullrequestreview-4149431488) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+1. 👍 Approved [#151](https://github.com/code0-tech/telescopium/pull/151#pullrequestreview-4157565932) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+2. 👍 Approved [#626](https://github.com/code0-tech/reticulum/pull/626#pullrequestreview-4157169103) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+3. 👍 Approved [#622](https://github.com/code0-tech/reticulum/pull/622#pullrequestreview-4157164809) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. 👍 Approved [#120](https://github.com/code0-tech/monoceros/pull/120#pullrequestreview-4149452768) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+5. 👍 Approved [#119](https://github.com/code0-tech/monoceros/pull/119#pullrequestreview-4149436265) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
