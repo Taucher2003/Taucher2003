@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#645](https://github.com/code0-tech/reticulum/pull/645#pullrequestreview-4175789735) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-2. 💪 Opened PR [#215](undefined) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
-3. 💪 Opened PR [#212](undefined) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
-4. 👍 Approved [#640](https://github.com/code0-tech/reticulum/pull/640#pullrequestreview-4173538889) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. 👍 Approved [#930](https://github.com/code0-tech/sagittarius/pull/930#pullrequestreview-4164466448) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#154](https://github.com/code0-tech/telescopium/issues/154) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+2. 👍 Approved [#645](https://github.com/code0-tech/reticulum/pull/645#pullrequestreview-4175789735) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+3. 💪 Opened PR [#215](undefined) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+4. 💪 Opened PR [#212](undefined) in [code0-tech/cygnus](https://github.com/code0-tech/cygnus)<br>
+5. 👍 Approved [#640](https://github.com/code0-tech/reticulum/pull/640#pullrequestreview-4173538889) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
