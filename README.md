@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](undefined) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
-2. 💪 Opened PR [#4](undefined) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
-3. 💪 Opened PR [#698](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. ❗️ Opened issue [#3](https://github.com/code0-tech/velorum/issues/3) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
-5. ❗️ Opened issue [#2](https://github.com/code0-tech/velorum/issues/2) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
+1. ❗️ Opened issue [#985](https://github.com/code0-tech/sagittarius/issues/985) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ❗️ Opened issue [#984](https://github.com/code0-tech/sagittarius/issues/984) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. 💪 Opened PR [#5](undefined) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
+4. 💪 Opened PR [#4](undefined) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
+5. 💪 Opened PR [#698](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
