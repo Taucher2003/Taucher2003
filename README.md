@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#99](https://github.com/code0-tech/triangulum/issues/99) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-2. 💪 Opened PR [#107](undefined) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
-3. 💪 Opened PR [#783](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. 👍 Approved [#1045](https://github.com/code0-tech/sagittarius/pull/1045#pullrequestreview-4500211980) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. ✔️ Closed issue [#694](https://github.com/code0-tech/reticulum/issues/694) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. ✔️ Closed issue [#3](https://github.com/code0-tech/velorum/issues/3) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
+2. 🔴 Requested changes in [#7](https://github.com/code0-tech/velorum/pull/7#pullrequestreview-4524527298) in [code0-tech/velorum](https://github.com/code0-tech/velorum)<br>
+3. ✔️ Closed issue [#99](https://github.com/code0-tech/triangulum/issues/99) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+4. 💪 Opened PR [#107](undefined) in [code0-tech/triangulum](https://github.com/code0-tech/triangulum)<br>
+5. 💪 Opened PR [#783](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
