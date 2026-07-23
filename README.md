@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#235](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/235) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-2. 💪 Opened PR [#942](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-3. 💪 Opened PR [#941](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-4. ❗️ Opened issue [#310](https://github.com/code0-tech/sculptor/issues/310) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
-5. ❗️ Opened issue [#940](https://github.com/code0-tech/reticulum/issues/940) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+1. ❗️ Opened issue [#45](https://github.com/code0-tech/centaurus/issues/45) in [code0-tech/centaurus](https://github.com/code0-tech/centaurus)<br>
+2. ❗️ Opened issue [#385](https://github.com/code0-tech/aquila/issues/385) in [code0-tech/aquila](https://github.com/code0-tech/aquila)<br>
+3. ❗️ Opened issue [#235](https://github.com/Taucher2003/GitLab-Pipeline-Action/issues/235) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+4. 💪 Opened PR [#942](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. 💪 Opened PR [#941](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
