@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#986](https://github.com/code0-tech/sagittarius/issues/986) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ✌️ Released [0.0.8](https://github.com/code0-tech/code0-zero_track/releases/tag/0.0.8) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
-3. ✔️ Closed issue [#12](https://github.com/code0-tech/code0-zero_track/issues/12) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
-4. ❗️ Opened issue [#1199](https://github.com/code0-tech/sagittarius/issues/1199) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 💪 Opened PR [#1198](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#1202](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. ✔️ Closed issue [#986](https://github.com/code0-tech/sagittarius/issues/986) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+3. ✌️ Released [0.0.8](https://github.com/code0-tech/code0-zero_track/releases/tag/0.0.8) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
+4. ✔️ Closed issue [#12](https://github.com/code0-tech/code0-zero_track/issues/12) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
+5. ❗️ Opened issue [#1199](https://github.com/code0-tech/sagittarius/issues/1199) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
