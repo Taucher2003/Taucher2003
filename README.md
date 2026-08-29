@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1256](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. ❌ Closed PR [#395](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. 👍 Approved [#394](https://github.com/code0-tech/mensa/pull/394#pullrequestreview-5052683219) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. ❗️ Opened issue [#1082](https://github.com/code0-tech/reticulum/issues/1082) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-5. ❗️ Opened issue [#1254](https://github.com/code0-tech/sagittarius/issues/1254) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ✌️ Released [0.4.0](https://github.com/code0-tech/code0-license/releases/tag/0.4.0) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+2. ✌️ Released [0.4.0](https://github.com/code0-tech/code0-license/releases/tag/0.4.0) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+3. ✔️ Closed issue [#6](https://github.com/code0-tech/code0-license/issues/6) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+4. 💪 Opened PR [#7](undefined) in [code0-tech/code0-license](https://github.com/code0-tech/code0-license)<br>
+5. 👍 Approved [#393](https://github.com/code0-tech/mensa/pull/393#pullrequestreview-5052789633) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
