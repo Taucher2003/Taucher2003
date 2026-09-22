@@ -86,7 +86,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby           33 mins               ███████████░░░░░░░░░░░░░░   44.62 %
+Vue            18 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+YAML           15 mins               █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+JavaScript     4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+GraphQL        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
