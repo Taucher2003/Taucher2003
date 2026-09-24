@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#422](https://github.com/code0-tech/mensa/pull/422#pullrequestreview-5309150456) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. 👍 Approved [#423](https://github.com/code0-tech/mensa/pull/423#pullrequestreview-5308938528) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. ❗️ Opened issue [#1302](https://github.com/code0-tech/sagittarius/issues/1302) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-4. ✌️ Released [1.16.5](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.16.5) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 👍 Approved [#246](https://github.com/Taucher2003/GitLab-Pipeline-Action/pull/246#pullrequestreview-5295564493) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. 👍 Approved [#425](https://github.com/code0-tech/mensa/pull/425#pullrequestreview-5309832831) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 👍 Approved [#428](https://github.com/code0-tech/mensa/pull/428#pullrequestreview-5309517768) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. 👍 Approved [#422](https://github.com/code0-tech/mensa/pull/422#pullrequestreview-5309150456) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. 👍 Approved [#423](https://github.com/code0-tech/mensa/pull/423#pullrequestreview-5308938528) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+5. ❗️ Opened issue [#1302](https://github.com/code0-tech/sagittarius/issues/1302) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
