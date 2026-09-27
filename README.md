@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#174](https://github.com/code0-tech/telescopium/pull/174#pullrequestreview-5327855626) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
-2. 👍 Approved [#172](https://github.com/code0-tech/monoceros/pull/172#pullrequestreview-5327852365) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-3. 👍 Approved [#173](https://github.com/code0-tech/monoceros/pull/173#pullrequestreview-5327850005) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-4. 👍 Approved [#171](https://github.com/code0-tech/monoceros/pull/171#pullrequestreview-5327847105) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-5. 👍 Approved [#163](https://github.com/code0-tech/monoceros/pull/163#pullrequestreview-5327818934) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+1. 👍 Approved [#392](https://github.com/code0-tech/mensa/pull/392#pullrequestreview-5330683868) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. 👍 Approved [#434](https://github.com/code0-tech/mensa/pull/434#pullrequestreview-5330594346) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. 👍 Approved [#174](https://github.com/code0-tech/telescopium/pull/174#pullrequestreview-5327855626) in [code0-tech/telescopium](https://github.com/code0-tech/telescopium)<br>
+4. 👍 Approved [#172](https://github.com/code0-tech/monoceros/pull/172#pullrequestreview-5327852365) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
+5. 👍 Approved [#173](https://github.com/code0-tech/monoceros/pull/173#pullrequestreview-5327850005) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
