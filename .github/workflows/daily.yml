@@ -21,7 +21,7 @@ jobs:
       - name: Wait 30 minutes
         run: sleep 1800
         if: steps.first-attempt.outcome == 'failure'
-      - uses: athul/waka-readme@master
+      - uses: Taucher2003/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN}}
