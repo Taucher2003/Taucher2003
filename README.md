@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#463](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. 💪 Opened PR [#462](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. ✔️ Closed issue [#17](https://github.com/code0-tech/code0-zero_track/issues/17) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
-4. ✌️ Released [1.16.6](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.16.6) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
-5. 💪 Opened PR [#251](undefined) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
+1. ✔️ Closed issue [#1235](https://github.com/code0-tech/sagittarius/issues/1235) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+2. 💪 Opened PR [#463](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. 💪 Opened PR [#462](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. ✔️ Closed issue [#17](https://github.com/code0-tech/code0-zero_track/issues/17) in [code0-tech/code0-zero_track](https://github.com/code0-tech/code0-zero_track)<br>
+5. ✌️ Released [1.16.6](https://github.com/Taucher2003/GitLab-Pipeline-Action/releases/tag/1.16.6) in [Taucher2003/GitLab-Pipeline-Action](https://github.com/Taucher2003/GitLab-Pipeline-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
