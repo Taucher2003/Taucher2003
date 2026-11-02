@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#480](https://github.com/code0-tech/mensa/issues/480) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-2. 💪 Opened PR [#479](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. 💪 Opened PR [#478](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. ✔️ Closed issue [#467](https://github.com/code0-tech/mensa/issues/467) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. 💪 Opened PR [#475](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+1. ✔️ Closed issue [#445](https://github.com/code0-tech/mensa/issues/445) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. ❗️ Opened issue [#480](https://github.com/code0-tech/mensa/issues/480) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. 💪 Opened PR [#479](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. 💪 Opened PR [#478](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+5. ✔️ Closed issue [#467](https://github.com/code0-tech/mensa/issues/467) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
