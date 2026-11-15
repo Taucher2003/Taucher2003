@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1397](https://github.com/code0-tech/sagittarius/issues/1397) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💪 Opened PR [#1270](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
-3. 💪 Opened PR [#182](undefined) in [code0-tech/monoceros](https://github.com/code0-tech/monoceros)<br>
-4. 👍 Approved [#1390](https://github.com/code0-tech/sagittarius/pull/1390#pullrequestreview-5906563918) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-5. 👍 Approved [#1391](https://github.com/code0-tech/sagittarius/pull/1391#pullrequestreview-5906452790) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. ❗️ Opened issue [#1279](https://github.com/code0-tech/reticulum/issues/1279) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+2. 💪 Opened PR [#1278](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+3. ❌ Closed PR [#1275](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+4. 👍 Approved [#1180](https://github.com/code0-tech/reticulum/pull/1180#pullrequestreview-5912470604) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
+5. 💪 Opened PR [#1275](undefined) in [code0-tech/reticulum](https://github.com/code0-tech/reticulum)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
