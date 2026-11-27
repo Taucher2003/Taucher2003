@@ -74,11 +74,11 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
  ⚡ **Recent Github Activity**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1429](https://github.com/code0-tech/sagittarius/issues/1429) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
-2. 💪 Opened PR [#555](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-3. 💪 Opened PR [#554](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-4. ❗️ Opened issue [#553](https://github.com/code0-tech/mensa/issues/553) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
-5. 💪 Opened PR [#1428](undefined) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+1. 💪 Opened PR [#561](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+2. ✔️ Closed issue [#533](https://github.com/code0-tech/mensa/issues/533) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+3. 💪 Opened PR [#559](undefined) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
+4. ❗️ Opened issue [#443](https://github.com/code0-tech/sculptor/issues/443) in [code0-tech/sculptor](https://github.com/code0-tech/sculptor)<br>
+5. 👍 Approved [#557](https://github.com/code0-tech/mensa/pull/557#pullrequestreview-6091511217) in [code0-tech/mensa](https://github.com/code0-tech/mensa)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ⚡ **My Week**
